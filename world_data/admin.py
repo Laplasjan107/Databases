@@ -76,7 +76,6 @@ class WorldCitiesAdmin(admin.ModelAdmin):
         return new_urls + urls
 
     def upload_csv(self, request):
-        WorldCities.objects.all().delete()
         if request.method == "POST":
             csv_file = request.FILES["csv_upload"]
 
@@ -133,7 +132,6 @@ class InternetPricesAdmin(admin.ModelAdmin):
         return new_urls + urls
 
     def upload_csv(self, request):
-        WorldCities.objects.all().delete()
         if request.method == "POST":
             csv_file = request.FILES["csv_upload"]
 

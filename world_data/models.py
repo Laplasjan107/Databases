@@ -43,3 +43,7 @@ class InternetPrices(models.Model):
     city = models.CharField(max_length=200)
     country = models.CharField(max_length=200)
     price_usd = models.FloatField(default=None, blank=True, null=True)
+
+    def __str__(self):
+        return self.city
+
