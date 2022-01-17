@@ -39,6 +39,8 @@ class WorldCities(models.Model):
         return self.city
 
 
+# https://www.kaggle.com/cityapiio/world-cities-average-internet-prices-2020
+# CC0: Public Domain
 class InternetPrices(models.Model):
     city = models.CharField(max_length=200)
     country = models.CharField(max_length=200)
