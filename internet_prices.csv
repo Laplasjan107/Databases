@@ -1,0 +1,520 @@
+"City", "Region", "Country", "InternetPrice"
+"New York City", "New York", "United States of America", 66.4413953488372
+"Washington, D.C.", "District of Columbia", "United States of America", 60.59045454545455
+"San Francisco", "California", "United States of America", 68.98882352941176
+"Berlin", "", "Germany", 35.82708386557682
+"Los Angeles", "California", "United States of America", 66.69022222222222
+"Geneva", "Canton of Geneva", "Switzerland", 54.356531428772996
+"Zurich", "Canton of Zurich", "Switzerland", 60.538327762161934
+"Basel", "", "Switzerland", 62.91479382394151
+"London", "England", "United Kingdom", 38.72371779676659
+"Cairo", "Cairo Governorate", "Egypt", 16.991410980552406
+"Alexandria", "Alexandria Governorate", "Egypt", 13.720763796502412
+"Alexandria", "Virginia", "United States of America", 67.49833333333333
+"Paris", "Ile-de-France", "France", 29.123415659818818
+"Boston", "Massachusetts", "United States of America", 66.45192307692308
+"Toronto", "Ontario", "Canada", 52.46968834837014
+"Sao Paulo", "Sao Paulo", "Brazil", 21.516280067638693
+"Vilnius", "", "Lithuania", 12.594998296543876
+"Brussels", "", "Belgium", 48.85423091739463
+"Poznan", "Greater Poland Voivodeship", "Poland", 14.30358121523226
+"Tashkent", "", "Uzbekistan", 33.55571428571428
+"Warsaw", "Masovian Voivodeship", "Poland", 13.716890227549156
+"Singapore", "", "Singapore", 31.78816963297701
+"Montreal", "Quebec", "Canada", 46.05455708628277
+"Cambridge", "England", "United Kingdom", 45.327270356895646
+"Cologne", "North Rhine-Westphalia", "Germany", 35.85051448828401
+"Skopje", "Greater Skopje", "North Macedonia", 20.380344087952167
+"Gdynia", "Pomeranian Voivodeship", "Poland", 12.54700106599321
+"Szczecin", "West Pomeranian Voivodeship", "Poland", 13.958538685917446
+"Ljubljana", "Ljubljana City Municipality", "Slovenia", 38.47806772407128
+"Plovdiv", "Plovdiv region", "Bulgaria", 13.35873719857262
+"Sofia", "Sofia City Province", "Bulgaria", 12.020694941448873
+"Milan", "Lombardy", "Italy", 30.946914835782692
+"Trieste", "Friuli-Venezia Giulia", "Italy", 31.117777429537266
+"Lodz", "Lodz Voivodeship", "Poland", 12.212414370900058
+"Oslo", "", "Norway", 46.958183945958744
+"Bonn", "North Rhine-Westphalia", "Germany", 40.558479123835056
+"Katowice", "Silesian Voivodeship", "Poland", 12.496813061729238
+"Lisbon", "Lisbon", "Portugal", 36.61054707599415
+"Dubai", "Emirate of Dubai", "United Arab Emirates", 96.85059348796689
+"Bergamo", "Lombardy", "Italy", 33.40110045492299
+"Lille", "", "France", 29.782647905639664
+"Moscow", "", "Russia", 6.64898899462998
+"Saint Petersburg", "", "Russia", 7.296156484417553
+"Lausanne", "Canton of Vaud", "Switzerland", 63.09272027706351
+"Novosibirsk", "Novosibirsk Oblast", "Russia", 7.792680487270608
+"Yekaterinburg", "Sverdlovsk Oblast", "Russia", 7.192246680324591
+"Samara", "Samara Oblast", "Russia", 7.2858394799684545
+"Omsk", "Omsk Oblast", "Russia", 7.840196831705185
+"Kazan", "Republic of Tatarstan", "Russia", 5.718731806655547
+"Chelyabinsk", "Chelyabinsk Oblast", "Russia", 6.9891539385518815
+"Ufa", "Bashkortostan", "Russia", 5.9751803126480425
+"Volgograd", "Volgograd Oblast", "Russia", 5.701961332149225
+"Perm", "Perm Krai", "Russia", 8.374755706594176
+"Krasnoyarsk", "Krasnoyarsk Krai", "Russia", 4.704118099023111
+"Beijing", "", "People's Republic of China", 13.59057346615667
+"Vladivostok", "Primorsky Krai", "Russia", 8.891495952320199
+"San Antonio", "Texas", "United States of America", 66.89473684210526
+"Tomsk", "Tomsk Oblast", "Russia", 6.323993477474596
+"Tbilisi", "", "Georgia", 15.651098901098901
+"Maribor", "Maribor City Municipality", "Slovenia", 40.456308785575175
+"Aachen", "North Rhine-Westphalia", "Germany", 30.339332913221714
+"Stuttgart", "Baden-Wurttemberg", "Germany", 32.80159352368078
+"Karlsruhe", "Baden-Wurttemberg", "Germany", 37.600979567680895
+"Hamburg", "", "Germany", 34.999899796698635
+"Ahmedabad", "Gujarat", "India", 9.45717808862854
+"Prague", "", "Czech Republic", 20.905554925318796
+"Mumbai", "Maharashtra", "India", 10.739385854845876
+"Jerusalem", "Jerusalem District", "Israel", 24.55529223653028
+"Grenoble", "", "France", 20.78290694972986
+"Dortmund", "North Rhine-Westphalia", "Germany", 36.05092109101355
+"Ghent", "Flemish Region", "Belgium", 49.87897667935166
+"Chicago", "Illinois", "United States of America", 65.16558139534884
+"Montevideo", "Montevideo Department", "Uruguay", 31.760325584263295
+"Tolyatti", "Samara Oblast", "Russia", 7.190973940419535
+"Pittsburgh", "Pennsylvania", "United States of America", 71.098
+"Philadelphia", "Pennsylvania", "United States of America", 58.470588235294116
+"Kolkata", "West Bengal", "India", 9.266107884858572
+"Chennai", "Tamil Nadu", "India", 10.97082485414188
+"Delhi", "", "India", 10.774375190544655
+"Dhaka", "Dhaka Division", "Bangladesh", 28.589150511358003
+"Hyderabad", "Telangana", "India", 10.066575453635501
+"Islamabad", "Islamabad Capital Territory", "Pakistan", 20.612348835806866
+"Zagreb", "", "Croatia", 26.12267936763915
+"Genoa", "Liguria", "Italy", 33.75366762639162
+"Manila", "Metro Manila", "Philippines", 52.99891615154417
+"Quezon City", "Metro Manila", "Philippines", 51.896393827360775
+"Buenos Aires", "", "Argentina", 30.602424841580074
+"Mexico City", "", "Mexico", 25.450780403583355
+"Tokyo", "", "Japan", 41.909047057410746
+"La Paz", "La Paz Department", "Bolivia", 49.686603671959666
+"Barcelona", "Catalonia", "Spain", 45.78888164066584
+"Abu Dhabi", "Emirate of Abu Dhabi", "United Arab Emirates", 101.02392493767861
+"Athens", "Attica Region", "Greece", 36.25370576562013
+"Caracas", "Capital District", "Venezuela", 9.1125
+"Pune", "Maharashtra", "India", 12.40140415174281
+"Guatemala City", "Guatemala Department", "Guatemala", 67.02751365557573
+"Valenzuela", "Metro Manila", "Philippines", 41.26206331257217
+"Osijek", "Osijek-Baranja County", "Croatia", 23.05038618183533
+"Rijeka", "Primorje-Gorski Kotar County", "Croatia", 24.712532834718626
+"Split", "Split-Dalmatia County", "Croatia", 28.85180753410745
+"Hanover", "Lower Saxony", "Germany", 42.149007716926626
+"Düsseldorf", "North Rhine-Westphalia", "Germany", 36.37008716202725
+"Dubrovnik", "Dubrovnik-Neretva County", "Croatia", 54.8858159060263
+"Munich", "Bavaria", "Germany", 40.36037371141042
+"Dresden", "Saxony", "Germany", 48.61715732883235
+"Innsbruck", "Tyrol", "Austria", 36.798450827195595
+"Vienna", "", "Austria", 37.70275733169338
+"Stockholm", "Stockholm County", "Sweden", 28.35411523947739
+"Helsinki", "Uusimaa", "Finland", 24.026524927241265
+"Dublin", "", "Ireland", 57.99371699184355
+"Reykjavik", "", "Iceland", 67.09430067094301
+"Tallinn", "Harju County", "Estonia", 25.747395299397468
+"Riga", "", "Latvia", 17.501034720415376
+"Bratislava", "Bratislava Region", "Slovakia", 16.88611189665551
+"Budapest", "", "Hungary", 15.103968066776282
+"Gdansk", "Pomeranian Voivodeship", "Poland", 14.349064094096486
+"Frankfurt", "Hesse", "Germany", 35.33426239177897
+"Wroclaw", "Lower Silesian Voivodeship", "Poland", 13.778546252443471
+"Kochi", "Kerala", "India", 10.958722292149202
+"Kaliningrad", "Kaliningrad Oblast", "Russia", 6.200882948712283
+"Luxembourg", "", "Luxembourg", 60.29326851350201
+"Phnom Penh", "", "Cambodia", 30.142857142857142
+"Ho Chi Minh City", "", "Vietnam", 11.212581181879916
+"Hanoi", "", "Vietnam", 9.935254314905492
+"Bangkok", "", "Thailand", 20.339562434762584
+"Kuala Lumpur", "", "Malaysia", 28.245213968215616
+"Taipei", "", "Taiwan", 20.121383091930575
+"Odessa", "Odessa Oblast", "Ukraine", 6.336619598242329
+"Concepcion", "Biobio Region", "Chile", 35.0543770814593
+"Bologna", "Emilia-Romagna", "Italy", 32.80073708520758
+"Cagliari", "Sardinia", "Italy", 30.246552078624706
+"Catania", "Sicily", "Italy", 33.12275795113196
+"Ottawa", "Ontario", "Canada", 48.032879554301964
+"Yerevan", "", "Armenia", 17.68519435812876
+"Dar es Salaam", "Dar es Salaam Region", "Tanzania", 72.66562965559548
+"Verona", "Veneto", "Italy", 33.08299473630468
+"Florence", "Tuscany", "Italy", 35.02054774970713
+"Leipzig", "Saxony", "Germany", 34.19636475146877
+"Nuremberg", "Bavaria", "Germany", 39.16734497891378
+"Edmonton", "", "Canada", 62.27307635848627
+"Mannheim", "Baden-Wurttemberg", "Germany", 34.066895723991124
+"Regina", "Saskatchewan", "Canada", 49.53495419473647
+"Victoria", "British Columbia", "Canada", 59.57722957245091
+"Winnipeg", "Manitoba", "Canada", 62.10080654560712
+"Fredericton", "New Brunswick", "Canada", 56.45527867782466
+"Halifax", "Nova Scotia", "Canada", 73.14828507074756
+"Quebec City", "Quebec", "Canada", 52.66731159234481
+"Birmingham", "England", "United Kingdom", 34.32722693929226
+"Minsk", "", "Belarus", 12.040669213042294
+"Nassau", "", "The Bahamas", 51.2475
+"Naples", "Campania", "Italy", 32.009387935967865
+"Madrid", "Community of Madrid", "Spain", 46.86378890359093
+"Bogota", "", "Colombia", 28.280402350081186
+"Brasilia", "Federal District", "Brazil", 21.22371283837839
+"Lima", "Lima region", "Peru", 32.581509355539566
+"Santiago", "Santiago Metropolitan Region", "Chile", 31.645816329026207
+"Quito", "Pichincha Province", "Ecuador", 39.59090909090909
+"Asuncion", "Capital District", "Paraguay", 33.064335550854366
+"Kathmandu", "Bagmati", "Nepal", 17.34645016120113
+"San Jose", "San Jose Province", "Costa Rica", 57.40751804581413
+"San Salvador", "San Salvador Department", "El Salvador", 46.625
+"Canberra", "Australian Capital Territory", "Australia", 50.857537807464794
+"Sydney", "", "Australia", 49.96825125755948
+"Melbourne", "Victoria", "Australia", 47.92140104400585
+"Perth", "Western Australia", "Australia", 48.58932191338596
+"Tegucigalpa", "Francisco Morazan Department", "Honduras", 69.28571428571429
+"Managua", "Managua Department", "Nicaragua", 62.54830346652511
+"Panama City", "Panama Province", "Panama", 46.42761904761905
+"Voronezh", "Voronezh Oblast", "Russia", 4.989216165630572
+"Rabat", "Rabat-Sale-Kenitra", "Morocco", 30.640308919679903
+"Algiers", "Algiers Province", "Algeria", 45.178261106631496
+"Tunis", "Tunis Governorate", "Tunisia", 15.196334319355024
+"Tehran", "Tehran Province", "Iran", 19.69846015635416
+"Jakarta", "", "Indonesia", 30.335448908800185
+"Ankara", "Ankara Province", "Turkey", 15.47619298125275
+"Krasnodar", "Krasnodar Krai", "Russia", 7.588360862521436
+"Riyadh", "Riyadh Province", "Saudi Arabia", 61.34533606768406
+"Belgrade", "Belgrade District", "Serbia", 22.753068510299027
+"Accra", "Greater Accra Region", "Ghana", 49.21374481464522
+"Amman", "Amman Governorate", "Jordan", 44.614356766387054
+"Beirut", "Beirut Governorate", "Lebanon", 51.90322383174593
+"Muscat", "Muscat Governorate", "Oman", 81.8059345713298
+"Doha", "Ad Dawhah", "Qatar", 84.91870982366903
+"Nairobi", "", "Kenya", 59.87759584554339
+"Manama", "Capital Governorate", "Bahrain", 60.52030769359194
+"Kampala", "", "Uganda", 69.06402475168431
+"Gaborone", "South-East District", "Botswana", 73.68853117888318
+"Harare", "", "Zimbabwe", 104.83333333333333
+"Pretoria", "Gauteng", "South Africa", 50.62991971993355
+"Windhoek", "Khomas Region", "Namibia", 48.15933907585941
+"Glasgow", "Scotland", "United Kingdom", 39.08247656289662
+"Curitiba", "Parana", "Brazil", 23.041257556273965
+"Surat", "Gujarat", "India", 7.58255027285071
+"Pula", "Istria County", "Croatia", 24.667541626476496
+"Hangzhou", "Zhejiang", "People's Republic of China", 16.18259005506284
+"Seattle", "Washington", "United States of America", 64.46238095238095
+"Baltimore", "Maryland", "United States of America", 68.14833333333333
+"Adelaide", "South Australia", "Australia", 49.34211017790651
+"Saratov", "Saratov Oblast", "Russia", 6.652288220840763
+"Izhevsk", "Udmurt Republic", "Russia", 5.958549592095941
+"Cape Town", "Western Cape", "South Africa", 51.875078349294064
+"Durban", "KwaZulu-Natal", "South Africa", 53.26160183516124
+"Treviso", "Veneto", "Italy", 29.10295730820032
+"Tyumen", "Tyumen Oblast", "Russia", 7.227235988499143
+"Barnaul", "Altai Krai", "Russia", 7.309156824396089
+"Kemerovo", "Kemerovo Oblast", "Russia", 7.178246552914368
+"Portland", "Oregon", "United States of America", 65.04853658536585
+"Indianapolis", "Indiana", "United States of America", 67.63181818181819
+"Antalya", "Antalya Province", "Turkey", 15.029286745170596
+"Varna", "Varna Province", "Bulgaria", 11.832307803756287
+"Burgas", "Burgas Province", "Bulgaria", 10.446532489283788
+"Irkutsk", "Irkutsk Oblast", "Russia", 7.553316902181427
+"Strasbourg", "", "France", 36.741210500415285
+"Toulouse", "", "France", 28.327844419158577
+"Casablanca", "Casablanca-Settat", "Morocco", 30.836721156344517
+"Ostrava", "", "Czech Republic", 18.211089121220997
+"Miami", "Florida", "United States of America", 67.45791666666666
+"Karachi", "Sindh", "Pakistan", 21.013379565652986
+"Lagos", "Lagos", "Nigeria", 40.95307080815182
+"Rio de Janeiro", "Rio de Janeiro", "Brazil", 21.642212661911728
+"Seoul", "", "South Korea", 21.391467592554857
+"Shanghai", "", "People's Republic of China", 13.91749447737006
+"Seville", "Andalusia", "Spain", 38.78238886154947
+"Vigo", "Galicia", "Spain", 46.26623982329282
+"Granada", "Andalusia", "Spain", 34.51447047008708
+"Valencia", "Community of Valencia", "Spain", 46.26400341136573
+"Palma", "Balearic Islands", "Spain", 54.27678823924985
+"Malaga", "Andalusia", "Spain", 49.544965674802434
+"Cancun", "Quintana Roo", "Mexico", 24.826695138548
+"Guadalajara", "Jalisco", "Mexico", 25.47853590807739
+"Baku", "", "Azerbaijan", 18.323537685954285
+"Bandar Seri Begawan", "Brunei-Muara District", "Brunei", 111.42753330223661
+"Male", "Kaafu Atoll", "Maldives", 109.2233009708738
+"Bishkek", "", "Kyrgyzstan", 16.789016881570156
+"Coimbatore", "Tamil Nadu", "India", 10.975628310010368
+"Bandung", "West Java", "Indonesia", 29.087108494914684
+"Saskatoon", "Saskatchewan", "Canada", 56.30351717600255
+"Belfast", "Northern Ireland", "United Kingdom", 37.403906931287345
+"Cardiff", "Wales", "United Kingdom", 41.068846658832626
+"Sarajevo", "Federation of Bosnia and Herzegovina", "Bosnia and Herzegovina", 22.838865266615795
+"Surabaya", "East Java", "Indonesia", 30.19636263243262
+"Lahore", "Punjab", "Pakistan", 18.856418320541522
+"Vadodara", "Gujarat", "India", 8.101484516341573
+"Detroit", "Michigan", "United States of America", 75
+"Graz", "Styria", "Austria", 43.959559432062534
+"Brno", "", "Czech Republic", 18.289510079159268
+"Shenzhen", "Guangdong", "People's Republic of China", 17.776329984728118
+"San Diego", "California", "United States of America", 62.939655172413794
+"San Jose", "California", "United States of America", 58.77777777777778
+"Denver", "Colorado", "United States of America", 62.75575757575758
+"Houston", "Texas", "United States of America", 63
+"Phoenix", "Arizona", "United States of America", 76.5
+"Dallas", "Texas", "United States of America", 65.3292
+"Fort Worth", "Texas", "United States of America", 72
+"Austin", "Texas", "United States of America", 63.0060606060606
+"El Paso", "Texas", "United States of America", 75.71428571428571
+"Memphis", "Tennessee", "United States of America", 71.83333333333333
+"Charlotte", "North Carolina", "United States of America", 61.76846153846154
+"Jacksonville", "Florida", "United States of America", 80
+"Guangzhou", "Guangdong", "People's Republic of China", 18.214170624746053
+"Nanjing", "Jiangsu", "People's Republic of China", 9.775383412260503
+"Long Beach", "California", "United States of America", 67.4975
+"Oakland", "California", "United States of America", 65.81818181818181
+"Thessaloniki", "", "Greece", 35.1151042940572
+"Sacramento", "California", "United States of America", 58.895
+"Honolulu", "Hawaii", "United States of America", 63.14214285714286
+"Manchester", "England", "United Kingdom", 38.21654115059036
+"Brooklyn", "New York", "United States of America", 68.33333333333333
+"Tucson", "Arizona", "United States of America", 70.57142857142857
+"Simferopol", "Autonomous Republic of Crimea", "Russia", 5.709145952995387
+"Bucharest", "", "Romania", 9.17003166477359
+"Tirana", "Tirana County", "Albania", 21.163960171162355
+"Bradford", "England", "United Kingdom", 31.95868842987144
+"Red Deer", "Alberta", "Canada", 56.236742115200826
+"Bristol", "England", "United Kingdom", 39.056679548663695
+"Nashville", "Tennessee", "United States of America", 71.99583333333334
+"Salt Lake City", "Utah", "United States of America", 63.411764705882355
+"Edinburgh", "Scotland", "United Kingdom", 38.248373102698395
+"Atlanta", "Georgia", "United States of America", 65.57058823529412
+"Podgorica", "Podgorica Municipality", "Montenegro", 24.29170942176217
+"Wellington", "Wellington Region", "New Zealand", 51.384336120615174
+"Las Vegas", "Nevada", "United States of America", 76.09
+"Vancouver", "British Columbia", "Canada", 59.412331745849954
+"Liverpool", "England", "United Kingdom", 37.56045272315345
+"Albany", "New York", "United States of America", 68
+"Gothenburg", "Vastra Gotaland County", "Sweden", 33.90169945251285
+"Funchal", "Madeira", "Portugal", 32.56607294354991
+"Batumi", "Adjara", "Georgia", 14.495028780743066
+"Jersey City", "New Jersey", "United States of America", 59.166666666666664
+"Bergen", "Vestland", "Norway", 50.6661146140139
+"Baton Rouge", "Louisiana", "United States of America", 66.28428571428572
+"Heredia", "Heredia Province", "Costa Rica", 41.66558628532404
+"Krakow", "Lesser Poland Voivodeship", "Poland", 13.897271946669672
+"Little Rock", "Arkansas", "United States of America", 55.833333333333336
+"Nice", "", "France", 34.14334713169905
+"Oxford", "England", "United Kingdom", 45.402745049965716
+"New Orleans", "Louisiana", "United States of America", 73.65833333333333
+"Johannesburg", "Gauteng", "South Africa", 54.41439973890426
+"Dayton", "Ohio", "United States of America", 61.656666666666666
+"Albuquerque", "New Mexico", "United States of America", 76.11111111111111
+"Santo Domingo", "", "Dominican Republic", 45.02217131636399
+"Oklahoma City", "Oklahoma", "United States of America", 63.791111111111114
+"Brisbane", "Queensland", "Australia", 51.69241857629512
+"Kuwait City", "", "Kuwait", 22.040382422846275
+"Colombo", "Western Province", "Sri Lanka", 17.42316771249483
+"Almaty", "", "Kazakhstan", 11.336170581492375
+"Boise", "Idaho", "United States of America", 63.91339781120111
+"Izmir", "Izmir Province", "Turkey", 14.835711305991508
+"Lviv", "Lviv Oblast", "Ukraine", 5.043278731077339
+"Minneapolis", "Minnesota", "United States of America", 63.0625
+"Calgary", "", "Canada", 55.974498240052206
+"Aberdeen", "Scotland", "United Kingdom", 32.40104987656645
+"Porto", "", "Portugal", 35.32812127716901
+"Cork", "", "Ireland", 49.24093001681531
+"Salvador", "Bahia", "Brazil", 18.788031743361095
+"Tallahassee", "Florida", "United States of America", 74.16666666666667
+"Auckland", "Auckland Region", "New Zealand", 49.581501317652496
+"Cleveland", "Ohio", "United States of America", 61.665
+"Milwaukee", "Wisconsin", "United States of America", 63.88777777777778
+"Turku", "", "Finland", 22.99109081313866
+"Adana", "Adana Province", "Turkey", 13.21989682604966
+"Santa Fe", "New Mexico", "United States of America", 75
+"Leeds", "England", "United Kingdom", 37.1477004954265
+"Port of Spain", "", "Trinidad and Tobago", 49.65536250558771
+"Anchorage", "Alaska", "United States of America", 109.55333333333334
+"Des Moines", "Iowa", "United States of America", 81.994
+"Hobart", "Tasmania", "Australia", 57.821034485540714
+"Manaus", "Amazonas", "Brazil", 23.679774668249475
+"Porto Alegre", "Rio Grande do Sul", "Brazil", 21.84459213146014
+"Buffalo", "New York", "United States of America", 73.18181818181819
+"Bursa", "Bursa Province", "Turkey", 16.084207805027084
+"Raleigh", "North Carolina", "United States of America", 58.16583333333333
+"Bydgoszcz", "Kuyavian-Pomeranian Voivodeship", "Poland", 14.50433323228815
+"Nottingham", "England", "United Kingdom", 35.27999666496199
+"Linz", "Upper Austria", "Austria", 33.5681059571976
+"Mykolaiv", "Mykolaiv Oblast", "Ukraine", 4.37153053943794
+"Haifa", "Haifa District", "Israel", 22.27107900522514
+"Kansas City", "Missouri", "United States of America", 62.583333333333336
+"Kharkiv", "Kharkiv Oblast", "Ukraine", 6.039244565121588
+"Sheffield", "England", "United Kingdom", 35.49669158451865
+"Belo Horizonte", "Minas Gerais", "Brazil", 22.45590420907995
+"Cincinnati", "Ohio", "United States of America", 57.45454545454545
+"Omaha", "Nebraska", "United States of America", 81.6625
+"Plymouth", "England", "United Kingdom", 31.575545421112523
+"Richmond", "Virginia", "United States of America", 62.55555555555556
+"Chandigarh", "", "India", 15.274134297800076
+"Plzen", "", "Czech Republic", 16.419793629120072
+"Fortaleza", "Ceara", "Brazil", 17.868882595054043
+"Guayaquil", "Guayas Province", "Ecuador", 47.9
+"Louisville", "Kentucky", "United States of America", 52.6
+"Madison", "Wisconsin", "United States of America", 57.221111111111114
+"Salem", "Oregon", "United States of America", 69.8
+"Markham", "Ontario", "Canada", 52.2059566268056
+"La Plata", "Buenos Aires Province", "Argentina", 40.29623663131516
+"Brampton", "Ontario", "Canada", 48.320862180159594
+"Cordoba", "Cordoba Province", "Argentina", 25.15875902299828
+"Mendoza", "Mendoza", "Argentina", 27.030398387088695
+"Tulsa", "Oklahoma", "United States of America", 69
+"Coimbra", "Coimbra", "Portugal", 34.23612796629606
+"Espoo", "Uusimaa", "Finland", 21.13176288781461
+"Lucknow", "Uttar Pradesh", "India", 8.148355588309727
+"Dnipro", "Dnipropetrovsk Oblast", "Ukraine", 5.343140764078974
+"Medellin", "Antioquia Department", "Colombia", 30.01870420840948
+"Kayseri", "Kayseri Province", "Turkey", 15.48882282204648
+"Recife", "Pernambuco", "Brazil", 20.735381633842138
+"San Luis Obispo", "California", "United States of America", 64.2
+"Cambridge", "Massachusetts", "United States of America", 67.4975
+"Rochester", "New York", "United States of America", 63
+"Irvine", "California", "United States of America", 70.99571428571429
+"Fremont", "California", "United States of America", 65.71428571428571
+"Scottsdale", "Arizona", "United States of America", 81.25
+"Reno", "Nevada", "United States of America", 59.84615384615385
+"Durham", "North Carolina", "United States of America", 67
+"Orlando", "Florida", "United States of America", 67.0792
+"Greensboro", "North Carolina", "United States of America", 61.998000000000005
+"Lexington", "Kentucky", "United States of America", 74.9975
+"Corpus Christi", "Texas", "United States of America", 71.25
+"Tampa", "Florida", "United States of America", 62.99846153846154
+"Colorado Springs", "Colorado", "United States of America", 68.33
+"Wichita", "Kansas", "United States of America", 61.1225
+"Lubbock", "Texas", "United States of America", 63.75
+"Mississauga", "Ontario", "Canada", 52.2059566268056
+"Cali", "Valle del Cauca Department", "Colombia", 26.35817048076026
+"Chiang Mai", "Chiang Mai", "Thailand", 20.081334602662682
+"Rosario", "Santa Fe Province", "Argentina", 23.97871465325281
+"Cuenca", "Azuay Province", "Ecuador", 44.400000000000006
+"Novi Sad", "", "Serbia", 23.310201576736063
+"Punta del Este", "Maldonado Department", "Uruguay", 32.92032552732104
+"Newcastle", "New South Wales", "Australia", 57.098229781325934
+"Chihuahua City", "Chihuahua", "Mexico", 25.79553217304418
+"Navi Mumbai", "Maharashtra", "India", 14.609415839574257
+"Barranquilla", "Atlantico Department", "Colombia", 28.791232371291976
+"Jaipur", "Rajasthan", "India", 11.41035448358323
+"Indore", "Madhya Pradesh", "India", 15.180913997782444
+"Konya", "Konya Province", "Turkey", 16.157651676282917
+"Debrecen", "Hajdu-Bihar County", "Hungary", 12.655878179373419
+"Christchurch", "Canterbury Region", "New Zealand", 48.65527426291938
+"Patna", "Bihar", "India", 12.984425503728296
+"Bhopal", "Madhya Pradesh", "India", 10.434980759225708
+"Monterrey", "Nuevo Leon", "Mexico", 25.126215381136152
+"Szeged", "Csongrad-Csanad County", "Hungary", 15.564335647452772
+"Giza", "Giza Governorate", "Egypt", 51.7953338213488
+"Santos", "Sao Paulo", "Brazil", 22.059579559369247
+"Leicester", "England", "United Kingdom", 37.14522398206014
+"Goiania", "Goias", "Brazil", 23.207959609070066
+"Sibiu", "Sibiu County", "Romania", 7.734262208676124
+"London", "Ontario", "Canada", 52.2059566268056
+"Rawalpindi", "Punjab", "Pakistan", 24.242795262595216
+"Oradea", "", "Romania", 8.994660494534456
+"Cluj-Napoca", "Cluj County", "Romania", 8.507688429543736
+"Leuven", "Flemish Region", "Belgium", 52.99641272181114
+"Tijuana", "Baja California", "Mexico", 21.913770040312723
+"Port Elizabeth", "Eastern Cape", "South Africa", 56.76208104925682
+"Antibes", "", "France", 24.439021842142573
+"Mangalore", "Karnataka", "India", 7.904649802455615
+"Nis", "Nisava District", "Serbia", 16.522683283765282
+"Galway", "Connacht", "Ireland", 60.519612967134265
+"Norwich", "England", "United Kingdom", 34.67118712906473
+"Banja Luka", "Republika Srpska", "Bosnia and Herzegovina", 22.786743374928495
+"Sioux Falls", "South Dakota", "United States of America", 66.4
+"Brighton", "England", "United Kingdom", 37.1477004954265
+"Natal", "Rio Grande do Norte", "Brazil", 14.955647158894404
+"Hanover", "New Hampshire", "United States of America", 74.77555555555556
+"Erbil", "", "Iraq", 37.53678756942887
+"Florianopolis", "Santa Catarina", "Brazil", 20.333082056467465
+"Dunedin", "Otago Region", "New Zealand", 45.84823920928941
+"Hamilton", "Ontario", "Canada", 58.762053505520726
+"Exeter", "England", "United Kingdom", 36.40474648551796
+"Kota Kinabalu", "Sabah", "Malaysia", 29.475201845444058
+"Zapopan", "Jalisco", "Mexico", 23.634486761704768
+"Ivano-Frankivsk", "Ivano-Frankivsk Oblast", "Ukraine", 5.270639657478367
+"Ternopil", "Ternopil Oblast", "Ukraine", 3.8963930532878135
+"Sumy", "Sumy Oblast", "Ukraine", 4.216511725982693
+"Joinville", "Santa Catarina", "Brazil", 22.892550966041334
+"Vinnytsia", "Vinnytsia Oblast", "Ukraine", 4.568984711295829
+"Santa Cruz", "California", "United States of America", 76
+"Santa Clara", "California", "United States of America", 60
+"Santa Barbara", "California", "United States of America", 95.71428571428571
+"Samsun", "Samsun Province", "Turkey", 14.26909498684725
+"Heraklion", "", "Greece", 34.37529921819157
+"Reading", "England", "United Kingdom", 44.57724059451179
+"Akron", "Ohio", "United States of America", 60.85666666666666
+"West Palm Beach", "Florida", "United States of America", 62.8
+"Merida", "Yucatan", "Mexico", 25.56354622288895
+"Fort Lauderdale", "Florida", "United States of America", 51.75
+"Kalamazoo", "Michigan", "United States of America", 61.87375
+"Joao Pessoa", "Paraiba", "Brazil", 16.846134198891413
+"Thiruvananthapuram", "", "India", 10.958722292149202
+"Campo Grande", "Mato Grosso do Sul", "Brazil", 28.836679917099858
+"Agadir", "Souss-Massa", "Morocco", 25.39315601718472
+"Pattaya", "Chon Buri", "Thailand", 22.151593324662674
+"Eugene", "Oregon", "United States of America", 67.595
+"Campinas", "Sao Paulo", "Brazil", 22.994307506800148
+"Bhubaneswar", "Odisha", "India", 9.431142821122343
+"Larnaca", "Larnaca District", "Cyprus", 50.10165068238448
+"Veliko Tarnovo", "Veliko Tarnovo Province", "Bulgaria", 11.347890486884227
+"Faisalabad", "Punjab", "Pakistan", 32.20295222155425
+"Niteroi", "Rio de Janeiro", "Brazil", 32.7657517322877
+"Paphos", "Paphos District", "Cyprus", 48.98828066722038
+"Grand Rapids", "Michigan", "United States of America", 66
+"Ipswich", "England", "United Kingdom", 38.63801441277513
+"Baia Mare", "Maramureș County", "Romania", 9.763520476102196
+"Knoxville", "Tennessee", "United States of America", 69.875
+"Limassol", "Limassol District", "Cyprus", 42.22853414658121
+"Chattanooga", "Tennessee", "United States of America", 65.99875
+"Spokane", "Washington", "United States of America", 59.8675
+"Hermosillo", "Sonora", "Mexico", 23.80005622289903
+"Sao Jose dos Campos", "Sao Paulo", "Brazil", 21.956292121178134
+"Boulder", "Colorado", "United States of America", 48.998000000000005
+"Ramat Gan", "Tel Aviv District", "Israel", 27.78367323313203
+"Guwahati", "Assam", "India", 9.960260927753387
+"Tacoma", "Washington", "United States of America", 64.8
+"Visakhapatnam", "Andhra Pradesh", "India", 8.501311838758168
+"Vijayawada", "Andhra Pradesh", "India", 6.971518484439968
+"Ludhiana", "Punjab", "India", 8.232989183847364
+"Kitchener", "Ontario", "Canada", 42.44840947765258
+"Corfu", "", "Greece", 41.84670481529059
+"Thane", "Maharashtra", "India", 11.069416456716366
+"Sunnyvale", "California", "United States of America", 44.35
+"Santa Rosa", "California", "United States of America", 99.33333333333333
+"Bellevue", "Washington", "United States of America", 58.57142857142857
+"Kelowna", "British Columbia", "Canada", 70.71843166507378
+"Al Ain", "Emirate of Abu Dhabi", "United Arab Emirates", 112.94032568635481
+"Bucaramanga", "Santander Department", "Colombia", 24.1053353969346
+"Burnaby", "British Columbia", "Canada", 50.99004347420686
+"Noida", "Uttar Pradesh", "India", 11.243922551445777
+"Sharjah", "Emirate of Sharjah", "United Arab Emirates", 99.14720135032124
+"Rockville", "Maryland", "United States of America", 46.2475
+"Jeddah", "Mecca Province", "Saudi Arabia", 69.8509150582552
+"Surrey", "British Columbia", "Canada", 55.36259586470547
+"Bellingham", "Washington", "United States of America", 75
+"Kamloops", "British Columbia", "Canada", 61.797283541962905
+"Villach", "Carinthia", "Austria", 21.29135606261273
+"Berkeley", "California", "United States of America", 66.99600000000001
+"Ann Arbor", "Michigan", "United States of America", 64.28428571428572
+"Daytona Beach", "Florida", "United States of America", 56.25
+"Fort Collins", "Colorado", "United States of America", 48.300000000000004
+"Overland Park", "Kansas", "United States of America", 68.75
+"Guelph", "Ontario", "Canada", 46.3783149568366
+"Fort Myers", "Florida", "United States of America", 55
+"Ajman", "Emirate of Ajman", "United Arab Emirates", 91.85451377545463
+"Waterloo", "Ontario", "Canada", 47.80487307396443
+"Coquitlam", "British Columbia", "Canada", 53.1772302384671
+"Asheville", "North Carolina", "United States of America", 60
+"Bend", "Oregon", "United States of America", 68.16666666666667
+"Phuket", "Phuket", "Thailand", 20.081334602662682
+"Petaling Jaya", "Selangor", "Malaysia", 27.729535718420745
+"Dumaguete", "", "Philippines", 47.54525990792914
+"New Westminster", "British Columbia", "Canada", 56.81950628219772
+"Langley", "British Columbia", "Canada", 67.19999300683
+"Melbourne", "Florida", "United States of America", 64.16666666666667
+"Peshawar", "Khyber Pakhtunkhwa", "Pakistan", 21.673585982048444
+"Braga", "Braga", "Portugal", 39.87720270979417
+"Kocaeli", "Kocaeli Province", "Turkey", 16.11259910725827
+"Kaunas", "", "Lithuania", 11.211636052702483
+"Antwerp", "Flemish Region", "Belgium", 54.13622527483539
+"Zaragoza", "Aragon", "Spain", 31.84238243369325
+"Arlington", "Virginia", "United States of America", 58.875
+"Jubail", "Eastern Province", "Saudi Arabia", 52.15832133525303

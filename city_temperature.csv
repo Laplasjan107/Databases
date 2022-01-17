@@ -1,0 +1,3863 @@
+City,Country,Continent,Month,AvgTemperature
+Algiers,Algeria,Africa,1,10.509098428453262
+Algiers,Algeria,Africa,2,10.933862433862437
+Algiers,Algeria,Africa,3,13.365660325337727
+Algiers,Algeria,Africa,4,15.471581196581196
+Algiers,Algeria,Africa,5,18.320501974055297
+Algiers,Algeria,Africa,6,22.355777777777753
+Algiers,Algeria,Africa,7,25.816200716845923
+Algiers,Algeria,Africa,8,26.03620071684594
+Algiers,Algeria,Africa,9,23.211555555555478
+Algiers,Algeria,Africa,10,20.134265232974954
+Algiers,Algeria,Africa,11,14.562592592592573
+Algiers,Algeria,Africa,12,11.338917525773176
+Bujumbura,Burundi,Africa,1,-51.53487730907087
+Bujumbura,Burundi,Africa,2,-52.535573720859816
+Bujumbura,Burundi,Africa,3,-49.38420181968569
+Bujumbura,Burundi,Africa,4,-55.21367521367521
+Bujumbura,Burundi,Africa,5,-52.61855527984559
+Bujumbura,Burundi,Africa,6,-47.07678410117434
+Bujumbura,Burundi,Africa,7,-52.943548387096776
+Bujumbura,Burundi,Africa,8,-55.43862007168458
+Bujumbura,Burundi,Africa,9,-58.195370370370355
+Bujumbura,Burundi,Africa,10,-61.38306451612904
+Bujumbura,Burundi,Africa,11,-57.47283950617283
+Bujumbura,Burundi,Africa,12,-56.35872162485065
+Cotonou,Benin,Africa,1,26.920940170940128
+Cotonou,Benin,Africa,2,27.77498110355252
+Cotonou,Benin,Africa,3,27.872070581748005
+Cotonou,Benin,Africa,4,27.254344729344737
+Cotonou,Benin,Africa,5,25.997602932882142
+Cotonou,Benin,Africa,6,25.724296296296252
+Cotonou,Benin,Africa,7,24.729534050179197
+Cotonou,Benin,Africa,8,18.401433691756225
+Cotonou,Benin,Africa,9,22.874222222222198
+Cotonou,Benin,Africa,10,22.829103942652395
+Cotonou,Benin,Africa,11,21.3719259259259
+Cotonou,Benin,Africa,12,22.379080756013764
+Bangui,Central African Republic,Africa,1,14.710987041632187
+Bangui,Central African Republic,Africa,2,23.060166288737737
+Bangui,Central African Republic,Africa,3,22.274124620898803
+Bangui,Central African Republic,Africa,4,19.731837606837594
+Bangui,Central African Republic,Africa,5,19.408065425831914
+Bangui,Central African Republic,Africa,6,20.57148148148144
+Bangui,Central African Republic,Africa,7,21.506810035842236
+Bangui,Central African Republic,Africa,8,20.064301075268784
+Bangui,Central African Republic,Africa,9,21.25703703703705
+Bangui,Central African Republic,Africa,10,18.34867383512542
+Bangui,Central African Republic,Africa,11,15.917555555555547
+Bangui,Central African Republic,Africa,12,16.857817869415786
+Brazzaville,Congo,Africa,1,19.49924179762886
+Brazzaville,Congo,Africa,2,23.243537414965967
+Brazzaville,Congo,Africa,3,25.826923076923027
+Brazzaville,Congo,Africa,4,24.29786324786329
+Brazzaville,Congo,Africa,5,24.093674996470426
+Brazzaville,Congo,Africa,6,21.3020740740741
+Brazzaville,Congo,Africa,7,18.09390681003584
+Brazzaville,Congo,Africa,8,16.822939068100347
+Brazzaville,Congo,Africa,9,21.586296296296318
+Brazzaville,Congo,Africa,10,20.427670250896075
+Brazzaville,Congo,Africa,11,17.727777777777796
+Brazzaville,Congo,Africa,12,15.716638029782324
+Cairo,Egypt,Africa,1,14.14102564102568
+Cairo,Egypt,Africa,2,15.75154950869236
+Cairo,Egypt,Africa,3,18.384270747173957
+Cairo,Egypt,Africa,4,20.48774928774926
+Cairo,Egypt,Africa,5,25.064438804286514
+Cairo,Egypt,Africa,6,27.761555555555486
+Cairo,Egypt,Africa,7,29.263512544802907
+Cairo,Egypt,Africa,8,28.968817204301015
+Cairo,Egypt,Africa,9,27.456148148148152
+Cairo,Egypt,Africa,10,24.45491039426527
+Cairo,Egypt,Africa,11,19.63651851851851
+Cairo,Egypt,Africa,12,15.366408934707913
+Addis Ababa,Ethiopia,Africa,1,-7.747932175351526
+Addis Ababa,Ethiopia,Africa,2,-0.7526077097505792
+Addis Ababa,Ethiopia,Africa,3,-2.336503997794299
+Addis Ababa,Ethiopia,Africa,4,-6.85420227920228
+Addis Ababa,Ethiopia,Africa,5,-6.608922772836367
+Addis Ababa,Ethiopia,Africa,6,-5.138518518518516
+Addis Ababa,Ethiopia,Africa,7,-6.175125448028677
+Addis Ababa,Ethiopia,Africa,8,-1.3942652329749134
+Addis Ababa,Ethiopia,Africa,9,0.06599999999999619
+Addis Ababa,Ethiopia,Africa,10,-0.951899641577051
+Addis Ababa,Ethiopia,Africa,11,1.7565925925925856
+Addis Ababa,Ethiopia,Africa,12,-6.7948717948718
+Libreville,Gabon,Africa,1,23.69665561083474
+Libreville,Gabon,Africa,2,25.214965986394525
+Libreville,Gabon,Africa,3,24.198235456299944
+Libreville,Gabon,Africa,4,18.77450142450145
+Libreville,Gabon,Africa,5,21.058587140439943
+Libreville,Gabon,Africa,6,16.457185185185196
+Libreville,Gabon,Africa,7,20.238924731182806
+Libreville,Gabon,Africa,8,19.204086021505415
+Libreville,Gabon,Africa,9,20.453703703703685
+Libreville,Gabon,Africa,10,21.408960573476755
+Libreville,Gabon,Africa,11,21.14874074074071
+Libreville,Gabon,Africa,12,23.954252577319632
+Banjul,Gambia,Africa,1,11.040471923536472
+Banjul,Gambia,Africa,2,16.11742051786302
+Banjul,Gambia,Africa,3,17.647326762246113
+Banjul,Gambia,Africa,4,23.020061728395024
+Banjul,Gambia,Africa,5,20.753443526170784
+Banjul,Gambia,Africa,6,20.03808373590985
+Banjul,Gambia,Africa,7,20.06233442418581
+Banjul,Gambia,Africa,8,19.875564905719198
+Banjul,Gambia,Africa,9,10.515539452495975
+Banjul,Gambia,Africa,10,10.892005610098174
+Banjul,Gambia,Africa,11,9.50233494363929
+Banjul,Gambia,Africa,12,4.761383061383064
+Conakry,Guinea,Africa,1,14.171215880893284
+Conakry,Guinea,Africa,2,6.953691071699267
+Conakry,Guinea,Africa,3,11.68117436743674
+Conakry,Guinea,Africa,4,16.715313390313394
+Conakry,Guinea,Africa,5,17.090216010165182
+Conakry,Guinea,Africa,6,11.217925925925947
+Conakry,Guinea,Africa,7,9.121433691756286
+Conakry,Guinea,Africa,8,5.36781362007171
+Conakry,Guinea,Africa,9,1.0113333333333527
+Conakry,Guinea,Africa,10,3.956702508960568
+Conakry,Guinea,Africa,11,9.079333333333347
+Conakry,Guinea,Africa,12,8.74424424424425
+Bissau,Guinea-Bissau,Africa,1,-14.912048524951741
+Bissau,Guinea-Bissau,Africa,2,-15.403875264910681
+Bissau,Guinea-Bissau,Africa,3,-16.616480793060735
+Bissau,Guinea-Bissau,Africa,4,-13.358760683760678
+Bissau,Guinea-Bissau,Africa,5,-18.804320203303686
+Bissau,Guinea-Bissau,Africa,6,-19.591185185185196
+Bissau,Guinea-Bissau,Africa,7,-19.335412186379926
+Bissau,Guinea-Bissau,Africa,8,-20.166738351254484
+Bissau,Guinea-Bissau,Africa,9,-18.490148148148148
+Bissau,Guinea-Bissau,Africa,10,-12.963369175627236
+Bissau,Guinea-Bissau,Africa,11,-11.047481481481489
+Bissau,Guinea-Bissau,Africa,12,-16.671171171171157
+Abidjan,Ivory Coast,Africa,1,23.572925282602675
+Abidjan,Ivory Coast,Africa,2,24.345049130763428
+Abidjan,Ivory Coast,Africa,3,26.625792666115238
+Abidjan,Ivory Coast,Africa,4,25.134757834757835
+Abidjan,Ivory Coast,Africa,5,25.63479977439368
+Abidjan,Ivory Coast,Africa,6,22.316074074074017
+Abidjan,Ivory Coast,Africa,7,21.379354838709716
+Abidjan,Ivory Coast,Africa,8,22.858422939068117
+Abidjan,Ivory Coast,Africa,9,22.813333333333315
+Abidjan,Ivory Coast,Africa,10,26.459068100358405
+Abidjan,Ivory Coast,Africa,11,22.94370370370367
+Abidjan,Ivory Coast,Africa,12,23.287227949599007
+Nairobi,Kenya,Africa,1,-2.69767804269908
+Nairobi,Kenya,Africa,2,-0.980085470085474
+Nairobi,Kenya,Africa,3,0.20492441951067597
+Nairobi,Kenya,Africa,4,-1.7518518518518593
+Nairobi,Kenya,Africa,5,-7.516227018385292
+Nairobi,Kenya,Africa,6,-2.342171717171711
+Nairobi,Kenya,Africa,7,-6.369908765070057
+Nairobi,Kenya,Africa,8,-6.945747800586505
+Nairobi,Kenya,Africa,9,-4.329292929292925
+Nairobi,Kenya,Africa,10,-7.501710654936463
+Nairobi,Kenya,Africa,11,-4.969023569023564
+Nairobi,Kenya,Africa,12,-11.519635343618514
+Rabat,Morocco,Africa,1,11.447063688999114
+Rabat,Morocco,Africa,2,12.513832199546455
+Rabat,Morocco,Africa,3,14.48125172318726
+Rabat,Morocco,Africa,4,15.888888888888882
+Rabat,Morocco,Africa,5,17.971164692611378
+Rabat,Morocco,Africa,6,20.45488888888893
+Rabat,Morocco,Africa,7,22.420143369175623
+Rabat,Morocco,Africa,8,22.634910394265205
+Rabat,Morocco,Africa,9,21.351333333333326
+Rabat,Morocco,Africa,10,19.378924731182806
+Rabat,Morocco,Africa,11,14.857407407407408
+Rabat,Morocco,Africa,12,11.758304696449025
+Antananarivo,Madagascar,Africa,1,18.974083264405845
+Antananarivo,Madagascar,Africa,2,20.184278155706775
+Antananarivo,Madagascar,Africa,3,20.462296663909555
+Antananarivo,Madagascar,Africa,4,19.202706552706545
+Antananarivo,Madagascar,Africa,5,17.15750141003951
+Antananarivo,Madagascar,Africa,6,13.234814814814793
+Antananarivo,Madagascar,Africa,7,13.122222222222243
+Antananarivo,Madagascar,Africa,8,14.570107526881742
+Antananarivo,Madagascar,Africa,9,16.561555555555586
+Antananarivo,Madagascar,Africa,10,17.335268817204334
+Antananarivo,Madagascar,Africa,11,19.555185185185213
+Antananarivo,Madagascar,Africa,12,19.13280355097377
+Nouakchott,Mauritania,Africa,1,19.302959863629308
+Nouakchott,Mauritania,Africa,2,22.183931623931628
+Nouakchott,Mauritania,Africa,3,22.850007791803023
+Nouakchott,Mauritania,Africa,4,22.49814814814815
+Nouakchott,Mauritania,Africa,5,23.653420601527234
+Nouakchott,Mauritania,Africa,6,25.14452495974232
+Nouakchott,Mauritania,Africa,7,18.326009038491506
+Nouakchott,Mauritania,Africa,8,26.051036309802022
+Nouakchott,Mauritania,Africa,9,27.427214170692416
+Nouakchott,Mauritania,Africa,10,27.9512233130746
+Nouakchott,Mauritania,Africa,11,21.278341384863147
+Nouakchott,Mauritania,Africa,12,19.523809523809533
+Lilongwe,Malawi,Africa,1,-27.287410394265233
+Lilongwe,Malawi,Africa,2,-24.443564605329314
+Lilongwe,Malawi,Africa,3,-28.934668574153548
+Lilongwe,Malawi,Africa,4,-26.95938271604939
+Lilongwe,Malawi,Africa,5,-30.571804062126635
+Lilongwe,Malawi,Africa,6,-35.431481481481484
+Lilongwe,Malawi,Africa,7,-36.18434886499402
+Lilongwe,Malawi,Africa,8,-20.64324116743471
+Lilongwe,Malawi,Africa,9,-18.739021164021164
+Lilongwe,Malawi,Africa,10,-29.85065710872162
+Lilongwe,Malawi,Africa,11,-21.574444444444442
+Lilongwe,Malawi,Africa,12,-27.158559847401047
+Lilongwe,Malawi,Africa,02,-72.77777777777777
+Lilongwe,Malawi,Africa,03,-72.77777777777777
+Lilongwe,Malawi,Africa,04,-72.77777777777777
+Lilongwe,Malawi,Africa,05,-72.77777777777777
+Lilongwe,Malawi,Africa,06,-72.77777777777777
+Lilongwe,Malawi,Africa,07,-72.77777777777777
+Lilongwe,Malawi,Africa,08,-72.77777777777777
+Lilongwe,Malawi,Africa,09,-72.77777777777777
+Maputo,Mozambique,Africa,1,20.06761786600497
+Maputo,Mozambique,Africa,2,23.227437641723384
+Maputo,Mozambique,Africa,3,22.95230217810864
+Maputo,Mozambique,Africa,4,17.40356125356128
+Maputo,Mozambique,Africa,5,15.760011280315844
+Maputo,Mozambique,Africa,6,12.92177777777775
+Maputo,Mozambique,Africa,7,13.864086021505434
+Maputo,Mozambique,Africa,8,14.198924731182778
+Maputo,Mozambique,Africa,9,16.366222222222234
+Maputo,Mozambique,Africa,10,17.611541218638013
+Maputo,Mozambique,Africa,11,15.828074074074083
+Maputo,Mozambique,Africa,12,14.892473118279602
+Windhoek,Namibia,Africa,1,17.412117452440025
+Windhoek,Namibia,Africa,2,16.392668178382497
+Windhoek,Namibia,Africa,3,16.47215329473397
+Windhoek,Namibia,Africa,4,14.961324786324761
+Windhoek,Namibia,Africa,5,11.143401015228424
+Windhoek,Namibia,Africa,6,10.348074074074079
+Windhoek,Namibia,Africa,7,9.968530465949803
+Windhoek,Namibia,Africa,8,8.68408602150538
+Windhoek,Namibia,Africa,9,14.473481481481492
+Windhoek,Namibia,Africa,10,18.595483870967712
+Windhoek,Namibia,Africa,11,19.617481481481462
+Windhoek,Namibia,Africa,12,15.187857961053876
+Niamey,Nigeria,Africa,1,23.458643507030594
+Niamey,Nigeria,Africa,2,27.301436130007573
+Niamey,Nigeria,Africa,3,31.047973531844516
+Niamey,Nigeria,Africa,4,33.49537037037032
+Niamey,Nigeria,Africa,5,32.749294980259364
+Niamey,Nigeria,Africa,6,31.099703703703668
+Niamey,Nigeria,Africa,7,28.47125448028676
+Niamey,Nigeria,Africa,8,25.508960573476738
+Niamey,Nigeria,Africa,9,27.420518518518506
+Niamey,Nigeria,Africa,10,27.817419354838737
+Niamey,Nigeria,Africa,11,23.20133333333335
+Niamey,Nigeria,Africa,12,21.29352806414665
+Lagos,Nigeria,Africa,10,4.418214402085386
+Lagos,Nigeria,Africa,11,-1.5898989898989926
+Lagos,Nigeria,Africa,12,1.0463775178687444
+Lagos,Nigeria,Africa,1,8.651026392961874
+Lagos,Nigeria,Africa,2,-2.3433530148506048
+Lagos,Nigeria,Africa,3,-9.046608101512927
+Lagos,Nigeria,Africa,4,-0.1839225589225594
+Lagos,Nigeria,Africa,5,8.877008032128527
+Lagos,Nigeria,Africa,6,13.858465608465648
+Lagos,Nigeria,Africa,7,14.851681174261792
+Lagos,Nigeria,Africa,8,10.095238095238107
+Lagos,Nigeria,Africa,9,-4.513580246913581
+Dakar,Senegal,Africa,1,21.427763992280127
+Dakar,Senegal,Africa,2,21.12297808012092
+Dakar,Senegal,Africa,3,21.333057623380267
+Dakar,Senegal,Africa,4,21.40776353276348
+Dakar,Senegal,Africa,5,22.23998871968415
+Dakar,Senegal,Africa,6,25.203481481481486
+Dakar,Senegal,Africa,7,26.900000000000016
+Dakar,Senegal,Africa,8,27.33548387096774
+Dakar,Senegal,Africa,9,27.32555555555551
+Dakar,Senegal,Africa,10,28.003727598566325
+Dakar,Senegal,Africa,11,25.660740740740742
+Dakar,Senegal,Africa,12,22.706615120274932
+Freetown,Sierra Leone,Africa,1,-22.987138941598168
+Freetown,Sierra Leone,Africa,2,-29.943055555555556
+Freetown,Sierra Leone,Africa,3,-23.011912291798442
+Freetown,Sierra Leone,Africa,4,-16.521895424836597
+Freetown,Sierra Leone,Africa,5,-19.68585283575795
+Freetown,Sierra Leone,Africa,6,-23.04531590413944
+Freetown,Sierra Leone,Africa,7,-23.42757748260597
+Freetown,Sierra Leone,Africa,8,-22.74646847986507
+Freetown,Sierra Leone,Africa,9,-23.97450980392157
+Freetown,Sierra Leone,Africa,10,-25.421779464473964
+Freetown,Sierra Leone,Africa,11,-26.664705882352948
+Freetown,Sierra Leone,Africa,12,-21.881931267130508
+Capetown,South Africa,Africa,1,21.021160738902665
+Capetown,South Africa,Africa,2,21.259259259259252
+Capetown,South Africa,Africa,3,19.698649021229627
+Capetown,South Africa,Africa,4,17.016595441595474
+Capetown,South Africa,Africa,5,14.462915961646953
+Capetown,South Africa,Africa,6,12.546814814814821
+Capetown,South Africa,Africa,7,12.475053763440858
+Capetown,South Africa,Africa,8,12.705089605734749
+Capetown,South Africa,Africa,9,14.05096296296296
+Capetown,South Africa,Africa,10,16.686594982078844
+Capetown,South Africa,Africa,11,17.85518518518514
+Capetown,South Africa,Africa,12,19.619487399770883
+Lome,Togo,Africa,1,23.402950096498476
+Lome,Togo,Africa,2,23.55374149659866
+Lome,Togo,Africa,3,26.573200992555833
+Lome,Togo,Africa,4,26.335256410256363
+Lome,Togo,Africa,5,23.61245064861814
+Lome,Togo,Africa,6,20.83562962962965
+Lome,Togo,Africa,7,22.280716845878164
+Lome,Togo,Africa,8,14.95440860215055
+Lome,Togo,Africa,9,19.41162962962964
+Lome,Togo,Africa,10,22.899999999999977
+Lome,Togo,Africa,11,19.705629629629705
+Lome,Togo,Africa,12,19.827391179839594
+Tunis,Tunisia,Africa,1,11.725186104218379
+Tunis,Tunisia,Africa,2,12.119047619047613
+Tunis,Tunisia,Africa,3,14.220567962503464
+Tunis,Tunisia,Africa,4,16.8224358974359
+Tunis,Tunisia,Africa,5,20.156796390298908
+Tunis,Tunisia,Africa,6,24.522074074074077
+Tunis,Tunisia,Africa,7,27.973763440860214
+Tunis,Tunisia,Africa,8,27.954336917562703
+Tunis,Tunisia,Africa,9,24.537999999999954
+Tunis,Tunisia,Africa,10,21.658781362007183
+Tunis,Tunisia,Africa,11,16.239037037037026
+Tunis,Tunisia,Africa,12,12.318800114547518
+Dar Es Salaam,Tanzania,Africa,1,23.580162668872347
+Dar Es Salaam,Tanzania,Africa,2,23.28835978835985
+Dar Es Salaam,Tanzania,Africa,3,20.424593327819167
+Dar Es Salaam,Tanzania,Africa,4,17.794871794871824
+Dar Es Salaam,Tanzania,Africa,5,12.708897349125765
+Dar Es Salaam,Tanzania,Africa,6,18.258222222222223
+Dar Es Salaam,Tanzania,Africa,7,17.993978494623622
+Dar Es Salaam,Tanzania,Africa,8,15.5426523297491
+Dar Es Salaam,Tanzania,Africa,9,20.052888888888877
+Dar Es Salaam,Tanzania,Africa,10,17.750752688172007
+Dar Es Salaam,Tanzania,Africa,11,18.500370370370394
+Dar Es Salaam,Tanzania,Africa,12,16.334091535704452
+Kampala,Uganda,Africa,1,2.844913151364747
+Kampala,Uganda,Africa,2,4.928398425673635
+Kampala,Uganda,Africa,3,5.666184772132755
+Kampala,Uganda,Africa,4,3.6514245014244926
+Kampala,Uganda,Africa,5,5.666807849781179
+Kampala,Uganda,Africa,6,9.69970370370369
+Kampala,Uganda,Africa,7,3.7701792114695465
+Kampala,Uganda,Africa,8,7.092401433691759
+Kampala,Uganda,Africa,9,9.794148148148148
+Kampala,Uganda,Africa,10,10.404229390680989
+Kampala,Uganda,Africa,11,9.750814814814785
+Kampala,Uganda,Africa,12,8.110896334478813
+Lusaka,Zambia,Africa,1,13.487270412802351
+Lusaka,Zambia,Africa,2,12.657872956755657
+Lusaka,Zambia,Africa,3,14.611771363893618
+Lusaka,Zambia,Africa,4,13.933723196881079
+Lusaka,Zambia,Africa,5,11.398132427843832
+Lusaka,Zambia,Africa,6,10.721442495126729
+Lusaka,Zambia,Africa,7,11.971609130352737
+Lusaka,Zambia,Africa,8,12.531503489907582
+Lusaka,Zambia,Africa,9,12.787719298245596
+Lusaka,Zambia,Africa,10,14.945199019053026
+Lusaka,Zambia,Africa,11,17.51705653021441
+Lusaka,Zambia,Africa,12,12.789850971514806
+Dhaka,Bangladesh,Asia,1,-16.398297491039425
+Dhaka,Bangladesh,Asia,2,-9.550270403146508
+Dhaka,Bangladesh,Asia,3,-7.989247311827956
+Dhaka,Bangladesh,Asia,4,-13.983101851851853
+Dhaka,Bangladesh,Asia,5,-16.193548387096776
+Dhaka,Bangladesh,Asia,6,-23.53634259259259
+Dhaka,Bangladesh,Asia,7,-4.5763888888888795
+Dhaka,Bangladesh,Asia,8,-6.734879032258061
+Dhaka,Bangladesh,Asia,9,-7.3596064814814826
+Dhaka,Bangladesh,Asia,10,-7.7756496415770595
+Dhaka,Bangladesh,Asia,11,-14.178454715219418
+Dhaka,Bangladesh,Asia,12,-18.14055793991416
+Beijing,China,Asia,1,-3.50406672180866
+Beijing,China,Asia,2,0.15442176870746177
+Beijing,China,Asia,3,7.2537220843672525
+Beijing,China,Asia,4,14.709544159544127
+Beijing,China,Asia,5,20.57155950366613
+Beijing,China,Asia,6,24.47037037037038
+Beijing,China,Asia,7,26.964587813620135
+Beijing,China,Asia,8,25.53010752688171
+Beijing,China,Asia,9,20.431851851851803
+Beijing,China,Asia,10,13.223655913978481
+Beijing,China,Asia,11,4.283037037037031
+Beijing,China,Asia,12,-2.1685996563574053
+Chengdu,China,Asia,1,6.43486352357321
+Chengdu,China,Asia,2,6.296749811035534
+Chengdu,China,Asia,3,13.58450510063414
+Chengdu,China,Asia,4,18.415740740740723
+Chengdu,China,Asia,5,21.805908065425825
+Chengdu,China,Asia,6,24.33844444444447
+Chengdu,China,Asia,7,26.595913978494593
+Chengdu,China,Asia,8,25.97684587813611
+Chengdu,China,Asia,9,22.277407407407402
+Chengdu,China,Asia,10,18.240358422939025
+Chengdu,China,Asia,11,12.825703703703665
+Chengdu,China,Asia,12,7.440363688430665
+Guangzhou,China,Asia,1,13.959057071960281
+Guangzhou,China,Asia,2,15.956462585034002
+Guangzhou,China,Asia,3,18.84132892197406
+Guangzhou,China,Asia,4,22.791310541310533
+Guangzhou,China,Asia,5,25.84799774393682
+Guangzhou,China,Asia,6,27.928814814814814
+Guangzhou,China,Asia,7,29.491254480286745
+Guangzhou,China,Asia,8,29.08802867383507
+Guangzhou,China,Asia,9,27.904074074074103
+Guangzhou,China,Asia,10,25.3894623655914
+Guangzhou,China,Asia,11,20.224222222222245
+Guangzhou,China,Asia,12,15.147121993127111
+Shanghai,China,Asia,1,4.83071408877862
+Shanghai,China,Asia,2,6.7777777777777795
+Shanghai,China,Asia,3,10.885856079404492
+Shanghai,China,Asia,4,16.09864672364672
+Shanghai,China,Asia,5,20.822969543147217
+Shanghai,China,Asia,6,24.260074074074048
+Shanghai,China,Asia,7,29.27677419354835
+Shanghai,China,Asia,8,28.645017921146973
+Shanghai,China,Asia,9,24.75170370370372
+Shanghai,China,Asia,10,19.88759856630822
+Shanghai,China,Asia,11,13.32599999999999
+Shanghai,China,Asia,12,6.774842497136315
+Shenyang,China,Asia,1,-11.57588916459884
+Shenyang,China,Asia,2,-6.187452758881329
+Shenyang,China,Asia,3,1.5818858560794011
+Shenyang,China,Asia,4,10.578062678062688
+Shenyang,China,Asia,5,17.2742481999153
+Shenyang,China,Asia,6,21.767333333333326
+Shenyang,China,Asia,7,24.82494623655909
+Shenyang,China,Asia,8,23.338853046594963
+Shenyang,China,Asia,9,17.53407407407407
+Shenyang,China,Asia,10,9.795125448028662
+Shenyang,China,Asia,11,-0.22103703703704625
+Shenyang,China,Asia,12,-8.804696449026338
+Hong Kong,Hong Kong,Asia,1,16.482974910394276
+Hong Kong,Hong Kong,Asia,2,17.543461829176138
+Hong Kong,Hong Kong,Asia,3,20.266266887234615
+Hong Kong,Hong Kong,Asia,4,23.67065527065528
+Hong Kong,Hong Kong,Asia,5,26.586223914269667
+Hong Kong,Hong Kong,Asia,6,28.655407407407388
+Hong Kong,Hong Kong,Asia,7,29.797634408602132
+Hong Kong,Hong Kong,Asia,8,29.322150537634407
+Hong Kong,Hong Kong,Asia,9,28.548962962962978
+Hong Kong,Hong Kong,Asia,10,26.61046594982079
+Hong Kong,Hong Kong,Asia,11,22.29511111111113
+Hong Kong,Hong Kong,Asia,12,17.634879725085916
+Bombay (Mumbai),India,Asia,1,24.293700027571017
+Bombay (Mumbai),India,Asia,2,25.719803476946353
+Bombay (Mumbai),India,Asia,3,27.635235732009892
+Bombay (Mumbai),India,Asia,4,28.918589743589717
+Bombay (Mumbai),India,Asia,5,29.609842075578108
+Bombay (Mumbai),India,Asia,6,28.690296296296328
+Bombay (Mumbai),India,Asia,7,27.967240143369153
+Bombay (Mumbai),India,Asia,8,27.584587813620104
+Bombay (Mumbai),India,Asia,9,27.84777777777778
+Bombay (Mumbai),India,Asia,10,29.072043010752648
+Bombay (Mumbai),India,Asia,11,27.694000000000013
+Bombay (Mumbai),India,Asia,12,25.222866552119132
+Calcutta,India,Asia,1,18.321822442790236
+Calcutta,India,Asia,2,22.572940287225997
+Calcutta,India,Asia,3,25.754066721808677
+Calcutta,India,Asia,4,29.607692307692293
+Calcutta,India,Asia,5,29.917935702199696
+Calcutta,India,Asia,6,29.281777777777805
+Calcutta,India,Asia,7,29.163297491039415
+Calcutta,India,Asia,8,28.91921146953401
+Calcutta,India,Asia,9,28.791333333333355
+Calcutta,India,Asia,10,27.575483870967748
+Calcutta,India,Asia,11,23.704222222222192
+Calcutta,India,Asia,12,19.04911225658648
+Chennai (Madras),India,Asia,1,24.914667769506472
+Chennai (Madras),India,Asia,2,26.205139833711264
+Chennai (Madras),India,Asia,3,28.11283429831819
+Chennai (Madras),India,Asia,4,30.131267806267797
+Chennai (Madras),India,Asia,5,31.468556119571392
+Chennai (Madras),India,Asia,6,30.792074074074062
+Chennai (Madras),India,Asia,7,30.47921146953409
+Chennai (Madras),India,Asia,8,29.464301075268786
+Chennai (Madras),India,Asia,9,29.141333333333314
+Chennai (Madras),India,Asia,10,27.702078853046604
+Chennai (Madras),India,Asia,11,26.02014814814821
+Chennai (Madras),India,Asia,12,24.559421534937016
+Delhi,India,Asia,1,12.9489936586711
+Delhi,India,Asia,2,17.17135298563872
+Delhi,India,Asia,3,22.464364488558058
+Delhi,India,Asia,4,27.388105413105443
+Delhi,India,Asia,5,32.00105887335875
+Delhi,India,Asia,6,31.92511111111117
+Delhi,India,Asia,7,31.206093189964164
+Delhi,India,Asia,8,29.91448028673833
+Delhi,India,Asia,9,28.73948148148152
+Delhi,India,Asia,10,25.363655913978487
+Delhi,India,Asia,11,19.29133333333334
+Delhi,India,Asia,12,13.838344788087078
+Jakarta,Indonesia,Asia,1,0.6854149434794444
+Jakarta,Indonesia,Asia,2,-1.0435374149659973
+Jakarta,Indonesia,Asia,3,-1.2069203198235456
+Jakarta,Indonesia,Asia,4,4.22029914529914
+Jakarta,Indonesia,Asia,5,4.029013130029659
+Jakarta,Indonesia,Asia,6,3.6737037037037132
+Jakarta,Indonesia,Asia,7,1.774838709677411
+Jakarta,Indonesia,Asia,8,2.280860215053764
+Jakarta,Indonesia,Asia,9,3.7538518518518535
+Jakarta,Indonesia,Asia,10,5.961218637992837
+Jakarta,Indonesia,Asia,11,3.897407407407398
+Jakarta,Indonesia,Asia,12,-1.2924541809851062
+Osaka,Japan,Asia,1,5.197132616487469
+Osaka,Japan,Asia,2,6.025396825396815
+Osaka,Japan,Asia,3,9.623104494072201
+Osaka,Japan,Asia,4,15.007051282051293
+Osaka,Japan,Asia,5,19.819232938522344
+Osaka,Japan,Asia,6,23.51711111111107
+Osaka,Japan,Asia,7,28.012616487455233
+Osaka,Japan,Asia,8,29.23132616487458
+Osaka,Japan,Asia,9,24.91051851851849
+Osaka,Japan,Asia,10,19.357634408602202
+Osaka,Japan,Asia,11,12.774666666666654
+Osaka,Japan,Asia,12,7.300973654066429
+Sapporo,Japan,Asia,1,-6.556520540391511
+Sapporo,Japan,Asia,2,-5.530612244897974
+Sapporo,Japan,Asia,3,-0.5334987593052117
+Sapporo,Japan,Asia,4,5.405698005697997
+Sapporo,Japan,Asia,5,10.454667230682439
+Sapporo,Japan,Asia,6,14.427629629629653
+Sapporo,Japan,Asia,7,18.995985663082493
+Sapporo,Japan,Asia,8,20.338853046594977
+Sapporo,Japan,Asia,9,16.856518518518506
+Sapporo,Japan,Asia,10,10.40860215053765
+Sapporo,Japan,Asia,11,3.153851851851827
+Sapporo,Japan,Asia,12,-3.763530927835047
+Tokyo,Japan,Asia,1,6.150330851943752
+Tokyo,Japan,Asia,2,6.75978835978836
+Tokyo,Japan,Asia,3,9.833126550868492
+Tokyo,Japan,Asia,4,14.329202279202313
+Tokyo,Japan,Asia,5,18.453398195149514
+Tokyo,Japan,Asia,6,21.51540740740741
+Tokyo,Japan,Asia,7,25.8789247311828
+Tokyo,Japan,Asia,8,27.04093189964155
+Tokyo,Japan,Asia,9,23.67614814814813
+Tokyo,Japan,Asia,10,18.929820788530456
+Tokyo,Japan,Asia,11,13.297629629629617
+Tokyo,Japan,Asia,12,8.367124856815533
+Almaty,Kazakhstan,Asia,1,-6.5338433967466285
+Almaty,Kazakhstan,Asia,2,-3.432955404383967
+Almaty,Kazakhstan,Asia,3,4.51654259718775
+Almaty,Kazakhstan,Asia,4,11.822008547008545
+Almaty,Kazakhstan,Asia,5,16.62854722575179
+Almaty,Kazakhstan,Asia,6,21.484962962962996
+Almaty,Kazakhstan,Asia,7,24.091397849462314
+Almaty,Kazakhstan,Asia,8,22.794480286738295
+Almaty,Kazakhstan,Asia,9,17.237481481481502
+Almaty,Kazakhstan,Asia,10,10.141577060931889
+Almaty,Kazakhstan,Asia,11,1.7545185185185177
+Almaty,Kazakhstan,Asia,12,-4.592282359679272
+Bishkek,Kyrgyzstan,Asia,12,-1.7394179894179749
+Bishkek,Kyrgyzstan,Asia,1,-2.9850397381954092
+Bishkek,Kyrgyzstan,Asia,2,-0.43504273504271906
+Bishkek,Kyrgyzstan,Asia,3,6.518622409225488
+Bishkek,Kyrgyzstan,Asia,4,12.936876006441246
+Bishkek,Kyrgyzstan,Asia,5,17.63224463656741
+Bishkek,Kyrgyzstan,Asia,6,22.00319865319865
+Bishkek,Kyrgyzstan,Asia,7,25.372759856630807
+Bishkek,Kyrgyzstan,Asia,8,23.972059302704483
+Bishkek,Kyrgyzstan,Asia,9,17.383080808080795
+Bishkek,Kyrgyzstan,Asia,10,9.030221570544157
+Bishkek,Kyrgyzstan,Asia,11,0.43956228956231214
+Vientiane,Laos,Asia,1,23.073338847532405
+Vientiane,Laos,Asia,2,24.94777021919877
+Vientiane,Laos,Asia,3,27.358905431486082
+Vientiane,Laos,Asia,4,29.131623931623935
+Vientiane,Laos,Asia,5,28.424069373942444
+Vientiane,Laos,Asia,6,27.955259259259222
+Vientiane,Laos,Asia,7,27.628817204301136
+Vientiane,Laos,Asia,8,27.391612903225834
+Vientiane,Laos,Asia,9,27.645259259259298
+Vientiane,Laos,Asia,10,27.74408602150534
+Vientiane,Laos,Asia,11,25.93725925925926
+Vientiane,Laos,Asia,12,22.58268900343645
+Kuala Lumpur,Malaysia,Asia,1,26.820237110559706
+Kuala Lumpur,Malaysia,Asia,2,27.6704459561602
+Kuala Lumpur,Malaysia,Asia,3,27.8646953405018
+Kuala Lumpur,Malaysia,Asia,4,28.037179487179458
+Kuala Lumpur,Malaysia,Asia,5,28.01339537507044
+Kuala Lumpur,Malaysia,Asia,6,27.593185185185185
+Kuala Lumpur,Malaysia,Asia,7,28.13655913978492
+Kuala Lumpur,Malaysia,Asia,8,25.079928315412182
+Kuala Lumpur,Malaysia,Asia,9,23.66911111111111
+Kuala Lumpur,Malaysia,Asia,10,23.851541218637966
+Kuala Lumpur,Malaysia,Asia,11,22.847037037036994
+Kuala Lumpur,Malaysia,Asia,12,23.24377147766322
+Ulan-bator,Mongolia,Asia,1,-24.405017921146953
+Ulan-bator,Mongolia,Asia,2,-18.87324263038549
+Ulan-bator,Mongolia,Asia,3,-7.766404742211187
+Ulan-bator,Mongolia,Asia,4,2.621866096866109
+Ulan-bator,Mongolia,Asia,5,9.712140439932313
+Ulan-bator,Mongolia,Asia,6,16.039259259259225
+Ulan-bator,Mongolia,Asia,7,19.031254480286773
+Ulan-bator,Mongolia,Asia,8,16.227025089605732
+Ulan-bator,Mongolia,Asia,9,8.917555555555587
+Ulan-bator,Mongolia,Asia,10,-1.0244444444444372
+Ulan-bator,Mongolia,Asia,11,-13.10362962962963
+Ulan-bator,Mongolia,Asia,12,-22.14246849942726
+Rangoon,Myanmar (Burma),Asia,1,17.877309070857475
+Rangoon,Myanmar (Burma),Asia,2,22.58904006046866
+Rangoon,Myanmar (Burma),Asia,3,23.37413840639645
+Rangoon,Myanmar (Burma),Asia,4,25.58789173789178
+Rangoon,Myanmar (Burma),Asia,5,22.19437394247043
+Rangoon,Myanmar (Burma),Asia,6,22.146518518518526
+Rangoon,Myanmar (Burma),Asia,7,22.310465949820784
+Rangoon,Myanmar (Burma),Asia,8,21.42508960573475
+Rangoon,Myanmar (Burma),Asia,9,22.736666666666654
+Rangoon,Myanmar (Burma),Asia,10,22.413691756272403
+Rangoon,Myanmar (Burma),Asia,11,21.792740740740726
+Rangoon,Myanmar (Burma),Asia,12,19.104882588774327
+Katmandu,Nepal,Asia,1,2.0804002760524494
+Katmandu,Nepal,Asia,2,4.647770219198818
+Katmandu,Nepal,Asia,3,5.514199062586174
+Katmandu,Nepal,Asia,4,14.729131054131036
+Katmandu,Nepal,Asia,5,10.974689791314157
+Katmandu,Nepal,Asia,6,10.300074074074056
+Katmandu,Nepal,Asia,7,12.289175627240102
+Katmandu,Nepal,Asia,8,12.18967741935481
+Katmandu,Nepal,Asia,9,14.286222222222209
+Katmandu,Nepal,Asia,10,14.561433691756235
+Katmandu,Nepal,Asia,11,9.550518518518535
+Katmandu,Nepal,Asia,12,5.8068442153493764
+Pyongyang,North Korea,Asia,1,-6.728425696167633
+Pyongyang,North Korea,Asia,2,-5.907936507936509
+Pyongyang,North Korea,Asia,3,1.6356492969396303
+Pyongyang,North Korea,Asia,4,10.384401709401708
+Pyongyang,North Korea,Asia,5,15.60899336439359
+Pyongyang,North Korea,Asia,6,20.14703703703712
+Pyongyang,North Korea,Asia,7,22.988960573476707
+Pyongyang,North Korea,Asia,8,22.348888888888908
+Pyongyang,North Korea,Asia,9,18.437629629629633
+Pyongyang,North Korea,Asia,10,11.69275985663082
+Pyongyang,North Korea,Asia,11,2.6036296296296433
+Pyongyang,North Korea,Asia,12,-4.60803660803661
+Islamabad,Pakistan,Asia,1,7.961883098979882
+Islamabad,Pakistan,Asia,2,9.50786092214666
+Islamabad,Pakistan,Asia,3,11.946098704163246
+Islamabad,Pakistan,Asia,4,19.289458689458677
+Islamabad,Pakistan,Asia,5,25.004447268106688
+Islamabad,Pakistan,Asia,6,26.82288888888888
+Islamabad,Pakistan,Asia,7,25.79928315412188
+Islamabad,Pakistan,Asia,8,24.770035842293925
+Islamabad,Pakistan,Asia,9,25.953333333333344
+Islamabad,Pakistan,Asia,10,21.860716845878088
+Islamabad,Pakistan,Asia,11,14.608370370370393
+Islamabad,Pakistan,Asia,12,9.417167812142045
+Karachi,Pakistan,Asia,1,16.58740005514206
+Karachi,Pakistan,Asia,2,18.02116402116408
+Karachi,Pakistan,Asia,3,24.34787703336089
+Karachi,Pakistan,Asia,4,28.890740740740707
+Karachi,Pakistan,Asia,5,30.239870111534728
+Karachi,Pakistan,Asia,6,30.8582962962963
+Karachi,Pakistan,Asia,7,30.336200716845887
+Karachi,Pakistan,Asia,8,28.76014336917562
+Karachi,Pakistan,Asia,9,29.00162962962965
+Karachi,Pakistan,Asia,10,28.371397849462383
+Karachi,Pakistan,Asia,11,22.300296296296292
+Karachi,Pakistan,Asia,12,18.64268327605951
+Manila,Philippines,Asia,1,25.944651226909222
+Manila,Philippines,Asia,2,26.497354497354493
+Manila,Philippines,Asia,3,27.937620623104493
+Manila,Philippines,Asia,4,29.35021367521368
+Manila,Philippines,Asia,5,28.99943598420757
+Manila,Philippines,Asia,6,28.334740740740724
+Manila,Philippines,Asia,7,27.91634408602154
+Manila,Philippines,Asia,8,27.323225806451628
+Manila,Philippines,Asia,9,27.009851851851902
+Manila,Philippines,Asia,10,27.773548387096728
+Manila,Philippines,Asia,11,27.19022222222225
+Manila,Philippines,Asia,12,25.96355956471935
+Singapore,Singapore,Asia,1,26.43982630272954
+Singapore,Singapore,Asia,2,27.284126984126928
+Singapore,Singapore,Asia,3,27.846222773642133
+Singapore,Singapore,Asia,4,28.09480056980057
+Singapore,Singapore,Asia,5,28.126480541455148
+Singapore,Singapore,Asia,6,28.086074074074084
+Singapore,Singapore,Asia,7,28.27369175627239
+Singapore,Singapore,Asia,8,27.988243727598658
+Singapore,Singapore,Asia,9,27.865481481481464
+Singapore,Singapore,Asia,10,27.983225806451603
+Singapore,Singapore,Asia,11,26.873555555555555
+Singapore,Singapore,Asia,12,26.17912371134022
+Seoul,South Korea,Asia,1,-3.6670802315963633
+Seoul,South Korea,Asia,2,-0.5643235071806372
+Seoul,South Korea,Asia,3,5.019023986765935
+Seoul,South Korea,Asia,4,11.327350427350467
+Seoul,South Korea,Asia,5,16.76290186125209
+Seoul,South Korea,Asia,6,21.586444444444385
+Seoul,South Korea,Asia,7,25.067096774193587
+Seoul,South Korea,Asia,8,25.68580645161293
+Seoul,South Korea,Asia,9,20.503851851851874
+Seoul,South Korea,Asia,10,13.923010752688166
+Seoul,South Korea,Asia,11,5.796444444444467
+Seoul,South Korea,Asia,12,-1.6534936998854652
+Colombo,Sri Lanka,Asia,1,19.368003859939375
+Colombo,Sri Lanka,Asia,2,21.354648526077092
+Colombo,Sri Lanka,Asia,3,21.386476426799007
+Colombo,Sri Lanka,Asia,4,24.873076923076912
+Colombo,Sri Lanka,Asia,5,26.403905809362712
+Colombo,Sri Lanka,Asia,6,26.89651851851849
+Colombo,Sri Lanka,Asia,7,27.041577060931843
+Colombo,Sri Lanka,Asia,8,26.55096774193548
+Colombo,Sri Lanka,Asia,9,26.187037037037094
+Colombo,Sri Lanka,Asia,10,23.46824372759861
+Colombo,Sri Lanka,Asia,11,18.941629629629613
+Colombo,Sri Lanka,Asia,12,19.274985681557844
+Taipei,Taiwan,Asia,1,15.630686517783273
+Taipei,Taiwan,Asia,2,16.01882086167794
+Taipei,Taiwan,Asia,3,16.69706368899916
+Taipei,Taiwan,Asia,4,22.039173789173795
+Taipei,Taiwan,Asia,5,21.58523688663283
+Taipei,Taiwan,Asia,6,23.13029629629629
+Taipei,Taiwan,Asia,7,28.15168458781364
+Taipei,Taiwan,Asia,8,25.223225806451623
+Taipei,Taiwan,Asia,9,21.61474074074074
+Taipei,Taiwan,Asia,10,21.77505376344085
+Taipei,Taiwan,Asia,11,20.537481481481464
+Taipei,Taiwan,Asia,12,16.692869415807586
+Dusanbe,Tajikistan,Asia,1,-7.975599669148055
+Dusanbe,Tajikistan,Asia,2,-9.176114890400605
+Dusanbe,Tajikistan,Asia,3,-2.2745381858285048
+Dusanbe,Tajikistan,Asia,4,4.552920227920245
+Dusanbe,Tajikistan,Asia,5,2.958826847151737
+Dusanbe,Tajikistan,Asia,6,7.7394814814815085
+Dusanbe,Tajikistan,Asia,7,13.282222222222227
+Dusanbe,Tajikistan,Asia,8,8.50594982078852
+Dusanbe,Tajikistan,Asia,9,9.934148148148129
+Dusanbe,Tajikistan,Asia,10,3.4907526881720545
+Dusanbe,Tajikistan,Asia,11,-2.5468148148148235
+Dusanbe,Tajikistan,Asia,12,-7.183061282932417
+Bangkok,Thailand,Asia,1,21.080328905755863
+Bangkok,Thailand,Asia,2,22.61967592592592
+Bangkok,Thailand,Asia,3,23.651697238034995
+Bangkok,Thailand,Asia,4,24.23050108932462
+Bangkok,Thailand,Asia,5,23.813092979127134
+Bangkok,Thailand,Asia,6,22.83300653594773
+Bangkok,Thailand,Asia,7,23.300442757748232
+Bangkok,Thailand,Asia,8,23.006641366223917
+Bangkok,Thailand,Asia,9,22.453159041394322
+Bangkok,Thailand,Asia,10,22.142525827535277
+Bangkok,Thailand,Asia,11,20.83229166666667
+Bangkok,Thailand,Asia,12,19.55779569892474
+Ashabad,Turkmenistan,Asia,1,3.4561621174524424
+Ashabad,Turkmenistan,Asia,2,5.67996976568404
+Ashabad,Turkmenistan,Asia,3,11.3036945133719
+Ashabad,Turkmenistan,Asia,4,17.426424501424567
+Ashabad,Turkmenistan,Asia,5,23.81479131415679
+Ashabad,Turkmenistan,Asia,6,28.696222222222232
+Ashabad,Turkmenistan,Asia,7,31.915985663082424
+Ashabad,Turkmenistan,Asia,8,30.04487455197133
+Ashabad,Turkmenistan,Asia,9,23.26637037037038
+Ashabad,Turkmenistan,Asia,10,14.929964157706113
+Ashabad,Turkmenistan,Asia,11,5.8515555555555325
+Ashabad,Turkmenistan,Asia,12,4.263172966781216
+Tashkent,Uzbekistan,Asia,1,2.042459332781933
+Tashkent,Uzbekistan,Asia,2,4.3539682539682465
+Tashkent,Uzbekistan,Asia,3,8.52226357871521
+Tashkent,Uzbekistan,Asia,4,16.42578347578349
+Tashkent,Uzbekistan,Asia,5,21.80174844895656
+Tashkent,Uzbekistan,Asia,6,26.484148148148115
+Tashkent,Uzbekistan,Asia,7,29.321648745519674
+Tashkent,Uzbekistan,Asia,8,27.31627240143369
+Tashkent,Uzbekistan,Asia,9,21.054592592592606
+Tashkent,Uzbekistan,Asia,10,13.003440860215084
+Tashkent,Uzbekistan,Asia,11,5.9422962962963055
+Tashkent,Uzbekistan,Asia,12,2.83898911798398
+Hanoi,Vietnam,Asia,1,16.53253377446926
+Hanoi,Vietnam,Asia,2,18.250188964474702
+Hanoi,Vietnam,Asia,3,20.706093189964147
+Hanoi,Vietnam,Asia,4,24.189316239316263
+Hanoi,Vietnam,Asia,5,27.04998589960524
+Hanoi,Vietnam,Asia,6,28.94837037037033
+Hanoi,Vietnam,Asia,7,29.298566308243664
+Hanoi,Vietnam,Asia,8,28.2558422939068
+Hanoi,Vietnam,Asia,9,27.666296296296284
+Hanoi,Vietnam,Asia,10,25.139641577060953
+Hanoi,Vietnam,Asia,11,21.63385185185185
+Hanoi,Vietnam,Asia,12,17.547250859106526
+Brisbane,Australia,Australia/South Pacific,1,24.592087124345213
+Brisbane,Australia,Australia/South Pacific,2,24.39040060468632
+Brisbane,Australia,Australia/South Pacific,3,23.382340777502066
+Brisbane,Australia,Australia/South Pacific,4,20.76880341880341
+Brisbane,Australia,Australia/South Pacific,5,17.423928369994314
+Brisbane,Australia,Australia/South Pacific,6,15.21955555555553
+Brisbane,Australia,Australia/South Pacific,7,14.846523297491037
+Brisbane,Australia,Australia/South Pacific,8,15.621505376344105
+Brisbane,Australia,Australia/South Pacific,9,18.11133333333332
+Brisbane,Australia,Australia/South Pacific,10,20.649318996415754
+Brisbane,Australia,Australia/South Pacific,11,21.999851851851833
+Brisbane,Australia,Australia/South Pacific,12,23.266895761741125
+Canberra,Australia,Australia/South Pacific,1,21.031568789633305
+Canberra,Australia,Australia/South Pacific,2,19.856538170823892
+Canberra,Australia,Australia/South Pacific,3,17.484904880066203
+Canberra,Australia,Australia/South Pacific,4,13.124999999999968
+Canberra,Australia,Australia/South Pacific,5,8.91384658770444
+Canberra,Australia,Australia/South Pacific,6,6.435333333333343
+Canberra,Australia,Australia/South Pacific,7,5.963727598566331
+Canberra,Australia,Australia/South Pacific,8,6.8529749103942805
+Canberra,Australia,Australia/South Pacific,9,9.964222222222212
+Canberra,Australia,Australia/South Pacific,10,13.488888888888892
+Canberra,Australia,Australia/South Pacific,11,15.870074074074061
+Canberra,Australia,Australia/South Pacific,12,17.903994845360867
+Melbourne,Australia,Australia/South Pacific,1,22.88268541494346
+Melbourne,Australia,Australia/South Pacific,2,22.669765684051388
+Melbourne,Australia,Australia/South Pacific,3,21.51516404742213
+Melbourne,Australia,Australia/South Pacific,4,18.78418803418804
+Melbourne,Australia,Australia/South Pacific,5,15.597997743936848
+Melbourne,Australia,Australia/South Pacific,6,13.337777777777744
+Melbourne,Australia,Australia/South Pacific,7,12.988817204301006
+Melbourne,Australia,Australia/South Pacific,8,14.065519713261642
+Melbourne,Australia,Australia/South Pacific,9,16.264296296296305
+Melbourne,Australia,Australia/South Pacific,10,18.739784946236554
+Melbourne,Australia,Australia/South Pacific,11,19.78614814814809
+Melbourne,Australia,Australia/South Pacific,12,21.276775486827034
+Perth,Australia,Australia/South Pacific,1,24.223325062034746
+Perth,Australia,Australia/South Pacific,2,24.43461829176109
+Perth,Australia,Australia/South Pacific,3,22.59642955610698
+Perth,Australia,Australia/South Pacific,4,19.14800569800573
+Perth,Australia,Australia/South Pacific,5,15.454737732656444
+Perth,Australia,Australia/South Pacific,6,13.16222222222221
+Perth,Australia,Australia/South Pacific,7,12.69354838709678
+Perth,Australia,Australia/South Pacific,8,10.771111111111098
+Perth,Australia,Australia/South Pacific,9,10.553999999999998
+Perth,Australia,Australia/South Pacific,10,13.498279569892462
+Perth,Australia,Australia/South Pacific,11,15.994222222222213
+Perth,Australia,Australia/South Pacific,12,18.665521191294413
+Sydney,Australia,Australia/South Pacific,1,19.65929142542045
+Sydney,Australia,Australia/South Pacific,2,19.45812547241117
+Sydney,Australia,Australia/South Pacific,3,17.715536255858815
+Sydney,Australia,Australia/South Pacific,4,14.407905982905962
+Sydney,Australia,Australia/South Pacific,5,11.602650874224484
+Sydney,Australia,Australia/South Pacific,6,9.503333333333343
+Sydney,Australia,Australia/South Pacific,7,9.319498207885301
+Sydney,Australia,Australia/South Pacific,8,9.814767025089585
+Sydney,Australia,Australia/South Pacific,9,11.559851851851825
+Sydney,Australia,Australia/South Pacific,10,13.945591397849478
+Sydney,Australia,Australia/South Pacific,11,15.743037037037034
+Sydney,Australia,Australia/South Pacific,12,17.362686139748007
+Auckland,New Zealand,Australia/South Pacific,1,19.181486076647356
+Auckland,New Zealand,Australia/South Pacific,2,19.831443688586546
+Auckland,New Zealand,Australia/South Pacific,3,18.49910394265231
+Auckland,New Zealand,Australia/South Pacific,4,16.276566951566927
+Auckland,New Zealand,Australia/South Pacific,5,13.305062041737179
+Auckland,New Zealand,Australia/South Pacific,6,11.110666666666686
+Auckland,New Zealand,Australia/South Pacific,7,10.672688172043005
+Auckland,New Zealand,Australia/South Pacific,8,11.533405017921154
+Auckland,New Zealand,Australia/South Pacific,9,12.562666666666644
+Auckland,New Zealand,Australia/South Pacific,10,14.229677419354825
+Auckland,New Zealand,Australia/South Pacific,11,15.279629629629646
+Auckland,New Zealand,Australia/South Pacific,12,16.709765177548686
+Tirana,Albania,Europe,1,-8.27074717397299
+Tirana,Albania,Europe,2,-6.321088435374153
+Tirana,Albania,Europe,3,-3.895299145299139
+Tirana,Albania,Europe,4,-0.33311965811965927
+Tirana,Albania,Europe,5,1.6646221094190692
+Tirana,Albania,Europe,6,3.7451111111111146
+Tirana,Albania,Europe,7,8.91949820788529
+Tirana,Albania,Europe,8,7.745304659498199
+Tirana,Albania,Europe,9,6.885851851851864
+Tirana,Albania,Europe,10,2.5968458781362003
+Tirana,Albania,Europe,11,0.23792592592592537
+Tirana,Albania,Europe,12,-4.692726231386024
+Vienna,Austria,Europe,1,-0.01985111662531717
+Vienna,Austria,Europe,2,2.215343915343967
+Vienna,Austria,Europe,3,5.934036393713819
+Vienna,Austria,Europe,4,11.081196581196583
+Vienna,Austria,Europe,5,15.078962210941906
+Vienna,Austria,Europe,6,18.909555555555553
+Vienna,Austria,Europe,7,21.196845878136184
+Vienna,Austria,Europe,8,20.593691756272392
+Vienna,Austria,Europe,9,15.561925925925967
+Vienna,Austria,Europe,10,10.760143369175568
+Vienna,Austria,Europe,11,5.488962962962955
+Vienna,Austria,Europe,12,0.5581328751431909
+Minsk,Belarus,Europe,1,-4.868899917287
+Minsk,Belarus,Europe,2,-3.403401360544221
+Minsk,Belarus,Europe,3,0.7375930521091689
+Minsk,Belarus,Europe,4,6.056054131054118
+Minsk,Belarus,Europe,5,11.56156347186879
+Minsk,Belarus,Europe,6,15.492296296296267
+Minsk,Belarus,Europe,7,14.206379928315387
+Minsk,Belarus,Europe,8,15.352544802867413
+Minsk,Belarus,Europe,9,9.231703703703712
+Minsk,Belarus,Europe,10,3.5212903225806653
+Minsk,Belarus,Europe,11,1.2695555555555496
+Minsk,Belarus,Europe,12,-3.306056701030923
+Brussels,Belgium,Europe,1,3.4618141714915986
+Brussels,Belgium,Europe,2,4.384126984126976
+Brussels,Belgium,Europe,3,6.735318444995863
+Brussels,Belgium,Europe,4,9.957977207977203
+Brussels,Belgium,Europe,5,13.059362662154538
+Brussels,Belgium,Europe,6,16.039925925925928
+Brussels,Belgium,Europe,7,18.474910394265198
+Brussels,Belgium,Europe,8,18.15655913978488
+Brussels,Belgium,Europe,9,15.016962962962939
+Brussels,Belgium,Europe,10,11.531827956989254
+Brussels,Belgium,Europe,11,6.811333333333308
+Brussels,Belgium,Europe,12,3.7042525773195853
+Sofia,Bulgaria,Europe,1,-4.133512544802875
+Sofia,Bulgaria,Europe,2,-1.2892668178382434
+Sofia,Bulgaria,Europe,3,2.938792390405302
+Sofia,Bulgaria,Europe,4,7.588319088319074
+Sofia,Bulgaria,Europe,5,11.736534122955456
+Sofia,Bulgaria,Europe,6,15.340222222222208
+Sofia,Bulgaria,Europe,7,18.080716845878158
+Sofia,Bulgaria,Europe,8,17.785878136200747
+Sofia,Bulgaria,Europe,9,13.041777777777746
+Sofia,Bulgaria,Europe,10,8.040358422939091
+Sofia,Bulgaria,Europe,11,2.384666666666663
+Sofia,Bulgaria,Europe,12,-3.082116265750267
+Zagreb,Croatia,Europe,1,-4.673352633030046
+Zagreb,Croatia,Europe,2,0.39108087679516973
+Zagreb,Croatia,Europe,3,4.146539840088235
+Zagreb,Croatia,Europe,4,9.329415954415936
+Zagreb,Croatia,Europe,5,13.418890300720015
+Zagreb,Croatia,Europe,6,16.938296296296265
+Zagreb,Croatia,Europe,7,18.762365591397877
+Zagreb,Croatia,Europe,8,17.913691756272378
+Zagreb,Croatia,Europe,9,12.946074074074069
+Zagreb,Croatia,Europe,10,8.91397849462368
+Zagreb,Croatia,Europe,11,3.5359999999999894
+Zagreb,Croatia,Europe,12,-1.6199885452462839
+Nicosia,Cyprus,Europe,1,-15.187275985663083
+Nicosia,Cyprus,Europe,2,-15.984882005899705
+Nicosia,Cyprus,Europe,3,-15.295810931899641
+Nicosia,Cyprus,Europe,4,-2.7892361111111303
+Nicosia,Cyprus,Europe,5,2.3244847670250794
+Nicosia,Cyprus,Europe,6,10.298891247935842
+Nicosia,Cyprus,Europe,7,10.41421744324968
+Nicosia,Cyprus,Europe,8,9.730107526881731
+Nicosia,Cyprus,Europe,9,4.464541730670757
+Nicosia,Cyprus,Europe,10,-12.25029868578256
+Nicosia,Cyprus,Europe,11,-12.745061728395067
+Nicosia,Cyprus,Europe,12,-14.569175627240137
+Nicosia,Cyprus,Europe,09,-72.77777777777777
+Prague,Czech Republic,Europe,1,-1.2576509511993352
+Prague,Czech Republic,Europe,2,0.5535903250188904
+Prague,Czech Republic,Europe,3,3.835607940446657
+Prague,Czech Republic,Europe,4,9.009259259259276
+Prague,Czech Republic,Europe,5,12.971446700507638
+Prague,Czech Republic,Europe,6,16.37414814814815
+Prague,Czech Republic,Europe,7,18.7116129032258
+Prague,Czech Republic,Europe,8,18.301792114695353
+Prague,Czech Republic,Europe,9,13.699703703703664
+Prague,Czech Republic,Europe,10,8.967885304659527
+Prague,Czech Republic,Europe,11,3.5136296296296186
+Prague,Czech Republic,Europe,12,-0.3059851088201743
+Copenhagen,Denmark,Europe,1,0.6134546457127144
+Copenhagen,Denmark,Europe,2,1.1422524565381744
+Copenhagen,Denmark,Europe,3,2.8596636338571577
+Copenhagen,Denmark,Europe,4,6.9269943019942595
+Copenhagen,Denmark,Europe,5,10.860335589396515
+Copenhagen,Denmark,Europe,6,14.244518518518497
+Copenhagen,Denmark,Europe,7,17.191326164874567
+Copenhagen,Denmark,Europe,8,16.96953405017919
+Copenhagen,Denmark,Europe,9,13.515111111111086
+Copenhagen,Denmark,Europe,10,9.366738351254488
+Copenhagen,Denmark,Europe,11,4.7882962962963065
+Copenhagen,Denmark,Europe,12,1.634450171821295
+Helsinki,Finland,Europe,1,-4.713468431210374
+Helsinki,Finland,Europe,2,-4.6983371126228475
+Helsinki,Finland,Europe,3,-1.5949820788530547
+Helsinki,Finland,Europe,4,4.283760683760668
+Helsinki,Finland,Europe,5,10.098843767625507
+Helsinki,Finland,Europe,6,14.70118518518523
+Helsinki,Finland,Europe,7,18.14551971326163
+Helsinki,Finland,Europe,8,16.494336917562748
+Helsinki,Finland,Europe,9,11.546444444444452
+Helsinki,Finland,Europe,10,5.900286738351224
+Helsinki,Finland,Europe,11,1.1519999999999915
+Helsinki,Finland,Europe,12,-2.5719501718212987
+Paris,France,Europe,1,4.5615522470361
+Paris,France,Europe,2,5.570672713529853
+Paris,France,Europe,3,8.259649848359532
+Paris,France,Europe,4,11.172507122507104
+Paris,France,Europe,5,14.201353637901864
+Paris,France,Europe,6,17.846666666666664
+Paris,France,Europe,7,18.62537634408603
+Paris,France,Europe,8,18.492043010752695
+Paris,France,Europe,9,16.27985185185186
+Paris,France,Europe,10,12.697634408602125
+Paris,France,Europe,11,7.601481481481487
+Paris,France,Europe,12,4.589919816723961
+Bordeaux,France,Europe,1,6.520609318996434
+Bordeaux,France,Europe,2,7.316250944822384
+Bordeaux,France,Europe,3,10.149296939619493
+Bordeaux,France,Europe,4,12.577635327635287
+Bordeaux,France,Europe,5,15.818104906937398
+Bordeaux,France,Europe,6,19.14896296296295
+Bordeaux,France,Europe,7,21.30587813620069
+Bordeaux,France,Europe,8,21.190896057347683
+Bordeaux,France,Europe,9,18.203333333333305
+Bordeaux,France,Europe,10,14.83060931899643
+Bordeaux,France,Europe,11,9.694962962962983
+Bordeaux,France,Europe,12,6.537442726231413
+Bonn,Germany,Europe,1,-41.115890083632
+Bonn,Germany,Europe,2,-44.80533683289588
+Bonn,Germany,Europe,3,-48.70171246515333
+Bonn,Germany,Europe,4,-47.23292181069958
+Bonn,Germany,Europe,5,-41.14536041417763
+Bonn,Germany,Europe,6,-43.58827160493828
+Bonn,Germany,Europe,7,-39.98780975219824
+Bonn,Germany,Europe,8,-40.650313620071685
+Bonn,Germany,Europe,9,-40.76134259259259
+Bonn,Germany,Europe,10,-40.74283154121864
+Bonn,Germany,Europe,11,-44.7400462962963
+Bonn,Germany,Europe,12,-52.4630376344086
+Frankfurt,Germany,Europe,1,-31.646654719235382
+Frankfurt,Germany,Europe,2,-29.580793182563095
+Frankfurt,Germany,Europe,3,-26.257317801672635
+Frankfurt,Germany,Europe,4,-25.315487274984477
+Frankfurt,Germany,Europe,5,-31.420006516780713
+Frankfurt,Germany,Europe,6,-21.58299663299663
+Frankfurt,Germany,Europe,7,-19.75822743564679
+Frankfurt,Germany,Europe,8,-15.96399478657543
+Frankfurt,Germany,Europe,9,-21.876767676767678
+Frankfurt,Germany,Europe,10,-22.827142391658523
+Frankfurt,Germany,Europe,11,-28.88131313131314
+Frankfurt,Germany,Europe,12,-28.602639296187686
+Hamburg,Germany,Europe,1,-25.768727598566304
+Hamburg,Germany,Europe,2,-20.658786446020496
+Hamburg,Germany,Europe,3,-23.1478494623656
+Hamburg,Germany,Europe,4,-23.97814814814817
+Hamburg,Germany,Europe,5,-23.691397849462355
+Hamburg,Germany,Europe,6,-20.248055555555553
+Hamburg,Germany,Europe,7,-22.61111111111111
+Hamburg,Germany,Europe,8,-18.49856630824371
+Hamburg,Germany,Europe,9,-20.655092592592595
+Hamburg,Germany,Europe,10,-26.840770609318994
+Hamburg,Germany,Europe,11,-26.754195371842414
+Hamburg,Germany,Europe,12,-44.292386298215305
+Munich,Germany,Europe,1,-0.5490271377368237
+Munich,Germany,Europe,2,0.8715409467621605
+Munich,Germany,Europe,3,2.5925499231950826
+Munich,Germany,Europe,4,8.776521164021188
+Munich,Germany,Europe,5,12.2924836601307
+Munich,Germany,Europe,6,16.92414266117974
+Munich,Germany,Europe,7,18.81435019248641
+Munich,Germany,Europe,8,18.351188105668413
+Munich,Germany,Europe,9,11.806310013717436
+Munich,Germany,Europe,10,9.497876012212924
+Munich,Germany,Europe,11,3.1185185185185245
+Munich,Germany,Europe,12,-7.279246487867173
+Tbilisi,Georgia,Europe,1,1.4362305854241262
+Tbilisi,Georgia,Europe,2,3.910685021304485
+Tbilisi,Georgia,Europe,3,6.76164874551971
+Tbilisi,Georgia,Europe,4,10.825154320987648
+Tbilisi,Georgia,Europe,5,10.050627240143355
+Tbilisi,Georgia,Europe,6,12.65339506172838
+Tbilisi,Georgia,Europe,7,16.812574671445628
+Tbilisi,Georgia,Europe,8,17.41547192353647
+Tbilisi,Georgia,Europe,9,12.843672839506175
+Tbilisi,Georgia,Europe,10,6.537485065710859
+Tbilisi,Georgia,Europe,11,1.4191358024691307
+Tbilisi,Georgia,Europe,12,-4.24962155616107
+Athens,Greece,Europe,1,9.62524890481878
+Athens,Greece,Europe,2,10.054027504911602
+Athens,Greece,Europe,3,11.830645161290308
+Athens,Greece,Europe,4,15.497736625514367
+Athens,Greece,Europe,5,20.023894862604525
+Athens,Greece,Europe,6,19.897530864197503
+Athens,Greece,Europe,7,23.867383512544784
+Athens,Greece,Europe,8,23.4174631620868
+Athens,Greece,Europe,9,18.518518518518523
+Athens,Greece,Europe,10,14.225806451612897
+Athens,Greece,Europe,11,10.065740740740742
+Athens,Greece,Europe,12,6.819494225408206
+Budapest,Hungary,Europe,1,-0.943410532120187
+Budapest,Hungary,Europe,2,1.4885865457293808
+Budapest,Hungary,Europe,3,5.655017921146961
+Budapest,Hungary,Europe,4,11.466595441595423
+Budapest,Hungary,Europe,5,15.758530738860632
+Budapest,Hungary,Europe,6,19.529037037037043
+Budapest,Hungary,Europe,7,21.73498207885308
+Budapest,Hungary,Europe,8,21.194265232974914
+Budapest,Hungary,Europe,9,15.881333333333332
+Budapest,Hungary,Europe,10,10.854193548387103
+Budapest,Hungary,Europe,11,5.226370370370365
+Budapest,Hungary,Europe,12,-0.12285223367697008
+Reykjavik,Iceland,Europe,1,0.5637579266611483
+Reykjavik,Iceland,Europe,2,0.41806500377927275
+Reykjavik,Iceland,Europe,3,1.2204990350151708
+Reykjavik,Iceland,Europe,4,3.7287037037036836
+Reykjavik,Iceland,Europe,5,6.308798646362072
+Reykjavik,Iceland,Europe,6,9.612370370370323
+Reykjavik,Iceland,Europe,7,11.77792114695341
+Reykjavik,Iceland,Europe,8,11.184946236559128
+Reykjavik,Iceland,Europe,9,8.617111111111123
+Reykjavik,Iceland,Europe,10,5.0177060931899735
+Reykjavik,Iceland,Europe,11,1.9541481481481702
+Reykjavik,Iceland,Europe,12,0.3972651775486942
+Dublin,Ireland,Europe,1,5.1587400055141925
+Dublin,Ireland,Europe,2,5.373696145124703
+Dublin,Ireland,Europe,3,6.284877309070822
+Dublin,Ireland,Europe,4,8.009116809116822
+Dublin,Ireland,Europe,5,10.264382402707257
+Dublin,Ireland,Europe,6,13.049851851851844
+Dublin,Ireland,Europe,7,15.236702508960605
+Dublin,Ireland,Europe,8,14.907956989247237
+Dublin,Ireland,Europe,9,13.090666666666687
+Dublin,Ireland,Europe,10,10.615985663082423
+Dublin,Ireland,Europe,11,7.009333333333344
+Dublin,Ireland,Europe,12,5.01990263459336
+Milan,Italy,Europe,1,1.70567962503445
+Milan,Italy,Europe,2,3.745351473922914
+Milan,Italy,Europe,3,8.259511993382965
+Milan,Italy,Europe,4,12.292735042735046
+Milan,Italy,Europe,5,16.307670614777244
+Milan,Italy,Europe,6,20.710222222222185
+Milan,Italy,Europe,7,23.29949820788528
+Milan,Italy,Europe,8,22.432903225806474
+Milan,Italy,Europe,9,17.852666666666675
+Milan,Italy,Europe,10,12.820501792114676
+Milan,Italy,Europe,11,6.859185185185225
+Milan,Italy,Europe,12,2.0503293241695215
+Rome,Italy,Europe,1,8.007650951199388
+Rome,Italy,Europe,2,8.725472411186685
+Rome,Italy,Europe,3,10.944995864350675
+Rome,Italy,Europe,4,13.658760683760683
+Rome,Italy,Europe,5,17.355118443316414
+Rome,Italy,Europe,6,21.392296296296323
+Rome,Italy,Europe,7,24.449247311827992
+Rome,Italy,Europe,8,24.43978494623654
+Rome,Italy,Europe,9,20.85103703703704
+Rome,Italy,Europe,10,17.34093189964161
+Rome,Italy,Europe,11,12.643629629629613
+Rome,Italy,Europe,12,8.740907789232564
+Riga,Latvia,Europe,1,-2.9967604080507035
+Riga,Latvia,Europe,2,-2.464172335600908
+Riga,Latvia,Europe,3,0.721532947339405
+Riga,Latvia,Europe,4,6.582905982905981
+Riga,Latvia,Europe,5,11.76677946982516
+Riga,Latvia,Europe,6,14.289407407407404
+Riga,Latvia,Europe,7,15.24007168458782
+Riga,Latvia,Europe,8,16.859283154121854
+Riga,Latvia,Europe,9,12.723037037037065
+Riga,Latvia,Europe,10,7.300215053763411
+Riga,Latvia,Europe,11,2.5248888888888863
+Riga,Latvia,Europe,12,-1.2550830469644936
+Skopje,Macedonia,Europe,1,-0.7217391304347941
+Skopje,Macedonia,Europe,2,3.1492819349962295
+Skopje,Macedonia,Europe,3,7.647711607389024
+Skopje,Macedonia,Europe,4,12.14871794871796
+Skopje,Macedonia,Europe,5,16.722292724196272
+Skopje,Macedonia,Europe,6,21.27444444444444
+Skopje,Macedonia,Europe,7,24.26602150537633
+Skopje,Macedonia,Europe,8,23.882939068100374
+Skopje,Macedonia,Europe,9,18.51555555555554
+Skopje,Macedonia,Europe,10,12.588172043010765
+Skopje,Macedonia,Europe,11,6.602518518518536
+Skopje,Macedonia,Europe,12,1.1113974799541912
+Amsterdam,The Netherlands,Europe,1,3.534877309070872
+Amsterdam,The Netherlands,Europe,2,4.272713529856366
+Amsterdam,The Netherlands,Europe,3,6.317135373587012
+Amsterdam,The Netherlands,Europe,4,9.686538461538458
+Amsterdam,The Netherlands,Europe,5,12.832064297800317
+Amsterdam,The Netherlands,Europe,6,15.598074074074061
+Amsterdam,The Netherlands,Europe,7,18.11792114695346
+Amsterdam,The Netherlands,Europe,8,17.816415770609286
+Amsterdam,The Netherlands,Europe,9,15.01911111111115
+Amsterdam,The Netherlands,Europe,10,11.614480286738369
+Amsterdam,The Netherlands,Europe,11,7.02629629629629
+Amsterdam,The Netherlands,Europe,12,3.9175257731958584
+Oslo,Norway,Europe,1,-4.6048718969866025
+Oslo,Norway,Europe,2,-3.8254799301919715
+Oslo,Norway,Europe,3,-0.5764635603345347
+Oslo,Norway,Europe,4,4.573799725651588
+Oslo,Norway,Europe,5,9.616876950210266
+Oslo,Norway,Europe,6,13.754059829059845
+Oslo,Norway,Europe,7,16.67872897711605
+Oslo,Norway,Europe,8,15.187689550592772
+Oslo,Norway,Europe,9,10.899501424501413
+Oslo,Norway,Europe,10,5.337468982630248
+Oslo,Norway,Europe,11,0.08112535612534247
+Oslo,Norway,Europe,12,-7.071428571428577
+Warsaw,Poland,Europe,1,-2.071064240419099
+Warsaw,Poland,Europe,2,-0.30120937263793834
+Warsaw,Poland,Europe,3,3.1651502619244494
+Warsaw,Poland,Europe,4,9.145085470085464
+Warsaw,Poland,Europe,5,13.988155668358731
+Warsaw,Poland,Europe,6,17.390444444444487
+Warsaw,Poland,Europe,7,19.767670250896035
+Warsaw,Poland,Europe,8,18.893261648745472
+Warsaw,Poland,Europe,9,13.817925925925952
+Warsaw,Poland,Europe,10,8.855627240143393
+Warsaw,Poland,Europe,11,3.618296296296282
+Warsaw,Poland,Europe,12,-0.7085481099656614
+Lisbon,Portugal,Europe,1,10.851874827681314
+Lisbon,Portugal,Europe,2,11.95479969765686
+Lisbon,Portugal,Europe,3,13.728977116073896
+Lisbon,Portugal,Europe,4,15.132621082621101
+Lisbon,Portugal,Europe,5,17.239636209813916
+Lisbon,Portugal,Europe,6,20.312222222222164
+Lisbon,Portugal,Europe,7,22.200645161290314
+Lisbon,Portugal,Europe,8,23.00637992831542
+Lisbon,Portugal,Europe,9,21.342518518518563
+Lisbon,Portugal,Europe,10,18.689247311827966
+Lisbon,Portugal,Europe,11,13.577185185185177
+Lisbon,Portugal,Europe,12,11.302047537227939
+Bucharest,Romania,Europe,1,-1.8862007168458916
+Bucharest,Romania,Europe,2,1.2431594860166504
+Bucharest,Romania,Europe,3,6.120140612076075
+Bucharest,Romania,Europe,4,11.767378917378934
+Bucharest,Romania,Europe,5,16.90376480541456
+Bucharest,Romania,Europe,6,21.007703703703644
+Bucharest,Romania,Europe,7,23.46659498207883
+Bucharest,Romania,Europe,8,22.980645161290333
+Bucharest,Romania,Europe,9,17.469777777777765
+Bucharest,Romania,Europe,10,11.561720430107588
+Bucharest,Romania,Europe,11,5.777037037037036
+Bucharest,Romania,Europe,12,-0.1815578465062827
+Moscow,Russia,Europe,1,-7.456437827405567
+Moscow,Russia,Europe,2,-6.535903250188954
+Moscow,Russia,Europe,3,-1.5179900744416959
+Moscow,Russia,Europe,4,6.28839031339031
+Moscow,Russia,Europe,5,12.865129723632258
+Moscow,Russia,Europe,6,16.465777777777774
+Moscow,Russia,Europe,7,19.494767025089615
+Moscow,Russia,Europe,8,17.222007168458806
+Moscow,Russia,Europe,9,11.237703703703714
+Moscow,Russia,Europe,10,5.316200716845844
+Moscow,Russia,Europe,11,-1.282222222222238
+Moscow,Russia,Europe,12,-5.541308705612816
+Yerevan,Russia,Europe,1,-2.2618478693747512
+Yerevan,Russia,Europe,2,-0.13035870516185513
+Yerevan,Russia,Europe,3,6.481680605336525
+Yerevan,Russia,Europe,4,12.900205761316862
+Yerevan,Russia,Europe,5,16.771405814416532
+Yerevan,Russia,Europe,6,21.042386831275774
+Yerevan,Russia,Europe,7,26.854042214257245
+Yerevan,Russia,Europe,8,26.864794902429324
+Yerevan,Russia,Europe,9,17.682716049382684
+Yerevan,Russia,Europe,10,10.840302668259664
+Yerevan,Russia,Europe,11,5.394907407407412
+Yerevan,Russia,Europe,12,-0.7387992831541408
+Pristina,Serbia-Montenegro,Europe,1,-1.4544802867383626
+Pristina,Serbia-Montenegro,Europe,2,0.03965449548487814
+Pristina,Serbia-Montenegro,Europe,3,4.1086021505376396
+Pristina,Serbia-Montenegro,Europe,4,2.2135185185185176
+Pristina,Serbia-Montenegro,Europe,5,6.567673378076072
+Pristina,Serbia-Montenegro,Europe,6,6.833539094650224
+Pristina,Serbia-Montenegro,Europe,7,14.190760653126262
+Pristina,Serbia-Montenegro,Europe,8,12.194942254082045
+Pristina,Serbia-Montenegro,Europe,9,15.041152263374467
+Pristina,Serbia-Montenegro,Europe,10,8.322978892871369
+Pristina,Serbia-Montenegro,Europe,11,5.240123456790119
+Pristina,Serbia-Montenegro,Europe,12,-2.3859020310633263
+Bratislava,Slovakia,Europe,1,-0.42928039702233456
+Bratislava,Slovakia,Europe,2,2.0818594104308414
+Bratislava,Slovakia,Europe,3,6.039012958367802
+Bratislava,Slovakia,Europe,4,11.516239316239307
+Bratislava,Slovakia,Europe,5,15.537930062041706
+Bratislava,Slovakia,Europe,6,19.562962962963027
+Bratislava,Slovakia,Europe,7,21.790609318996488
+Bratislava,Slovakia,Europe,8,21.04752688172046
+Bratislava,Slovakia,Europe,9,15.964814814814824
+Bratislava,Slovakia,Europe,10,10.950322580645162
+Bratislava,Slovakia,Europe,11,5.480962962962973
+Bratislava,Slovakia,Europe,12,0.4964919816723936
+Barcelona,Spain,Europe,1,9.26013234077747
+Barcelona,Spain,Europe,2,10.090551776266068
+Barcelona,Spain,Europe,3,12.135511441963079
+Barcelona,Spain,Europe,4,14.297934472934505
+Barcelona,Spain,Europe,5,17.13649182177105
+Barcelona,Spain,Europe,6,21.281777777777766
+Barcelona,Spain,Europe,7,24.490322580645156
+Barcelona,Spain,Europe,8,24.64344086021502
+Barcelona,Spain,Europe,9,21.65385185185181
+Barcelona,Spain,Europe,10,18.391326164874535
+Barcelona,Spain,Europe,11,12.638222222222229
+Barcelona,Spain,Europe,12,9.461268613974786
+Bilbao,Spain,Europe,1,9.405224703611808
+Bilbao,Spain,Europe,2,9.534618291761173
+Bilbao,Spain,Europe,3,11.684105321202066
+Bilbao,Spain,Europe,4,13.221438746438784
+Bilbao,Spain,Europe,5,15.688663282571875
+Bilbao,Spain,Europe,6,18.813851851851872
+Bilbao,Spain,Europe,7,21.159784946236528
+Bilbao,Spain,Europe,8,21.329462365591397
+Bilbao,Spain,Europe,9,19.29562962962963
+Bilbao,Spain,Europe,10,16.974408602150536
+Bilbao,Spain,Europe,11,11.721777777777808
+Bilbao,Spain,Europe,12,9.383519473081357
+Madrid,Spain,Europe,1,5.487248414667754
+Madrid,Spain,Europe,2,6.975283446712016
+Madrid,Spain,Europe,3,10.235180590019281
+Madrid,Spain,Europe,4,13.001353276353278
+Madrid,Spain,Europe,5,16.665891144952024
+Madrid,Spain,Europe,6,22.539851851851854
+Madrid,Spain,Europe,7,26.17627240143368
+Madrid,Spain,Europe,8,25.401720430107503
+Madrid,Spain,Europe,9,20.643185185185164
+Madrid,Spain,Europe,10,15.349677419354837
+Madrid,Spain,Europe,11,8.850222222222262
+Madrid,Spain,Europe,12,5.339203894616272
+Stockholm,Sweden,Europe,1,-2.00199889716016
+Stockholm,Sweden,Europe,2,-1.431670445956173
+Stockholm,Sweden,Europe,3,1.0845740281224419
+Stockholm,Sweden,Europe,4,5.900997150997149
+Stockholm,Sweden,Europe,5,10.662648054145507
+Stockholm,Sweden,Europe,6,15.188222222222237
+Stockholm,Sweden,Europe,7,18.56336917562724
+Stockholm,Sweden,Europe,8,17.362293906809995
+Stockholm,Sweden,Europe,9,12.71888888888889
+Stockholm,Sweden,Europe,10,7.381648745519726
+Stockholm,Sweden,Europe,11,2.8809629629629265
+Stockholm,Sweden,Europe,12,-0.599226804123746
+Bern,Switzerland,Europe,1,0.12985938792392837
+Bern,Switzerland,Europe,2,1.7280423280423522
+Bern,Switzerland,Europe,3,5.664047422111969
+Bern,Switzerland,Europe,4,9.51189458689456
+Bern,Switzerland,Europe,5,12.89072194021434
+Bern,Switzerland,Europe,6,17.57585185185185
+Bern,Switzerland,Europe,7,19.510179211469563
+Bern,Switzerland,Europe,8,18.671827956989304
+Bern,Switzerland,Europe,9,14.30533333333333
+Bern,Switzerland,Europe,10,10.187025089605713
+Bern,Switzerland,Europe,11,4.071555555555572
+Bern,Switzerland,Europe,12,-0.3728522336769756
+Geneva,Switzerland,Europe,1,1.7772952853598016
+Geneva,Switzerland,Europe,2,3.0408163265306203
+Geneva,Switzerland,Europe,3,6.610835401157967
+Geneva,Switzerland,Europe,4,10.508475783475767
+Geneva,Switzerland,Europe,5,14.117667794698276
+Geneva,Switzerland,Europe,6,18.278148148148148
+Geneva,Switzerland,Europe,7,20.60802867383514
+Geneva,Switzerland,Europe,8,19.78200716845873
+Geneva,Switzerland,Europe,9,15.509185185185212
+Geneva,Switzerland,Europe,10,11.523369175627213
+Geneva,Switzerland,Europe,11,5.554740740740741
+Geneva,Switzerland,Europe,12,2.2100515463917723
+Zurich,Switzerland,Europe,1,0.6277226357871434
+Zurich,Switzerland,Europe,2,1.9164021164021052
+Zurich,Switzerland,Europe,3,5.528329197684031
+Zurich,Switzerland,Europe,4,9.41139601139603
+Zurich,Switzerland,Europe,5,13.032148900169204
+Zurich,Switzerland,Europe,6,16.878740740740707
+Zurich,Switzerland,Europe,7,18.903942652329736
+Zurich,Switzerland,Europe,8,18.115340501792073
+Zurich,Switzerland,Europe,9,14.08925925925928
+Zurich,Switzerland,Europe,10,10.11096774193548
+Zurich,Switzerland,Europe,11,4.402296296296279
+Zurich,Switzerland,Europe,12,1.1096792668957614
+Kiev,Ukraine,Europe,1,-3.8893713813068604
+Kiev,Ukraine,Europe,2,-2.2595616024187355
+Kiev,Ukraine,Europe,3,2.0795423214778217
+Kiev,Ukraine,Europe,4,9.961396011396017
+Kiev,Ukraine,Europe,5,15.612944162436527
+Kiev,Ukraine,Europe,6,19.087555555555557
+Kiev,Ukraine,Europe,7,21.352544802867374
+Kiev,Ukraine,Europe,8,20.11405017921148
+Kiev,Ukraine,Europe,9,14.316518518518528
+Kiev,Ukraine,Europe,10,8.349390681003602
+Kiev,Ukraine,Europe,11,2.5260740740740593
+Kiev,Ukraine,Europe,12,-2.4200315005727506
+Belfast,United Kingdom,Europe,1,4.971050454921403
+Belfast,United Kingdom,Europe,2,5.754497354497371
+Belfast,United Kingdom,Europe,3,6.8997105045492075
+Belfast,United Kingdom,Europe,4,8.70327635327636
+Belfast,United Kingdom,Europe,5,11.339537507050194
+Belfast,United Kingdom,Europe,6,13.912444444444484
+Belfast,United Kingdom,Europe,7,16.044086021505386
+Belfast,United Kingdom,Europe,8,15.351111111111116
+Belfast,United Kingdom,Europe,9,13.573037037037032
+Belfast,United Kingdom,Europe,10,11.053978494623623
+Belfast,United Kingdom,Europe,11,7.283407407407402
+Belfast,United Kingdom,Europe,12,3.0325744558992125
+London,United Kingdom,Europe,1,5.378480838158243
+London,United Kingdom,Europe,2,5.922902494331066
+London,United Kingdom,Europe,3,7.544733939895252
+London,United Kingdom,Europe,4,10.093304843304814
+London,United Kingdom,Europe,5,12.884870276367703
+London,United Kingdom,Europe,6,16.100888888888893
+London,United Kingdom,Europe,7,18.714982078853065
+London,United Kingdom,Europe,8,18.103512544802857
+London,United Kingdom,Europe,9,15.558962962962905
+London,United Kingdom,Europe,10,12.347240143369172
+London,United Kingdom,Europe,11,7.9485925925926075
+London,United Kingdom,Europe,12,5.451532073310403
+Belgrade,Yugoslavia,Europe,1,0.6470223325062068
+Belgrade,Yugoslavia,Europe,2,3.193953136810295
+Belgrade,Yugoslavia,Europe,3,7.476909291425421
+Belgrade,Yugoslavia,Europe,4,12.763319088319093
+Belgrade,Yugoslavia,Europe,5,17.111181613085158
+Belgrade,Yugoslavia,Europe,6,20.850666666666637
+Belgrade,Yugoslavia,Europe,7,23.118709677419343
+Belgrade,Yugoslavia,Europe,8,22.80473118279572
+Belgrade,Yugoslavia,Europe,9,17.61800000000001
+Belgrade,Yugoslavia,Europe,10,12.858494623655917
+Belgrade,Yugoslavia,Europe,11,7.222740740740755
+Belgrade,Yugoslavia,Europe,12,1.6252147766323135
+Manama,Bahrain,Middle East,1,17.32106424041916
+Manama,Bahrain,Middle East,2,18.50559334845048
+Manama,Bahrain,Middle East,3,21.55845051006342
+Manama,Bahrain,Middle East,4,25.998789173789206
+Manama,Bahrain,Middle East,5,30.819444444444464
+Manama,Bahrain,Middle East,6,33.667037037036984
+Manama,Bahrain,Middle East,7,35.4192114695341
+Manama,Bahrain,Middle East,8,35.072974910394294
+Manama,Bahrain,Middle East,9,33.13303703703702
+Manama,Bahrain,Middle East,10,30.072401433691716
+Manama,Bahrain,Middle East,11,24.060592592592602
+Manama,Bahrain,Middle East,12,19.04495990836193
+Tel Aviv,Israel,Middle East,1,2.9671905155776006
+Tel Aviv,Israel,Middle East,2,1.9747199515591913
+Tel Aviv,Israel,Middle East,3,8.252274607113309
+Tel Aviv,Israel,Middle East,4,14.932478632478649
+Tel Aviv,Israel,Middle East,5,20.695616211745232
+Tel Aviv,Israel,Middle East,6,21.70256410256413
+Tel Aviv,Israel,Middle East,7,23.216018748276795
+Tel Aviv,Israel,Middle East,8,20.487455197132633
+Tel Aviv,Israel,Middle East,9,13.042814814814818
+Tel Aviv,Israel,Middle East,10,7.374402628434893
+Tel Aviv,Israel,Middle East,11,8.341975308641972
+Tel Aviv,Israel,Middle East,12,1.7525388291517372
+Amman,Jordan,Middle East,1,7.971877584780821
+Amman,Jordan,Middle East,2,9.571126228269062
+Amman,Jordan,Middle East,3,12.733664185277101
+Amman,Jordan,Middle East,4,16.831196581196522
+Amman,Jordan,Middle East,5,21.098068245910927
+Amman,Jordan,Middle East,6,24.45533333333332
+Amman,Jordan,Middle East,7,26.843369175627238
+Amman,Jordan,Middle East,8,26.444802867383526
+Amman,Jordan,Middle East,9,24.104666666666677
+Amman,Jordan,Middle East,10,20.745304659498224
+Amman,Jordan,Middle East,11,14.41785185185185
+Amman,Jordan,Middle East,12,9.621993127147771
+Kuwait,Kuwait,Middle East,1,13.119520264681531
+Kuwait,Kuwait,Middle East,2,15.52698412698414
+Kuwait,Kuwait,Middle East,3,20.36924455472841
+Kuwait,Kuwait,Middle East,4,25.983903133903127
+Kuwait,Kuwait,Middle East,5,32.355752961082935
+Kuwait,Kuwait,Middle East,6,37.17911111111108
+Kuwait,Kuwait,Middle East,7,38.24014336917563
+Kuwait,Kuwait,Middle East,8,38.38057347670255
+Kuwait,Kuwait,Middle East,9,34.5598518518519
+Kuwait,Kuwait,Middle East,10,27.54121863799281
+Kuwait,Kuwait,Middle East,11,19.737555555555605
+Kuwait,Kuwait,Middle East,12,14.162371134020646
+Beirut,Lebanon,Middle East,1,14.03342983181693
+Beirut,Lebanon,Middle East,2,14.59871504157219
+Beirut,Lebanon,Middle East,3,16.51220016542597
+Beirut,Lebanon,Middle East,4,18.8153846153846
+Beirut,Lebanon,Middle East,5,21.74252679075017
+Beirut,Lebanon,Middle East,6,24.854074074074088
+Beirut,Lebanon,Middle East,7,25.961577060931933
+Beirut,Lebanon,Middle East,8,28.097562724014367
+Beirut,Lebanon,Middle East,9,25.906074074074027
+Beirut,Lebanon,Middle East,10,24.114193548387114
+Beirut,Lebanon,Middle East,11,19.57622222222223
+Beirut,Lebanon,Middle East,12,15.493556701030988
+Muscat,Oman,Middle East,1,-3.4571326164874585
+Muscat,Oman,Middle East,2,-7.74228832231665
+Muscat,Oman,Middle East,3,-1.5782078853046617
+Muscat,Oman,Middle East,4,-3.7225925925925947
+Muscat,Oman,Middle East,5,-0.6791001868621629
+Muscat,Oman,Middle East,6,-6.3037037037037065
+Muscat,Oman,Middle East,7,-12.567876344086024
+Muscat,Oman,Middle East,8,-8.904644563918758
+Muscat,Oman,Middle East,9,-6.829089506172846
+Muscat,Oman,Middle East,10,-3.204749103942649
+Muscat,Oman,Middle East,11,-6.553240740740743
+Muscat,Oman,Middle East,12,-6.5277777777777795
+Doha,Qatar,Middle East,1,18.03005238489111
+Doha,Qatar,Middle East,2,19.386545729402908
+Doha,Qatar,Middle East,3,22.61393713813074
+Doha,Qatar,Middle East,4,27.20113960113959
+Doha,Qatar,Middle East,5,32.47292724196281
+Doha,Qatar,Middle East,6,35.20022222222232
+Doha,Qatar,Middle East,7,36.620358422939105
+Doha,Qatar,Middle East,8,35.37311827956986
+Doha,Qatar,Middle East,9,33.301777777777794
+Doha,Qatar,Middle East,10,30.483870967741943
+Doha,Qatar,Middle East,11,24.806296296296278
+Doha,Qatar,Middle East,12,19.828536655211906
+Dhahran,Saudi Arabia,Middle East,1,12.682451061483317
+Dhahran,Saudi Arabia,Middle East,2,17.752154195011347
+Dhahran,Saudi Arabia,Middle East,3,21.53735869864903
+Dhahran,Saudi Arabia,Middle East,4,26.429415954415933
+Dhahran,Saudi Arabia,Middle East,5,31.76642695995485
+Dhahran,Saudi Arabia,Middle East,6,34.37303703703707
+Dhahran,Saudi Arabia,Middle East,7,36.85770609318997
+Dhahran,Saudi Arabia,Middle East,8,35.74365591397849
+Dhahran,Saudi Arabia,Middle East,9,32.60044444444442
+Dhahran,Saudi Arabia,Middle East,10,28.993548387096812
+Dhahran,Saudi Arabia,Middle East,11,22.48666666666666
+Dhahran,Saudi Arabia,Middle East,12,16.855598510882032
+Riyadh,Saudi Arabia,Middle East,1,13.607320099255604
+Riyadh,Saudi Arabia,Middle East,2,16.900151171579708
+Riyadh,Saudi Arabia,Middle East,3,21.13964709126001
+Riyadh,Saudi Arabia,Middle East,4,26.35505698005695
+Riyadh,Saudi Arabia,Middle East,5,31.805344049633398
+Riyadh,Saudi Arabia,Middle East,6,34.77970370370369
+Riyadh,Saudi Arabia,Middle East,7,36.527885304659556
+Riyadh,Saudi Arabia,Middle East,8,35.74301075268814
+Riyadh,Saudi Arabia,Middle East,9,32.57029629629629
+Riyadh,Saudi Arabia,Middle East,10,27.629677419354866
+Riyadh,Saudi Arabia,Middle East,11,19.737703703703698
+Riyadh,Saudi Arabia,Middle East,12,14.775272050400872
+Damascus,Syria,Middle East,1,5.7839199447895
+Damascus,Syria,Middle East,2,8.392668178382479
+Damascus,Syria,Middle East,3,11.619864902122966
+Damascus,Syria,Middle East,4,16.275783475783467
+Damascus,Syria,Middle East,5,20.705936266215424
+Damascus,Syria,Middle East,6,25.324444444444453
+Damascus,Syria,Middle East,7,27.703942652329747
+Damascus,Syria,Middle East,8,27.586236559139802
+Damascus,Syria,Middle East,9,23.96807407407412
+Damascus,Syria,Middle East,10,19.338494623655883
+Damascus,Syria,Middle East,11,12.21525925925923
+Damascus,Syria,Middle East,12,6.953894616265721
+Ankara,Turkey,Middle East,1,-1.1117314585056606
+Ankara,Turkey,Middle East,2,1.1180650037792992
+Ankara,Turkey,Middle East,3,4.965191618417436
+Ankara,Turkey,Middle East,4,9.59508547008548
+Ankara,Turkey,Middle East,5,14.189368302312515
+Ankara,Turkey,Middle East,6,18.37199999999999
+Ankara,Turkey,Middle East,7,22.525878136200745
+Ankara,Turkey,Middle East,8,22.42666666666669
+Ankara,Turkey,Middle East,9,17.381703703703696
+Ankara,Turkey,Middle East,10,11.67541218637991
+Ankara,Turkey,Middle East,11,4.8776296296296335
+Ankara,Turkey,Middle East,12,0.46377434135165413
+Istanbul,Turkey,Middle East,1,6.167493796526051
+Istanbul,Turkey,Middle East,2,6.8368102796674215
+Istanbul,Turkey,Middle East,3,8.79769782189135
+Istanbul,Turkey,Middle East,4,12.510327635327677
+Istanbul,Turkey,Middle East,5,17.376621545403268
+Istanbul,Turkey,Middle East,6,22.35251851851852
+Istanbul,Turkey,Middle East,7,25.59283154121862
+Istanbul,Turkey,Middle East,8,25.43448028673841
+Istanbul,Turkey,Middle East,9,21.419629629629615
+Istanbul,Turkey,Middle East,10,16.87211469534047
+Istanbul,Turkey,Middle East,11,12.207999999999966
+Istanbul,Turkey,Middle East,12,7.959407216494859
+Abu Dhabi,United Arab Emirates,Middle East,1,18.91004962779158
+Abu Dhabi,United Arab Emirates,Middle East,2,20.689115646258543
+Abu Dhabi,United Arab Emirates,Middle East,3,23.52977667493802
+Abu Dhabi,United Arab Emirates,Middle East,4,27.17464387464386
+Abu Dhabi,United Arab Emirates,Middle East,5,31.38240270727582
+Abu Dhabi,United Arab Emirates,Middle East,6,33.34644444444442
+Abu Dhabi,United Arab Emirates,Middle East,7,35.803655913978474
+Abu Dhabi,United Arab Emirates,Middle East,8,35.816989247311845
+Abu Dhabi,United Arab Emirates,Middle East,9,33.20918518518511
+Abu Dhabi,United Arab Emirates,Middle East,10,29.909964157706124
+Abu Dhabi,United Arab Emirates,Middle East,11,24.7877037037037
+Abu Dhabi,United Arab Emirates,Middle East,12,20.422107674684973
+Dubai,United Arab Emirates,Middle East,1,19.73580093741381
+Dubai,United Arab Emirates,Middle East,2,21.253212396069525
+Dubai,United Arab Emirates,Middle East,3,23.770333609043323
+Dubai,United Arab Emirates,Middle East,4,27.438746438746477
+Dubai,United Arab Emirates,Middle East,5,31.494007332205268
+Dubai,United Arab Emirates,Middle East,6,33.64681481481485
+Dubai,United Arab Emirates,Middle East,7,36.05397849462365
+Dubai,United Arab Emirates,Middle East,8,36.00329749103945
+Dubai,United Arab Emirates,Middle East,9,33.34237037037037
+Dubai,United Arab Emirates,Middle East,10,30.61677419354845
+Dubai,United Arab Emirates,Middle East,11,25.510074074074097
+Dubai,United Arab Emirates,Middle East,12,21.31751145475374
+Calgary,Canada,North America,1,-7.415993537964462
+Calgary,Canada,North America,2,-5.409832841691243
+Calgary,Canada,North America,3,-2.700179211469522
+Calgary,Canada,North America,4,3.7988888888888894
+Calgary,Canada,North America,5,9.573207885304656
+Calgary,Canada,North America,6,12.869731800766289
+Calgary,Canada,North America,7,17.03471043199394
+Calgary,Canada,North America,8,15.903980381060178
+Calgary,Canada,North America,9,11.545614035087697
+Calgary,Canada,North America,10,4.936710054706666
+Calgary,Canada,North America,11,-2.8115984405458168
+Calgary,Canada,North America,12,-7.673457838143752
+Edmonton,Canada,North America,1,-10.774449564772155
+Edmonton,Canada,North America,2,-7.634157766535499
+Edmonton,Canada,North America,3,-3.662143710530821
+Edmonton,Canada,North America,4,4.582547605842125
+Edmonton,Canada,North America,5,11.40107526881719
+Edmonton,Canada,North America,6,15.041203703703692
+Edmonton,Canada,North America,7,18.31379928315414
+Edmonton,Canada,North America,8,16.810573476702512
+Edmonton,Canada,North America,9,12.123703703703715
+Edmonton,Canada,North America,10,5.155913978494608
+Edmonton,Canada,North America,11,-4.3853703703703735
+Edmonton,Canada,North America,12,-10.771236559139787
+Halifax,Canada,North America,1,-5.154390681003595
+Halifax,Canada,North America,2,-4.500884955752205
+Halifax,Canada,North America,3,-0.865770609318961
+Halifax,Canada,North America,4,4.078518518518521
+Halifax,Canada,North America,5,9.580286738351244
+Halifax,Canada,North America,6,13.995306513409945
+Halifax,Canada,North America,7,18.274948122995703
+Halifax,Canada,North America,8,18.20552725900772
+Halifax,Canada,North America,9,14.958479532163729
+Halifax,Canada,North America,10,9.21552537257123
+Halifax,Canada,North America,11,3.6882066276803136
+Halifax,Canada,North America,12,-1.9015280135823491
+Montreal,Canada,North America,1,-8.866263440860214
+Montreal,Canada,North America,2,-6.940757128810225
+Montreal,Canada,North America,3,-1.3341173835125513
+Montreal,Canada,North America,4,6.513541666666656
+Montreal,Canada,North America,5,13.905801971326163
+Montreal,Canada,North America,6,18.665624999999974
+Montreal,Canada,North America,7,21.546482974910425
+Montreal,Canada,North America,8,20.625256673511235
+Montreal,Canada,North America,9,16.363950617283972
+Montreal,Canada,North America,10,9.149581839904407
+Montreal,Canada,North America,11,2.537530864197528
+Montreal,Canada,North America,12,-4.98661887694147
+Ottawa,Canada,North America,1,-9.43512544802867
+Ottawa,Canada,North America,2,-7.482399213372665
+Ottawa,Canada,North America,3,-1.7461469534050127
+Ottawa,Canada,North America,4,6.128055555555545
+Ottawa,Canada,North America,5,13.731989247311828
+Ottawa,Canada,North America,6,18.270689655172443
+Ottawa,Canada,North America,7,21.094038860592363
+Ottawa,Canada,North America,8,19.79145444255803
+Ottawa,Canada,North America,9,15.487134502923952
+Ottawa,Canada,North America,10,8.522637238256928
+Ottawa,Canada,North America,11,1.6984405458089766
+Ottawa,Canada,North America,12,-5.789850971514803
+Quebec,Canada,North America,1,-13.307209815274332
+Quebec,Canada,North America,2,-10.984278155706733
+Quebec,Canada,North America,3,-4.2834298318169335
+Quebec,Canada,North America,4,2.7559829059829175
+Quebec,Canada,North America,5,10.741705492023154
+Quebec,Canada,North America,6,16.329481481481483
+Quebec,Canada,North America,7,19.46616487455199
+Quebec,Canada,North America,8,18.15677419354837
+Quebec,Canada,North America,9,13.56918518518523
+Quebec,Canada,North America,10,7.151827956989267
+Quebec,Canada,North America,11,-0.8047407407407311
+Quebec,Canada,North America,12,-7.286941580755998
+Regina,Canada,North America,1,-14.266335814722911
+Regina,Canada,North America,2,-12.535978835978831
+Regina,Canada,North America,3,-5.974565756823813
+Regina,Canada,North America,4,3.6326210826210765
+Regina,Canada,North America,5,11.011421319796975
+Regina,Canada,North America,6,15.695037037037022
+Regina,Canada,North America,7,19.10215053763443
+Regina,Canada,North America,8,17.890250896057374
+Regina,Canada,North America,9,12.164370370370357
+Regina,Canada,North America,10,4.151684587813623
+Regina,Canada,North America,11,-5.589407407407417
+Regina,Canada,North America,12,-12.623138602520044
+Toronto,Canada,North America,1,-4.710035842293895
+Toronto,Canada,North America,2,-3.8910521140609546
+Toronto,Canada,North America,3,0.6808243727598611
+Toronto,Canada,North America,4,6.968148148148165
+Toronto,Canada,North America,5,13.849283154121881
+Toronto,Canada,North America,6,18.82088122605363
+Toronto,Canada,North America,7,22.184965100924327
+Toronto,Canada,North America,8,21.051028107904177
+Toronto,Canada,North America,9,17.047465886939534
+Toronto,Canada,North America,10,10.357291077155265
+Toronto,Canada,North America,11,4.146588693957093
+Toronto,Canada,North America,12,-1.8652141105451727
+Vancouver,Canada,North America,1,4.158333333333345
+Vancouver,Canada,North America,2,4.987413962635172
+Vancouver,Canada,North America,3,6.7439964157705985
+Vancouver,Canada,North America,4,9.175555555555555
+Vancouver,Canada,North America,5,12.724551971326163
+Vancouver,Canada,North America,6,14.988218390804654
+Vancouver,Canada,North America,7,18.146387474061505
+Vancouver,Canada,North America,8,17.78051311073382
+Vancouver,Canada,North America,9,14.992690058479546
+Vancouver,Canada,North America,10,10.409073759667981
+Vancouver,Canada,North America,11,5.739181286549705
+Vancouver,Canada,North America,12,2.9243538954914388
+Winnipeg,Canada,North America,1,-16.03521505376344
+Winnipeg,Canada,North America,2,-13.199999999999998
+Winnipeg,Canada,North America,3,-6.214247311827942
+Winnipeg,Canada,North America,4,3.941296296296331
+Winnipeg,Canada,North America,5,11.051881720430096
+Winnipeg,Canada,North America,6,16.678065134099622
+Winnipeg,Canada,North America,7,20.133842671194156
+Winnipeg,Canada,North America,8,18.94736842105261
+Winnipeg,Canada,North America,9,13.584015594541931
+Winnipeg,Canada,North America,10,5.633371062063767
+Winnipeg,Canada,North America,11,-3.8034113060428862
+Winnipeg,Canada,North America,12,-12.902376910016981
+Guadalajara,Mexico,North America,1,-24.118130227001203
+Guadalajara,Mexico,North America,2,-12.493845396356477
+Guadalajara,Mexico,North America,3,-11.289112602535424
+Guadalajara,Mexico,North America,4,-17.949768518518525
+Guadalajara,Mexico,North America,5,-16.252567049808437
+Guadalajara,Mexico,North America,6,-15.703703703703702
+Guadalajara,Mexico,North America,7,-15.877045348293592
+Guadalajara,Mexico,North America,8,-14.156225650615557
+Guadalajara,Mexico,North America,9,-15.308212560386481
+Guadalajara,Mexico,North America,10,-17.798893563970708
+Guadalajara,Mexico,North America,11,-8.995652173913044
+Guadalajara,Mexico,North America,12,-24.975819611333634
+Mexico City,Mexico,North America,1,13.602012682657865
+Mexico City,Mexico,North America,2,15.522600151171524
+Mexico City,Mexico,North America,3,17.358836503997814
+Mexico City,Mexico,North America,4,19.171011396011426
+Mexico City,Mexico,North America,5,19.054002541296015
+Mexico City,Mexico,North America,6,18.164962962962978
+Mexico City,Mexico,North America,7,17.722365591397825
+Mexico City,Mexico,North America,8,17.588745519713253
+Mexico City,Mexico,North America,9,17.026222222222195
+Mexico City,Mexico,North America,10,16.635913978494596
+Mexico City,Mexico,North America,11,14.76429629629633
+Mexico City,Mexico,North America,12,13.709407216494819
+Monterrey,Mexico,North America,1,15.773504273504257
+Monterrey,Mexico,North America,2,18.404610733182206
+Monterrey,Mexico,North America,3,21.77688172043012
+Monterrey,Mexico,North America,4,25.095584045584033
+Monterrey,Mexico,North America,5,27.713751235352234
+Monterrey,Mexico,North America,6,29.94451851851845
+Monterrey,Mexico,North America,7,30.502580645161295
+Monterrey,Mexico,North America,8,30.314838709677435
+Monterrey,Mexico,North America,9,27.160148148148146
+Monterrey,Mexico,North America,10,24.13440860215055
+Monterrey,Mexico,North America,11,19.118740740740698
+Monterrey,Mexico,North America,12,15.674470217640325
+Buenos Aires,Argentina,South/Central America & Carribean,1,23.795285359801497
+Buenos Aires,Argentina,South/Central America & Carribean,2,22.80944822373389
+Buenos Aires,Argentina,South/Central America & Carribean,3,20.73352633030055
+Buenos Aires,Argentina,South/Central America & Carribean,4,17.08568376068378
+Buenos Aires,Argentina,South/Central America & Carribean,5,13.21404399323179
+Buenos Aires,Argentina,South/Central America & Carribean,6,10.366962962962958
+Buenos Aires,Argentina,South/Central America & Carribean,7,10.251254480286734
+Buenos Aires,Argentina,South/Central America & Carribean,8,11.93562724014338
+Buenos Aires,Argentina,South/Central America & Carribean,9,13.222296296296276
+Buenos Aires,Argentina,South/Central America & Carribean,10,16.84394265232969
+Buenos Aires,Argentina,South/Central America & Carribean,11,19.50703703703708
+Buenos Aires,Argentina,South/Central America & Carribean,12,21.955040091637997
+Nassau,Bahamas,South/Central America & Carribean,1,21.02660601047698
+Nassau,Bahamas,South/Central America & Carribean,2,22.221617535903277
+Nassau,Bahamas,South/Central America & Carribean,3,21.64543700027575
+Nassau,Bahamas,South/Central America & Carribean,4,24.671367521367543
+Nassau,Bahamas,South/Central America & Carribean,5,25.19193844416211
+Nassau,Bahamas,South/Central America & Carribean,6,27.212888888888894
+Nassau,Bahamas,South/Central America & Carribean,7,28.895268817204297
+Nassau,Bahamas,South/Central America & Carribean,8,28.687455197132618
+Nassau,Bahamas,South/Central America & Carribean,9,27.38548148148147
+Nassau,Bahamas,South/Central America & Carribean,10,25.464802867383494
+Nassau,Bahamas,South/Central America & Carribean,11,23.086888888888854
+Nassau,Bahamas,South/Central America & Carribean,12,21.914017754868272
+Hamilton,Bermuda,South/Central America & Carribean,1,17.746751792114683
+Hamilton,Bermuda,South/Central America & Carribean,2,16.99778761061946
+Hamilton,Bermuda,South/Central America & Carribean,3,15.745295698924723
+Hamilton,Bermuda,South/Central America & Carribean,4,13.324768518518514
+Hamilton,Bermuda,South/Central America & Carribean,5,15.679995519713266
+Hamilton,Bermuda,South/Central America & Carribean,6,17.745254629629628
+Hamilton,Bermuda,South/Central America & Carribean,7,20.84856630824376
+Hamilton,Bermuda,South/Central America & Carribean,8,27.129705681040374
+Hamilton,Bermuda,South/Central America & Carribean,9,25.323456790123494
+Hamilton,Bermuda,South/Central America & Carribean,10,24.179450418160123
+Hamilton,Bermuda,South/Central America & Carribean,11,20.377407407407414
+Hamilton,Bermuda,South/Central America & Carribean,12,18.595937873357226
+Belize City,Belize,South/Central America & Carribean,1,22.91169154228859
+Belize City,Belize,South/Central America & Carribean,2,24.304610733182162
+Belize City,Belize,South/Central America & Carribean,3,21.08664185277095
+Belize City,Belize,South/Central America & Carribean,4,22.976282051282062
+Belize City,Belize,South/Central America & Carribean,5,22.49159960468723
+Belize City,Belize,South/Central America & Carribean,6,22.905925925925885
+Belize City,Belize,South/Central America & Carribean,7,22.573118279569883
+Belize City,Belize,South/Central America & Carribean,8,24.36322580645161
+Belize City,Belize,South/Central America & Carribean,9,24.120222222222157
+Belize City,Belize,South/Central America & Carribean,10,24.39053763440863
+Belize City,Belize,South/Central America & Carribean,11,21.40525925925925
+Belize City,Belize,South/Central America & Carribean,12,23.126002290950808
+La Paz,Bolivia,South/Central America & Carribean,1,8.234491315136488
+La Paz,Bolivia,South/Central America & Carribean,2,8.310582010582005
+La Paz,Bolivia,South/Central America & Carribean,3,8.256892748828257
+La Paz,Bolivia,South/Central America & Carribean,4,7.575071225071225
+La Paz,Bolivia,South/Central America & Carribean,5,5.997602932882147
+La Paz,Bolivia,South/Central America & Carribean,6,4.779555555555568
+La Paz,Bolivia,South/Central America & Carribean,7,4.760501792114679
+La Paz,Bolivia,South/Central America & Carribean,8,5.750179211469531
+La Paz,Bolivia,South/Central America & Carribean,9,6.609407407407406
+La Paz,Bolivia,South/Central America & Carribean,10,8.385878136200708
+La Paz,Bolivia,South/Central America & Carribean,11,8.544592592592567
+La Paz,Bolivia,South/Central America & Carribean,12,8.514461626575043
+Bridgetown,Barbados,South/Central America & Carribean,1,24.813246714456398
+Bridgetown,Barbados,South/Central America & Carribean,2,25.58251392985905
+Bridgetown,Barbados,South/Central America & Carribean,3,25.597894265232995
+Bridgetown,Barbados,South/Central America & Carribean,4,26.616435185185154
+Bridgetown,Barbados,South/Central America & Carribean,5,23.922540548734293
+Bridgetown,Barbados,South/Central America & Carribean,6,22.79170692431566
+Bridgetown,Barbados,South/Central America & Carribean,7,23.464936886395503
+Bridgetown,Barbados,South/Central America & Carribean,8,23.502025868786028
+Bridgetown,Barbados,South/Central America & Carribean,9,23.429146537842207
+Bridgetown,Barbados,South/Central America & Carribean,10,27.74287050023374
+Bridgetown,Barbados,South/Central America & Carribean,11,27.13035426731075
+Bridgetown,Barbados,South/Central America & Carribean,12,25.394413320883903
+Brasilia,Brazil,South/Central America & Carribean,1,22.173697270471443
+Brasilia,Brazil,South/Central America & Carribean,2,22.305366591080904
+Brasilia,Brazil,South/Central America & Carribean,3,22.292803970223353
+Brasilia,Brazil,South/Central America & Carribean,4,21.950569800569763
+Brasilia,Brazil,South/Central America & Carribean,5,20.1094190637338
+Brasilia,Brazil,South/Central America & Carribean,6,18.88696296296293
+Brasilia,Brazil,South/Central America & Carribean,7,19.253333333333345
+Brasilia,Brazil,South/Central America & Carribean,8,20.619856630824376
+Brasilia,Brazil,South/Central America & Carribean,9,22.47081481481482
+Brasilia,Brazil,South/Central America & Carribean,10,23.747526881720383
+Brasilia,Brazil,South/Central America & Carribean,11,21.007925925925928
+Brasilia,Brazil,South/Central America & Carribean,12,20.893613974799575
+Rio de Janeiro,Brazil,South/Central America & Carribean,1,26.25289495450788
+Rio de Janeiro,Brazil,South/Central America & Carribean,2,26.072562358276596
+Rio de Janeiro,Brazil,South/Central America & Carribean,3,26.310931899641545
+Rio de Janeiro,Brazil,South/Central America & Carribean,4,25.023789173789176
+Rio de Janeiro,Brazil,South/Central America & Carribean,5,22.185514612452366
+Rio de Janeiro,Brazil,South/Central America & Carribean,6,20.999703703703673
+Rio de Janeiro,Brazil,South/Central America & Carribean,7,21.66817204301078
+Rio de Janeiro,Brazil,South/Central America & Carribean,8,21.3950537634409
+Rio de Janeiro,Brazil,South/Central America & Carribean,9,21.127925925925933
+Rio de Janeiro,Brazil,South/Central America & Carribean,10,22.04
+Rio de Janeiro,Brazil,South/Central America & Carribean,11,18.99651851851855
+Rio de Janeiro,Brazil,South/Central America & Carribean,12,22.220146048109978
+Sao Paulo,Brazil,South/Central America & Carribean,1,22.16004962779158
+Sao Paulo,Brazil,South/Central America & Carribean,2,22.83582766439912
+Sao Paulo,Brazil,South/Central America & Carribean,3,22.281706644609883
+Sao Paulo,Brazil,South/Central America & Carribean,4,20.716809116809145
+Sao Paulo,Brazil,South/Central America & Carribean,5,17.42061477721377
+Sao Paulo,Brazil,South/Central America & Carribean,6,16.994296296296277
+Sao Paulo,Brazil,South/Central America & Carribean,7,17.03806451612904
+Sao Paulo,Brazil,South/Central America & Carribean,8,17.74250896057346
+Sao Paulo,Brazil,South/Central America & Carribean,9,17.61318518518521
+Sao Paulo,Brazil,South/Central America & Carribean,10,18.735053763440845
+Sao Paulo,Brazil,South/Central America & Carribean,11,18.31911111111112
+Sao Paulo,Brazil,South/Central America & Carribean,12,20.168814432989652
+Bogota,Colombia,South/Central America & Carribean,1,12.602357320099266
+Bogota,Colombia,South/Central America & Carribean,2,12.899017384731666
+Bogota,Colombia,South/Central America & Carribean,3,13.618762062310449
+Bogota,Colombia,South/Central America & Carribean,4,13.555626780626785
+Bogota,Colombia,South/Central America & Carribean,5,13.2020586576424
+Bogota,Colombia,South/Central America & Carribean,6,12.775851851851835
+Bogota,Colombia,South/Central America & Carribean,7,12.973118279569889
+Bogota,Colombia,South/Central America & Carribean,8,13.08853046594983
+Bogota,Colombia,South/Central America & Carribean,9,12.688222222222226
+Bogota,Colombia,South/Central America & Carribean,10,12.257921146953391
+Bogota,Colombia,South/Central America & Carribean,11,12.862000000000004
+Bogota,Colombia,South/Central America & Carribean,12,12.398052691867118
+San Jose,Costa Rica,South/Central America & Carribean,1,21.65343258891644
+San Jose,Costa Rica,South/Central America & Carribean,2,21.5677248677249
+San Jose,Costa Rica,South/Central America & Carribean,3,22.82492417976288
+San Jose,Costa Rica,South/Central America & Carribean,4,22.758190883190878
+San Jose,Costa Rica,South/Central America & Carribean,5,18.783065425831907
+San Jose,Costa Rica,South/Central America & Carribean,6,21.220296296296336
+San Jose,Costa Rica,South/Central America & Carribean,7,21.801003584229335
+San Jose,Costa Rica,South/Central America & Carribean,8,21.810465949820802
+San Jose,Costa Rica,South/Central America & Carribean,9,20.094740740740743
+San Jose,Costa Rica,South/Central America & Carribean,10,21.045806451612943
+San Jose,Costa Rica,South/Central America & Carribean,11,20.903851851851854
+San Jose,Costa Rica,South/Central America & Carribean,12,21.291093928980516
+Havana,Cuba,South/Central America & Carribean,1,19.018012422360265
+Havana,Cuba,South/Central America & Carribean,2,16.98841961852859
+Havana,Cuba,South/Central America & Carribean,3,20.59445132865209
+Havana,Cuba,South/Central America & Carribean,4,23.6334045584046
+Havana,Cuba,South/Central America & Carribean,5,24.43025554143724
+Havana,Cuba,South/Central America & Carribean,6,25.526888888888923
+Havana,Cuba,South/Central America & Carribean,7,24.950537634408622
+Havana,Cuba,South/Central America & Carribean,8,25.87326164874554
+Havana,Cuba,South/Central America & Carribean,9,24.833629629629595
+Havana,Cuba,South/Central America & Carribean,10,24.236487455197135
+Havana,Cuba,South/Central America & Carribean,11,21.107259259259234
+Havana,Cuba,South/Central America & Carribean,12,19.758662657502825
+Santo Domingo,Dominican Republic,South/Central America & Carribean,1,16.385373586986507
+Santo Domingo,Dominican Republic,South/Central America & Carribean,2,16.206349206349184
+Santo Domingo,Dominican Republic,South/Central America & Carribean,3,16.48979873173424
+Santo Domingo,Dominican Republic,South/Central America & Carribean,4,18.807621082621104
+Santo Domingo,Dominican Republic,South/Central America & Carribean,5,16.984258082733326
+Santo Domingo,Dominican Republic,South/Central America & Carribean,6,18.58792592592591
+Santo Domingo,Dominican Republic,South/Central America & Carribean,7,20.390250896057385
+Santo Domingo,Dominican Republic,South/Central America & Carribean,8,21.09670250896052
+Santo Domingo,Dominican Republic,South/Central America & Carribean,9,20.266444444444442
+Santo Domingo,Dominican Republic,South/Central America & Carribean,10,18.53720430107526
+Santo Domingo,Dominican Republic,South/Central America & Carribean,11,17.552370370370326
+Santo Domingo,Dominican Republic,South/Central America & Carribean,12,20.23131443298967
+Guayaquil,Equador,South/Central America & Carribean,1,25.239247311827928
+Guayaquil,Equador,South/Central America & Carribean,2,23.923356009070286
+Guayaquil,Equador,South/Central America & Carribean,3,24.478563551144152
+Guayaquil,Equador,South/Central America & Carribean,4,21.597435897435876
+Guayaquil,Equador,South/Central America & Carribean,5,24.813099266779453
+Guayaquil,Equador,South/Central America & Carribean,6,21.927703703703685
+Guayaquil,Equador,South/Central America & Carribean,7,23.586451612903254
+Guayaquil,Equador,South/Central America & Carribean,8,19.32695340501793
+Guayaquil,Equador,South/Central America & Carribean,9,21.21251851851848
+Guayaquil,Equador,South/Central America & Carribean,10,23.517849462365554
+Guayaquil,Equador,South/Central America & Carribean,11,23.79511111111112
+Guayaquil,Equador,South/Central America & Carribean,12,24.527849369988505
+Quito,Equador,South/Central America & Carribean,1,10.530107526881688
+Quito,Equador,South/Central America & Carribean,2,7.333923303834784
+Quito,Equador,South/Central America & Carribean,3,4.362096774193541
+Quito,Equador,South/Central America & Carribean,4,0.10333333333331357
+Quito,Equador,South/Central America & Carribean,5,5.288978494623658
+Quito,Equador,South/Central America & Carribean,6,4.2167592592592875
+Quito,Equador,South/Central America & Carribean,7,6.616577060931906
+Quito,Equador,South/Central America & Carribean,8,3.6580645161290213
+Quito,Equador,South/Central America & Carribean,9,6.111296296296299
+Quito,Equador,South/Central America & Carribean,10,6.643458781362001
+Quito,Equador,South/Central America & Carribean,11,6.007870370370366
+Quito,Equador,South/Central America & Carribean,12,8.685032139577622
+Guatemala City,Guatemala,South/Central America & Carribean,1,9.926316515026198
+Guatemala City,Guatemala,South/Central America & Carribean,2,8.172260015117152
+Guatemala City,Guatemala,South/Central America & Carribean,3,11.642748828232676
+Guatemala City,Guatemala,South/Central America & Carribean,4,16.66609686609688
+Guatemala City,Guatemala,South/Central America & Carribean,5,14.381627185561253
+Guatemala City,Guatemala,South/Central America & Carribean,6,15.307481481481485
+Guatemala City,Guatemala,South/Central America & Carribean,7,15.723799283154117
+Guatemala City,Guatemala,South/Central America & Carribean,8,14.388602150537602
+Guatemala City,Guatemala,South/Central America & Carribean,9,14.678592592592578
+Guatemala City,Guatemala,South/Central America & Carribean,10,16.45412186379925
+Guatemala City,Guatemala,South/Central America & Carribean,11,15.143111111111088
+Guatemala City,Guatemala,South/Central America & Carribean,12,13.632230813287514
+Georgetown,Guyana,South/Central America & Carribean,1,-26.316180235535068
+Georgetown,Guyana,South/Central America & Carribean,2,-27.461322081575254
+Georgetown,Guyana,South/Central America & Carribean,3,-25.83269329237072
+Georgetown,Guyana,South/Central America & Carribean,4,-26.87380952380953
+Georgetown,Guyana,South/Central America & Carribean,5,-29.912826420890937
+Georgetown,Guyana,South/Central America & Carribean,6,-26.59391534391535
+Georgetown,Guyana,South/Central America & Carribean,7,-30.807987711213514
+Georgetown,Guyana,South/Central America & Carribean,8,-29.122503840245777
+Georgetown,Guyana,South/Central America & Carribean,9,-35.38737997256515
+Georgetown,Guyana,South/Central America & Carribean,10,-38.73451100870456
+Georgetown,Guyana,South/Central America & Carribean,11,-33.73576561636263
+Georgetown,Guyana,South/Central America & Carribean,12,-28.383374689826308
+Georgetown,Guyana,South/Central America & Carribean,09,-72.77777777777777
+Port au Prince,Haiti,South/Central America & Carribean,1,-7.525158533223049
+Port au Prince,Haiti,South/Central America & Carribean,2,-5.051776266061978
+Port au Prince,Haiti,South/Central America & Carribean,3,-3.2508271298593745
+Port au Prince,Haiti,South/Central America & Carribean,4,-8.664529914529915
+Port au Prince,Haiti,South/Central America & Carribean,5,-6.663913595933925
+Port au Prince,Haiti,South/Central America & Carribean,6,-9.98148148148148
+Port au Prince,Haiti,South/Central America & Carribean,7,-11.492186379928317
+Port au Prince,Haiti,South/Central America & Carribean,8,-8.443225806451613
+Port au Prince,Haiti,South/Central America & Carribean,9,-9.282000000000004
+Port au Prince,Haiti,South/Central America & Carribean,10,-7.722652329749102
+Port au Prince,Haiti,South/Central America & Carribean,11,-14.355925925925918
+Port au Prince,Haiti,South/Central America & Carribean,12,-10.017115960633292
+Tegucigalpa,Honduras,South/Central America & Carribean,1,18.846705266060056
+Tegucigalpa,Honduras,South/Central America & Carribean,2,20.62773998488277
+Tegucigalpa,Honduras,South/Central America & Carribean,3,19.90329473393989
+Tegucigalpa,Honduras,South/Central America & Carribean,4,21.98881766381764
+Tegucigalpa,Honduras,South/Central America & Carribean,5,21.749188197091595
+Tegucigalpa,Honduras,South/Central America & Carribean,6,19.618444444444386
+Tegucigalpa,Honduras,South/Central America & Carribean,7,21.873978494623657
+Tegucigalpa,Honduras,South/Central America & Carribean,8,21.668960573476667
+Tegucigalpa,Honduras,South/Central America & Carribean,9,21.343777777777813
+Tegucigalpa,Honduras,South/Central America & Carribean,10,19.792401433691694
+Tegucigalpa,Honduras,South/Central America & Carribean,11,17.32170370370372
+Tegucigalpa,Honduras,South/Central America & Carribean,12,18.783648339060665
+Managua,Nicaragua,South/Central America & Carribean,1,21.882685414943538
+Managua,Nicaragua,South/Central America & Carribean,2,21.239758125472402
+Managua,Nicaragua,South/Central America & Carribean,3,19.889991728701414
+Managua,Nicaragua,South/Central America & Carribean,4,21.55519573978127
+Managua,Nicaragua,South/Central America & Carribean,5,20.79053763440859
+Managua,Nicaragua,South/Central America & Carribean,6,22.068074074074058
+Managua,Nicaragua,South/Central America & Carribean,7,22.630179211469517
+Managua,Nicaragua,South/Central America & Carribean,8,22.952903225806487
+Managua,Nicaragua,South/Central America & Carribean,9,22.438740740740723
+Managua,Nicaragua,South/Central America & Carribean,10,23.889892473118266
+Managua,Nicaragua,South/Central America & Carribean,11,23.06214814814814
+Managua,Nicaragua,South/Central America & Carribean,12,23.362184994272653
+Panama City,Panama,South/Central America & Carribean,1,26.470981527433096
+Panama City,Panama,South/Central America & Carribean,2,27.06152683295535
+Panama City,Panama,South/Central America & Carribean,3,27.396126275158537
+Panama City,Panama,South/Central America & Carribean,4,27.878205128205177
+Panama City,Panama,South/Central America & Carribean,5,26.83234630569652
+Panama City,Panama,South/Central America & Carribean,6,25.96548148148146
+Panama City,Panama,South/Central America & Carribean,7,26.774121863799294
+Panama City,Panama,South/Central America & Carribean,8,26.587885304659455
+Panama City,Panama,South/Central America & Carribean,9,25.2198518518518
+Panama City,Panama,South/Central America & Carribean,10,25.195197132616514
+Panama City,Panama,South/Central America & Carribean,11,25.83103703703707
+Panama City,Panama,South/Central America & Carribean,12,25.882660366552077
+Lima,Peru,South/Central America & Carribean,1,22.37813620071683
+Lima,Peru,South/Central America & Carribean,2,22.906595465617414
+Lima,Peru,South/Central America & Carribean,3,22.62724014336915
+Lima,Peru,South/Central America & Carribean,4,20.603615520282197
+Lima,Peru,South/Central America & Carribean,5,18.808158388803577
+Lima,Peru,South/Central America & Carribean,6,17.342592592592595
+Lima,Peru,South/Central America & Carribean,7,17.267110428400745
+Lima,Peru,South/Central America & Carribean,8,16.57125789383853
+Lima,Peru,South/Central America & Carribean,9,16.39532627865958
+Lima,Peru,South/Central America & Carribean,10,17.463474995733055
+Lima,Peru,South/Central America & Carribean,11,18.68257820927725
+Lima,Peru,South/Central America & Carribean,12,20.072401433691727
+Paramaribo,Suriname,South/Central America & Carribean,1,12.10628618693135
+Paramaribo,Suriname,South/Central America & Carribean,2,11.35457294028722
+Paramaribo,Suriname,South/Central America & Carribean,3,7.670388751033915
+Paramaribo,Suriname,South/Central America & Carribean,4,8.169658119658129
+Paramaribo,Suriname,South/Central America & Carribean,5,9.28800056401577
+Paramaribo,Suriname,South/Central America & Carribean,6,7.131555555555577
+Paramaribo,Suriname,South/Central America & Carribean,7,11.756702508960567
+Paramaribo,Suriname,South/Central America & Carribean,8,10.387311827956987
+Paramaribo,Suriname,South/Central America & Carribean,9,12.324666666666623
+Paramaribo,Suriname,South/Central America & Carribean,10,3.6291039426523337
+Paramaribo,Suriname,South/Central America & Carribean,11,8.109925925925923
+Paramaribo,Suriname,South/Central America & Carribean,12,1.6181091116823785
+Montvideo,Uruguay,South/Central America & Carribean,1,22.012200165425966
+Montvideo,Uruguay,South/Central America & Carribean,2,21.6380952380953
+Montvideo,Uruguay,South/Central America & Carribean,3,20.247587537910103
+Montvideo,Uruguay,South/Central America & Carribean,4,17.080911680911676
+Montvideo,Uruguay,South/Central America & Carribean,5,13.333685843203604
+Montvideo,Uruguay,South/Central America & Carribean,6,10.502666666666656
+Montvideo,Uruguay,South/Central America & Carribean,7,10.275340501792101
+Montvideo,Uruguay,South/Central America & Carribean,8,11.511612903225787
+Montvideo,Uruguay,South/Central America & Carribean,9,12.41674074074074
+Montvideo,Uruguay,South/Central America & Carribean,10,15.762652329749121
+Montvideo,Uruguay,South/Central America & Carribean,11,17.854074074074095
+Montvideo,Uruguay,South/Central America & Carribean,12,20.20575601374572
+Caracas,Venezuela,South/Central America & Carribean,1,22.228770333609084
+Caracas,Venezuela,South/Central America & Carribean,2,25.30173847316702
+Caracas,Venezuela,South/Central America & Carribean,3,25.21794871794876
+Caracas,Venezuela,South/Central America & Carribean,4,26.69009971509966
+Caracas,Venezuela,South/Central America & Carribean,5,26.995905689679567
+Caracas,Venezuela,South/Central America & Carribean,6,26.181259259259182
+Caracas,Venezuela,South/Central America & Carribean,7,27.22415770609321
+Caracas,Venezuela,South/Central America & Carribean,8,27.452974910394296
+Caracas,Venezuela,South/Central America & Carribean,9,27.86385185185184
+Caracas,Venezuela,South/Central America & Carribean,10,26.251397849462357
+Caracas,Venezuela,South/Central America & Carribean,11,23.415407407407386
+Caracas,Venezuela,South/Central America & Carribean,12,24.139676403207325
+Birmingham,US,North America,1,6.914598842018194
+Birmingham,US,North America,2,9.247996976568434
+Birmingham,US,North America,3,13.171698373311248
+Birmingham,US,North America,4,17.44551282051282
+Birmingham,US,North America,5,21.94289340101521
+Birmingham,US,North America,6,24.910592592592536
+Birmingham,US,North America,7,26.908458781362008
+Birmingham,US,North America,8,26.43283154121862
+Birmingham,US,North America,9,23.821185185185122
+Birmingham,US,North America,10,18.046379928315414
+Birmingham,US,North America,11,12.030444444444438
+Birmingham,US,North America,12,8.132401433691744
+Huntsville,US,North America,1,5.433484973807576
+Huntsville,US,North America,2,7.569690098261548
+Huntsville,US,North America,3,11.864557485525218
+Huntsville,US,North America,4,16.548717948717986
+Huntsville,US,North America,5,21.350042301184416
+Huntsville,US,North America,6,24.647999999999993
+Huntsville,US,North America,7,26.30422939068098
+Huntsville,US,North America,8,25.72035842293909
+Huntsville,US,North America,9,22.988370370370344
+Huntsville,US,North America,10,17.031397849462373
+Huntsville,US,North America,11,10.855333333333329
+Huntsville,US,North America,12,6.637992831541217
+Mobile,US,North America,1,10.409773917838463
+Mobile,US,North America,2,12.544368858654577
+Mobile,US,North America,3,15.911634960022058
+Mobile,US,North America,4,19.201282051282078
+Mobile,US,North America,5,23.337633953750704
+Mobile,US,North America,6,25.32525925925922
+Mobile,US,North America,7,27.044874551971294
+Mobile,US,North America,8,26.84193548387092
+Mobile,US,North America,9,24.98014814814816
+Mobile,US,North America,10,20.179283154121855
+Mobile,US,North America,11,14.754740740740752
+Mobile,US,North America,12,11.253763440860219
+Montgomery,US,North America,1,8.653570443893008
+Montgomery,US,North America,2,11.070143613000731
+Montgomery,US,North America,3,14.850978770333606
+Montgomery,US,North America,4,18.441452991452994
+Montgomery,US,North America,5,22.19169486745629
+Montgomery,US,North America,6,24.064444444444494
+Montgomery,US,North America,7,27.30724014336915
+Montgomery,US,North America,8,26.85455197132614
+Montgomery,US,North America,9,24.61614814814813
+Montgomery,US,North America,10,19.125591397849494
+Montgomery,US,North America,11,13.163925925925959
+Montgomery,US,North America,12,9.443727598566305
+Anchorage,US,North America,1,-8.22049903501516
+Anchorage,US,North America,2,-5.409221466364335
+Anchorage,US,North America,3,-3.347808105872638
+Anchorage,US,North America,4,3.044373219373225
+Anchorage,US,North America,5,9.208333333333279
+Anchorage,US,North America,6,12.850296296296307
+Anchorage,US,North America,7,15.278853046595012
+Anchorage,US,North America,8,13.958566308243721
+Anchorage,US,North America,9,9.771259259259253
+Anchorage,US,North America,10,2.8423655913978467
+Anchorage,US,North America,11,-4.165259259259258
+Anchorage,US,North America,12,-7.014050179211468
+Fairbanks,US,North America,1,-22.677419354838705
+Fairbanks,US,North America,2,-17.36969009826153
+Fairbanks,US,North America,3,-11.863316790736148
+Fairbanks,US,North America,4,1.0009971509971531
+Fairbanks,US,North America,5,10.70882684715171
+Fairbanks,US,North America,6,15.92903703703707
+Fairbanks,US,North America,7,17.169892473118267
+Fairbanks,US,North America,8,13.674767025089587
+Fairbanks,US,North America,9,7.783111111111095
+Fairbanks,US,North America,10,-2.850465949820785
+Fairbanks,US,North America,11,-15.204296296296299
+Fairbanks,US,North America,12,-20.374265232974906
+Juneau,US,North America,1,-1.782809484422398
+Juneau,US,North America,2,-0.7568405139833563
+Juneau,US,North America,3,0.4500275709953409
+Juneau,US,North America,4,4.769515669515651
+Juneau,US,North America,5,9.68302312464747
+Juneau,US,North America,6,12.231999999999962
+Juneau,US,North America,7,13.88293906810031
+Juneau,US,North America,8,13.136487455197145
+Juneau,US,North America,9,10.05029629629626
+Juneau,US,North America,10,5.872688172042998
+Juneau,US,North America,11,1.0657777777777808
+Juneau,US,North America,12,-1.1913978494623558
+Flagstaff,US,North America,1,-1.320430107526877
+Flagstaff,US,North America,2,0.41303494307026906
+Flagstaff,US,North America,3,2.8765232974910284
+Flagstaff,US,North America,4,6.099814814814815
+Flagstaff,US,North America,5,11.929032258064531
+Flagstaff,US,North America,6,11.387037037037041
+Flagstaff,US,North America,7,19.52580645161292
+Flagstaff,US,North America,8,17.823476702508984
+Flagstaff,US,North America,9,14.43037037037038
+Flagstaff,US,North America,10,8.551750380517511
+Flagstaff,US,North America,11,2.854526748971201
+Flagstaff,US,North America,12,-2.525288729589818
+Phoenix,US,North America,1,13.44148056244831
+Phoenix,US,North America,2,15.304081632653025
+Phoenix,US,North America,3,19.118003859939318
+Phoenix,US,North America,4,22.786111111111136
+Phoenix,US,North America,5,28.17787648054142
+Phoenix,US,North America,6,33.01399999999994
+Phoenix,US,North America,7,35.39440860215055
+Phoenix,US,North America,8,34.445519713261675
+Phoenix,US,North America,9,31.66703703703699
+Phoenix,US,North America,10,23.847885304659453
+Phoenix,US,North America,11,18.414814814814758
+Phoenix,US,North America,12,12.508530465949828
+Tucson,US,North America,1,11.371450234353457
+Tucson,US,North America,2,13.062055933484492
+Tucson,US,North America,3,16.458436724565793
+Tucson,US,North America,4,20.29323361823363
+Tucson,US,North America,5,25.44465595036661
+Tucson,US,North America,6,29.918962962962958
+Tucson,US,North America,7,30.840788530465968
+Tucson,US,North America,8,29.429605734767037
+Tucson,US,North America,9,27.791481481481494
+Tucson,US,North America,10,22.267598566308234
+Tucson,US,North America,11,16.225555555555548
+Tucson,US,North America,12,10.592974910394297
+Yuma,US,North America,1,11.147998805256892
+Yuma,US,North America,2,11.331858407079636
+Yuma,US,North America,3,14.43712664277178
+Yuma,US,North America,4,18.813425925925916
+Yuma,US,North America,5,19.060185185185173
+Yuma,US,North America,6,23.41172839506173
+Yuma,US,North America,7,25.726403823178025
+Yuma,US,North America,8,26.54510155316607
+Yuma,US,North America,9,24.76944444444446
+Yuma,US,North America,10,17.947879330943856
+Yuma,US,North America,11,13.289969135802487
+Yuma,US,North America,12,6.848840710629322
+Fort Smith,US,North America,1,4.34546457127102
+Fort Smith,US,North America,2,6.956386999244132
+Fort Smith,US,North America,3,11.718431210366703
+Fort Smith,US,North America,4,16.075427350427333
+Fort Smith,US,North America,5,21.07416807670611
+Fort Smith,US,North America,6,24.900148148148165
+Fort Smith,US,North America,7,28.093620071684636
+Fort Smith,US,North America,8,27.503225806451596
+Fort Smith,US,North America,9,23.517111111111102
+Fort Smith,US,North America,10,17.199211469534028
+Fort Smith,US,North America,11,10.829851851851828
+Fort Smith,US,North America,12,5.3045161290322556
+Little Rock,US,North America,1,5.519782189137052
+Little Rock,US,North America,2,7.612244897959211
+Little Rock,US,North America,3,12.099807003032815
+Little Rock,US,North America,4,16.98475783475787
+Little Rock,US,North America,5,21.754653130287643
+Little Rock,US,North America,6,25.56851851851853
+Little Rock,US,North America,7,27.857275985663076
+Little Rock,US,North America,8,27.31426523297485
+Little Rock,US,North America,9,23.8034074074075
+Little Rock,US,North America,10,17.491397849462356
+Little Rock,US,North America,11,11.264666666666633
+Little Rock,US,North America,12,6.381003584229386
+Fresno,US,North America,1,8.663840639647107
+Fresno,US,North America,2,11.071126228269087
+Fresno,US,North America,3,13.955541770057891
+Fresno,US,North America,4,16.753276353276345
+Fresno,US,North America,5,21.325578116187277
+Fresno,US,North America,6,25.207111111111107
+Fresno,US,North America,7,28.959569892473116
+Fresno,US,North America,8,27.885591397849446
+Fresno,US,North America,9,24.924222222222216
+Fresno,US,North America,10,18.959569892473112
+Fresno,US,North America,11,12.776444444444444
+Fresno,US,North America,12,8.134551971326179
+Los Angeles,US,North America,1,13.946305486628058
+Los Angeles,US,North America,2,14.104157218442944
+Los Angeles,US,North America,3,14.68934381031158
+Los Angeles,US,North America,4,15.580698005698018
+Los Angeles,US,North America,5,17.103708403835313
+Los Angeles,US,North America,6,18.019925925925936
+Los Angeles,US,North America,7,20.353476702508935
+Los Angeles,US,North America,8,20.59612903225813
+Los Angeles,US,North America,9,20.425703703703718
+Los Angeles,US,North America,10,18.97770609319001
+Los Angeles,US,North America,11,16.58059259259256
+Los Angeles,US,North America,12,13.616272401433683
+Sacramento,US,North America,1,8.351323407774984
+Sacramento,US,North America,2,10.420408163265291
+Sacramento,US,North America,3,12.579955886407513
+Sacramento,US,North America,4,14.768589743589741
+Sacramento,US,North America,5,18.202129159616476
+Sacramento,US,North America,6,21.164222222222218
+Sacramento,US,North America,7,23.372759856630815
+Sacramento,US,North America,8,22.58422939068099
+Sacramento,US,North America,9,21.168370370370376
+Sacramento,US,North America,10,17.05096774193548
+Sacramento,US,North America,11,11.389703703703708
+Sacramento,US,North America,12,8.069605734767048
+San Diego,US,North America,1,14.135373586986475
+San Diego,US,North America,2,14.56152683295541
+San Diego,US,North America,3,15.434036393713832
+San Diego,US,North America,4,16.424358974358956
+San Diego,US,North America,5,17.641144952058674
+San Diego,US,North America,6,18.252962962962947
+San Diego,US,North America,7,20.75426523297497
+San Diego,US,North America,8,21.54222222222223
+San Diego,US,North America,9,21.242222222222193
+San Diego,US,North America,10,19.47125448028674
+San Diego,US,North America,11,16.783185185185207
+San Diego,US,North America,12,13.666810035842282
+San Francisco,US,North America,1,10.541149710504534
+San Francisco,US,North America,2,11.512622826908544
+San Francisco,US,North America,3,11.57885304659497
+San Francisco,US,North America,4,12.093945868945879
+San Francisco,US,North America,5,13.927735476593345
+San Francisco,US,North America,6,15.330296296296316
+San Francisco,US,North America,7,16.603297491039452
+San Francisco,US,North America,8,16.885878136200702
+San Francisco,US,North America,9,17.077629629629627
+San Francisco,US,North America,10,16.112043010752643
+San Francisco,US,North America,11,13.342
+San Francisco,US,North America,12,10.487240143369187
+Colorado Springs,US,North America,1,-0.38744141163495743
+Colorado Springs,US,North America,2,0.1650037792895039
+Colorado Springs,US,North America,3,4.630548662806717
+Colorado Springs,US,North America,4,8.226424501424496
+Colorado Springs,US,North America,5,13.365341229554394
+Colorado Springs,US,North America,6,18.836666666666694
+Colorado Springs,US,North America,7,22.04014336917561
+Colorado Springs,US,North America,8,20.444157706093204
+Colorado Springs,US,North America,9,16.685111111111112
+Colorado Springs,US,North America,10,9.997491039426523
+Colorado Springs,US,North America,11,4.122370370370337
+Colorado Springs,US,North America,12,-0.9154838709677589
+Denver,US,North America,1,-3.287289771160731
+Denver,US,North America,2,-2.591912320483737
+Denver,US,North America,3,4.915425971877561
+Denver,US,North America,4,8.44066951566952
+Denver,US,North America,5,13.537930062041758
+Denver,US,North America,6,19.359259259259257
+Denver,US,North America,7,23.560215053763418
+Denver,US,North America,8,22.057992831541235
+Denver,US,North America,9,17.564222222222202
+Denver,US,North America,10,10.335412186379914
+Denver,US,North America,11,4.234444444444417
+Denver,US,North America,12,-1.1227240143369204
+Grand Junction,US,North America,1,-2.5295009649848508
+Grand Junction,US,North America,2,1.5315948601662615
+Grand Junction,US,North America,3,6.98917838433965
+Grand Junction,US,North America,4,11.105769230769253
+Grand Junction,US,North America,5,16.711858432036095
+Grand Junction,US,North America,6,22.752740740740762
+Grand Junction,US,North America,7,26.541146953405008
+Grand Junction,US,North America,8,24.46688172043013
+Grand Junction,US,North America,9,19.291703703703686
+Grand Junction,US,North America,10,11.597562724014345
+Grand Junction,US,North America,11,4.2354074074074
+Grand Junction,US,North America,12,-2.418996415770612
+Pueblo,US,North America,1,-0.5403225806451515
+Pueblo,US,North America,2,1.1245653817082157
+Pueblo,US,North America,3,6.299765646539844
+Pueblo,US,North America,4,10.580840455840482
+Pueblo,US,North America,5,16.052946982515493
+Pueblo,US,North America,6,21.58933333333333
+Pueblo,US,North America,7,24.949534050179214
+Pueblo,US,North America,8,23.22566308243728
+Pueblo,US,North America,9,18.93348148148148
+Pueblo,US,North America,10,11.383870967741908
+Pueblo,US,North America,11,4.469407407407415
+Pueblo,US,North America,12,-1.157275985663093
+Bridgeport,US,North America,1,-0.6115246760408056
+Bridgeport,US,North America,2,0.4897203325774966
+Bridgeport,US,North America,3,3.823476702508945
+Bridgeport,US,North America,4,9.5561965811966
+Bridgeport,US,North America,5,13.586858432036106
+Bridgeport,US,North America,6,18.747111111111103
+Bridgeport,US,North America,7,23.56394265232973
+Bridgeport,US,North America,8,23.15820788530472
+Bridgeport,US,North America,9,19.430592592592614
+Bridgeport,US,North America,10,13.161792114695317
+Bridgeport,US,North America,11,7.6456296296296085
+Bridgeport,US,North America,12,2.4480286738351293
+Hartford Springfield,US,North America,1,-2.4587813620071506
+Hartford Springfield,US,North America,2,-1.0164777021919786
+Hartford Springfield,US,North America,3,3.211952026468165
+Hartford Springfield,US,North America,4,9.552564102564125
+Hartford Springfield,US,North America,5,15.177171460800926
+Hartford Springfield,US,North America,6,19.620370370370367
+Hartford Springfield,US,North America,7,23.40580645161289
+Hartford Springfield,US,North America,8,22.118207885304653
+Hartford Springfield,US,North America,9,18.130592592592613
+Hartford Springfield,US,North America,10,11.7753405017921
+Hartford Springfield,US,North America,11,5.737703703703679
+Hartford Springfield,US,North America,12,0.2109677419354957
+Wilmington,US,North America,1,0.7262544802867291
+Wilmington,US,North America,2,1.7222222222222112
+Wilmington,US,North America,3,5.429211469534074
+Wilmington,US,North America,4,11.712615740740752
+Wilmington,US,North America,5,16.888216845878144
+Wilmington,US,North America,6,20.99502314814812
+Wilmington,US,North America,7,24.363239247311817
+Wilmington,US,North America,8,22.983422939068127
+Wilmington,US,North America,9,19.828694038506157
+Wilmington,US,North America,10,13.651493428912786
+Wilmington,US,North America,11,7.798888888888887
+Wilmington,US,North America,12,2.4841099163679874
+Washington,US,North America,1,2.5818169285911177
+Washington,US,North America,2,4.128117913832195
+Washington,US,North America,3,8.263096222773576
+Washington,US,North America,4,13.981908831908815
+Washington,US,North America,5,19.11442470389175
+Washington,US,North America,6,23.590518518518497
+Washington,US,North America,7,26.583942652329743
+Washington,US,North America,8,25.58480286738349
+Washington,US,North America,9,21.935481481481453
+Washington,US,North America,10,15.728458781362052
+Washington,US,North America,11,9.473407407407402
+Washington,US,North America,12,4.664372759856619
+Washington DC,US,North America,1,2.5818169285911177
+Washington DC,US,North America,2,4.128117913832195
+Washington DC,US,North America,3,8.263096222773576
+Washington DC,US,North America,4,13.981908831908815
+Washington DC,US,North America,5,19.11442470389175
+Washington DC,US,North America,6,23.590518518518497
+Washington DC,US,North America,7,26.583942652329743
+Washington DC,US,North America,8,25.58480286738349
+Washington DC,US,North America,9,21.935481481481453
+Washington DC,US,North America,10,15.728458781362052
+Washington DC,US,North America,11,9.473407407407402
+Washington DC,US,North America,12,4.664372759856619
+Daytona Beach,US,North America,1,14.063396057347685
+Daytona Beach,US,North America,2,15.243854473942966
+Daytona Beach,US,North America,3,18.103046594982082
+Daytona Beach,US,North America,4,16.9046296296296
+Daytona Beach,US,North America,5,22.613575268817172
+Daytona Beach,US,North America,6,22.899768518518492
+Daytona Beach,US,North America,7,26.936939964157702
+Daytona Beach,US,North America,8,26.813396057347703
+Daytona Beach,US,North America,9,25.99710044073295
+Daytona Beach,US,North America,10,23.45352449223417
+Daytona Beach,US,North America,11,18.908271604938278
+Daytona Beach,US,North America,12,15.397849462365603
+Jacksonville,US,North America,1,11.514681555004168
+Jacksonville,US,North America,2,13.594708994708995
+Jacksonville,US,North America,3,16.364971050454958
+Jacksonville,US,North America,4,19.231054131054123
+Jacksonville,US,North America,5,23.27058657642415
+Jacksonville,US,North America,6,25.37066666666668
+Jacksonville,US,North America,7,26.9197132616487
+Jacksonville,US,North America,8,26.528458781362005
+Jacksonville,US,North America,9,25.038592592592593
+Jacksonville,US,North America,10,21.144731182795724
+Jacksonville,US,North America,11,15.244518518518468
+Jacksonville,US,North America,12,12.407311827956992
+Miami Beach,US,North America,1,20.027295285359813
+Miami Beach,US,North America,2,21.32252456538171
+Miami Beach,US,North America,3,22.621794871794894
+Miami Beach,US,North America,4,24.499358974359005
+Miami Beach,US,North America,5,26.419980259447243
+Miami Beach,US,North America,6,27.25933333333331
+Miami Beach,US,North America,7,28.597275985663064
+Miami Beach,US,North America,8,28.516200716845887
+Miami Beach,US,North America,9,27.86674074074074
+Miami Beach,US,North America,10,26.46788530465945
+Miami Beach,US,North America,11,22.636074074074106
+Miami Beach,US,North America,12,20.7810752688172
+Orlando,US,North America,1,15.455817480011035
+Orlando,US,North America,2,17.331141345427074
+Orlando,US,North America,3,19.491315136476445
+Orlando,US,North America,4,22.07443019943026
+Orlando,US,North America,5,24.792371686407222
+Orlando,US,North America,6,25.54562962962963
+Orlando,US,North America,7,27.159784946236577
+Orlando,US,North America,8,27.075913978494633
+Orlando,US,North America,9,26.289333333333328
+Orlando,US,North America,10,23.713978494623625
+Orlando,US,North America,11,18.82274074074074
+Orlando,US,North America,12,16.371469534050192
+Tallahassee,US,North America,1,10.83974358974361
+Tallahassee,US,North America,2,13.01179138321997
+Tallahassee,US,North America,3,16.050179211469526
+Tallahassee,US,North America,4,19.28475783475785
+Tallahassee,US,North America,5,23.94839255499152
+Tallahassee,US,North America,6,25.402518518518498
+Tallahassee,US,North America,7,27.30738351254474
+Tallahassee,US,North America,8,27.114838709677414
+Tallahassee,US,North America,9,25.566074074074052
+Tallahassee,US,North America,10,21.06494623655913
+Tallahassee,US,North America,11,14.59622222222224
+Tallahassee,US,North America,12,11.557204301075277
+Tampa St. Petersburg,US,North America,1,15.794182519988997
+Tampa St. Petersburg,US,North America,2,17.531065759637247
+Tampa St. Petersburg,US,North America,3,19.68589743589749
+Tampa St. Petersburg,US,North America,4,22.216168091168086
+Tampa St. Petersburg,US,North America,5,25.72271573604064
+Tampa St. Petersburg,US,North America,6,26.93807407407409
+Tampa St. Petersburg,US,North America,7,27.957562724014362
+Tampa St. Petersburg,US,North America,8,27.956630824372716
+Tampa St. Petersburg,US,North America,9,27.157851851851856
+Tampa St. Petersburg,US,North America,10,24.469964157706045
+Tampa St. Petersburg,US,North America,11,19.391037037037094
+Tampa St. Petersburg,US,North America,12,16.894982078853058
+West Palm Beach,US,North America,1,18.92156051833475
+West Palm Beach,US,North America,2,20.325094482237333
+West Palm Beach,US,North America,3,21.786462641301338
+West Palm Beach,US,North America,4,23.789743589743598
+West Palm Beach,US,North America,5,25.825296108291095
+West Palm Beach,US,North America,6,26.774518518518516
+West Palm Beach,US,North America,7,28.151827956989237
+West Palm Beach,US,North America,8,28.121792114695367
+West Palm Beach,US,North America,9,27.192666666666625
+West Palm Beach,US,North America,10,25.95032258064518
+West Palm Beach,US,North America,11,21.845481481481542
+West Palm Beach,US,North America,12,19.816989247311806
+Atlanta,US,North America,1,6.625999448580092
+Atlanta,US,North America,2,8.791232048374898
+Atlanta,US,North America,3,12.864350703060413
+Atlanta,US,North America,4,17.003490028490035
+Atlanta,US,North America,5,21.558657642413998
+Atlanta,US,North America,6,24.515481481481533
+Atlanta,US,North America,7,26.422652329749113
+Atlanta,US,North America,8,26.01777777777775
+Atlanta,US,North America,9,23.229481481481443
+Atlanta,US,North America,10,17.71684587813619
+Atlanta,US,North America,11,11.827259259259234
+Atlanta,US,North America,12,7.735412186379954
+Columbus,US,North America,1,3.715329473393984
+Columbus,US,North America,2,5.598715041572173
+Columbus,US,North America,3,10.068927488282343
+Columbus,US,North America,4,15.147008547008523
+Columbus,US,North America,5,19.62179216018051
+Columbus,US,North America,6,22.95237037037036
+Columbus,US,North America,7,25.397813620071695
+Columbus,US,North America,8,25.18612903225812
+Columbus,US,North America,9,21.94996296296299
+Columbus,US,North America,10,16.203727598566296
+Columbus,US,North America,11,9.986629629629583
+Columbus,US,North America,12,5.250286738351259
+Macon,US,North America,1,7.9391370278467015
+Macon,US,North America,2,10.209145880574424
+Macon,US,North America,3,13.959194926936817
+Macon,US,North America,4,17.496225071225037
+Macon,US,North America,5,22.20480823463057
+Macon,US,North America,6,25.039851851851843
+Macon,US,North America,7,26.984659498207893
+Macon,US,North America,8,26.22688172043003
+Macon,US,North America,9,23.543851851851812
+Macon,US,North America,10,18.112903225806463
+Macon,US,North America,11,12.404370370370389
+Macon,US,North America,12,8.793261648745508
+Savannah,US,North America,1,9.85173697270474
+Savannah,US,North America,2,11.87127739984883
+Savannah,US,North America,3,14.837468982630234
+Savannah,US,North America,4,18.288675213675212
+Savannah,US,North America,5,22.80520304568527
+Savannah,US,North America,6,25.414444444444417
+Savannah,US,North America,7,27.32724014336923
+Savannah,US,North America,8,26.795197132616465
+Savannah,US,North America,9,24.592222222222208
+Savannah,US,North America,10,19.907240143369194
+Savannah,US,North America,11,13.586888888888918
+Savannah,US,North America,12,10.50967741935485
+Honolulu,US,North America,1,23.00992555831267
+Honolulu,US,North America,2,22.855177626606217
+Honolulu,US,North America,3,23.352839812517246
+Honolulu,US,North America,4,24.27799145299143
+Honolulu,US,North America,5,25.257755217146116
+Honolulu,US,North America,6,25.853703703703733
+Honolulu,US,North America,7,27.00752688172041
+Honolulu,US,North America,8,27.070537634408577
+Honolulu,US,North America,9,26.66970370370379
+Honolulu,US,North America,10,26.458422939068075
+Honolulu,US,North America,11,25.16022222222221
+Honolulu,US,North America,12,23.37763440860218
+Boise,US,North America,1,-0.05465949820789283
+Boise,US,North America,2,2.601511715797429
+Boise,US,North America,3,6.835470085470092
+Boise,US,North America,4,9.840313390313424
+Boise,US,North America,5,14.856951494641882
+Boise,US,North America,6,19.182888888888897
+Boise,US,North America,7,25.794838709677414
+Boise,US,North America,8,24.444874551971292
+Boise,US,North America,9,18.709185185185174
+Boise,US,North America,10,11.455770609319005
+Boise,US,North America,11,4.842740740740755
+Boise,US,North America,12,-0.2805734767025076
+Pocatello,US,North America,1,-3.5901571546732884
+Pocatello,US,North America,2,-1.453741496598637
+Pocatello,US,North America,3,3.7116763165150286
+Pocatello,US,North America,4,7.60434472934475
+Pocatello,US,North America,5,12.501269035532998
+Pocatello,US,North America,6,16.736962962962966
+Pocatello,US,North America,7,22.626810035842237
+Pocatello,US,North America,8,21.225663082437247
+Pocatello,US,North America,9,15.506592592592597
+Pocatello,US,North America,10,8.527670250896055
+Pocatello,US,North America,11,2.011037037037041
+Pocatello,US,North America,12,-3.4493189964157565
+Chicago,US,North America,1,-4.108629721532954
+Chicago,US,North America,2,-2.170597127740018
+Chicago,US,North America,3,3.285704438930238
+Chicago,US,North America,4,9.241025641025658
+Chicago,US,North America,5,15.368020304568525
+Chicago,US,North America,6,20.573777777777778
+Chicago,US,North America,7,23.838709677419338
+Chicago,US,North America,8,22.827025089605716
+Chicago,US,North America,9,18.68444444444444
+Chicago,US,North America,10,12.072831541218653
+Chicago,US,North America,11,4.883999999999998
+Chicago,US,North America,12,-1.6302508960573272
+Peoria,US,North America,1,-3.618968844775298
+Peoria,US,North America,2,-1.3473167044595453
+Peoria,US,North America,3,4.846912048524964
+Peoria,US,North America,4,11.073148148148167
+Peoria,US,North America,5,17.275239706711773
+Peoria,US,North America,6,21.880222222222223
+Peoria,US,North America,7,24.455483870967726
+Peoria,US,North America,8,23.27096774193545
+Peoria,US,North America,9,19.22762962962967
+Peoria,US,North America,10,12.577634408602137
+Peoria,US,North America,11,5.37814814814818
+Peoria,US,North America,12,-1.0962007168458814
+Rockford,US,North America,1,-5.483250620347395
+Rockford,US,North America,2,-3.464247921390792
+Rockford,US,North America,3,2.67803970223324
+Rockford,US,North America,4,8.348433048433057
+Rockford,US,North America,5,14.159334461364937
+Rockford,US,North America,6,19.937481481481537
+Rockford,US,North America,7,23.17770609318996
+Rockford,US,North America,8,21.89025089605734
+Rockford,US,North America,9,17.739629629629647
+Rockford,US,North America,10,11.109247311827943
+Rockford,US,North America,11,3.71703703703706
+Rockford,US,North America,12,-2.9313978494623862
+Springfield,US,North America,1,-0.7848428453267332
+Springfield,US,North America,2,1.6455026455026298
+Springfield,US,North America,3,6.9328990901571705
+Springfield,US,North America,4,12.52453703703705
+Springfield,US,North America,5,17.543993231810507
+Springfield,US,North America,6,21.649703703703672
+Springfield,US,North America,7,25.107168458781405
+Springfield,US,North America,8,24.17236559139787
+Springfield,US,North America,9,20.06259259259258
+Springfield,US,North America,10,13.733727598566311
+Springfield,US,North America,11,7.058666666666677
+Springfield,US,North America,12,1.0582078853046264
+Evansville,US,North America,1,0.9359663633857175
+Evansville,US,North America,2,3.0016628873771722
+Evansville,US,North America,3,8.010614833195469
+Evansville,US,North America,4,13.61267806267805
+Evansville,US,North America,5,19.25796672306821
+Evansville,US,North America,6,23.48414814814814
+Evansville,US,North America,7,25.500430107526856
+Evansville,US,North America,8,24.664157706093217
+Evansville,US,North America,9,20.83570370370366
+Evansville,US,North America,10,14.668243727598533
+Evansville,US,North America,11,7.879703703703693
+Evansville,US,North America,12,2.659784946236563
+Fort Wayne,US,North America,1,-3.44168734491315
+Fort Wayne,US,North America,2,-1.8329554043839735
+Fort Wayne,US,North America,3,3.258960573476683
+Fort Wayne,US,North America,4,8.65584045584045
+Fort Wayne,US,North America,5,15.464255499153971
+Fort Wayne,US,North America,6,20.01992592592599
+Fort Wayne,US,North America,7,23.118709677419325
+Fort Wayne,US,North America,8,21.643440860215087
+Fort Wayne,US,North America,9,17.899925925925945
+Fort Wayne,US,North America,10,11.747240143369119
+Fort Wayne,US,North America,11,4.929407407407413
+Fort Wayne,US,North America,12,-1.0787813620071773
+Indianapolis,US,North America,1,-1.8771712158808898
+Indianapolis,US,North America,2,0.23257747543460994
+Indianapolis,US,North America,3,5.637096774193526
+Indianapolis,US,North America,4,11.583903133903103
+Indianapolis,US,North America,5,17.625070501974076
+Indianapolis,US,North America,6,21.90066666666661
+Indianapolis,US,North America,7,24.266738351254514
+Indianapolis,US,North America,8,23.498494623655958
+Indianapolis,US,North America,9,19.758222222222216
+Indianapolis,US,North America,10,13.136702508960548
+Indianapolis,US,North America,11,6.221185185185172
+Indianapolis,US,North America,12,0.3015770609318914
+South Bend,US,North America,1,-3.748276812792951
+South Bend,US,North America,2,-2.1957671957671803
+South Bend,US,North America,3,3.0096498483595013
+South Bend,US,North America,4,9.321652421652452
+South Bend,US,North America,5,15.498025944726443
+South Bend,US,North America,6,20.371925925925925
+South Bend,US,North America,7,22.86043010752686
+South Bend,US,North America,8,21.656200716845905
+South Bend,US,North America,9,17.884814814814806
+South Bend,US,North America,10,11.536774193548435
+South Bend,US,North America,11,4.777851851851851
+South Bend,US,North America,12,-1.2924014336917367
+Des Moines,US,North America,1,-5.144609870416335
+Des Moines,US,North America,2,-2.7786848072562425
+Des Moines,US,North America,3,3.9414116349600388
+Des Moines,US,North America,4,10.897863247863237
+Des Moines,US,North America,5,16.901508742244822
+Des Moines,US,North America,6,21.9692592592593
+Des Moines,US,North America,7,24.869605734767006
+Des Moines,US,North America,8,23.296129032258065
+Des Moines,US,North America,9,19.077629629629612
+Des Moines,US,North America,10,12.01347670250897
+Des Moines,US,North America,11,4.417111111111123
+Des Moines,US,North America,12,-2.627168458781364
+Sioux City,US,North America,1,-6.460573476702497
+Sioux City,US,North America,2,-4.0258503401360555
+Sioux City,US,North America,3,2.628963330576239
+Sioux City,US,North America,4,9.643945868945861
+Sioux City,US,North America,5,16.120699379582607
+Sioux City,US,North America,6,21.241185185185202
+Sioux City,US,North America,7,24.072114695340467
+Sioux City,US,North America,8,22.272043010752675
+Sioux City,US,North America,9,17.844444444444463
+Sioux City,US,North America,10,10.570967741935478
+Sioux City,US,North America,11,2.5683703703703977
+Sioux City,US,North America,12,-4.4167741935483855
+Goodland,US,North America,1,-1.4003997794320355
+Goodland,US,North America,2,-0.09342403628117582
+Goodland,US,North America,3,4.800110283981256
+Goodland,US,North America,4,8.880270655270628
+Goodland,US,North America,5,14.960166384658773
+Goodland,US,North America,6,20.793259259259248
+Goodland,US,North America,7,24.577634408602137
+Goodland,US,North America,8,22.580143369175648
+Goodland,US,North America,9,17.72903703703703
+Goodland,US,North America,10,10.81820788530469
+Goodland,US,North America,11,4.028888888888894
+Goodland,US,North America,12,-1.4890322580645352
+Topeka,US,North America,1,-1.056589467879802
+Topeka,US,North America,2,1.3504913076341534
+Topeka,US,North America,3,7.246277915632756
+Topeka,US,North America,4,13.127279202279233
+Topeka,US,North America,5,18.740764241398793
+Topeka,US,North America,6,23.510888888888807
+Topeka,US,North America,7,26.640215053763356
+Topeka,US,North America,8,25.235770609318976
+Topeka,US,North America,9,20.5078518518518
+Topeka,US,North America,10,13.565949820788555
+Topeka,US,North America,11,6.931777777777779
+Topeka,US,North America,12,0.4683870967741931
+Wichita,US,North America,1,0.36938240970498903
+Wichita,US,North America,2,2.839531368102778
+Wichita,US,North America,3,8.259167355941525
+Wichita,US,North America,4,13.674074074074108
+Wichita,US,North America,5,19.130992667794732
+Wichita,US,North America,6,24.15533333333336
+Wichita,US,North America,7,27.425089605734716
+Wichita,US,North America,8,26.240358422939053
+Wichita,US,North America,9,21.809629629629654
+Wichita,US,North America,10,14.924587813620077
+Wichita,US,North America,11,7.788592592592612
+Wichita,US,North America,12,1.2566308243727657
+Lexington,US,North America,1,0.6054590570719398
+Lexington,US,North America,2,2.777399848828404
+Lexington,US,North America,3,7.33381582575132
+Lexington,US,North America,4,12.743091168091196
+Lexington,US,North America,5,18.156937394247066
+Lexington,US,North America,6,22.200222222222195
+Lexington,US,North America,7,24.371039426523275
+Lexington,US,North America,8,23.7556272401434
+Lexington,US,North America,9,20.345407407407386
+Lexington,US,North America,10,14.197419354838697
+Lexington,US,North America,11,7.609185185185159
+Lexington,US,North America,12,2.7106093189964042
+Louisville,US,North America,1,1.6324097049903388
+Louisville,US,North America,2,3.8588813303099005
+Louisville,US,North America,3,8.78722084367245
+Louisville,US,North America,4,14.519943019943014
+Louisville,US,North America,5,19.967005076142172
+Louisville,US,North America,6,23.882518518518523
+Louisville,US,North America,7,26.1735483870968
+Louisville,US,North America,8,25.662508960573444
+Louisville,US,North America,9,21.850518518518488
+Louisville,US,North America,10,15.46365591397849
+Louisville,US,North America,11,8.816962962962943
+Louisville,US,North America,12,3.4949820788530612
+Paducah,US,North America,1,1.8005238489109447
+Paducah,US,North America,2,4.197959183673446
+Paducah,US,North America,3,9.214502343534592
+Paducah,US,North America,4,14.834472934472908
+Paducah,US,North America,5,19.651438240270718
+Paducah,US,North America,6,23.493925925925893
+Paducah,US,North America,7,25.898924731182806
+Paducah,US,North America,8,24.919713261648763
+Paducah,US,North America,9,20.992814814814867
+Paducah,US,North America,10,15.213763440860188
+Paducah,US,North America,11,8.74400000000002
+Paducah,US,North America,12,3.6010035842293755
+Baton Rouge,US,North America,1,10.96337365591402
+Baton Rouge,US,North America,2,12.563913470993104
+Baton Rouge,US,North America,3,15.571124551971312
+Baton Rouge,US,North America,4,16.596412037037055
+Baton Rouge,US,North America,5,22.46113351254479
+Baton Rouge,US,North America,6,24.271180555555556
+Baton Rouge,US,North America,7,27.475582437275946
+Baton Rouge,US,North America,8,27.244623655914005
+Baton Rouge,US,North America,9,24.96400462962966
+Baton Rouge,US,North America,10,20.03561827956993
+Baton Rouge,US,North America,11,15.09522102747912
+Baton Rouge,US,North America,12,10.830346475507781
+Lake Charles,US,North America,1,11.283429831816925
+Lake Charles,US,North America,2,13.350415721844294
+Lake Charles,US,North America,3,16.751309622277322
+Lake Charles,US,North America,4,19.779914529914496
+Lake Charles,US,North America,5,24.21164692611394
+Lake Charles,US,North America,6,26.630444444444443
+Lake Charles,US,North America,7,28.02114695340497
+Lake Charles,US,North America,8,27.911612903225837
+Lake Charles,US,North America,9,25.596518518518515
+Lake Charles,US,North America,10,21.01333333333328
+Lake Charles,US,North America,11,15.858740740740776
+Lake Charles,US,North America,12,11.89569892473114
+New Orleans,US,North America,1,12.207333884753256
+New Orleans,US,North America,2,14.264323507180636
+New Orleans,US,North America,3,17.607320099255617
+New Orleans,US,North America,4,20.467806267806278
+New Orleans,US,North America,5,24.85758601240835
+New Orleans,US,North America,6,26.383925925925936
+New Orleans,US,North America,7,28.063727598566334
+New Orleans,US,North America,8,27.94415770609324
+New Orleans,US,North America,9,25.73881481481481
+New Orleans,US,North America,10,22.341218637992842
+New Orleans,US,North America,11,16.856518518518502
+New Orleans,US,North America,12,13.062580645161294
+Shreveport,US,North America,1,8.728425696167635
+Shreveport,US,North America,2,10.836583522297818
+Shreveport,US,North America,3,14.927832919768425
+Shreveport,US,North America,4,18.704558404558405
+Shreveport,US,North America,5,23.276931754089137
+Shreveport,US,North America,6,26.29392592592587
+Shreveport,US,North America,7,28.416487455197153
+Shreveport,US,North America,8,28.450179211469546
+Shreveport,US,North America,9,25.3597037037037
+Shreveport,US,North America,10,19.43799283154122
+Shreveport,US,North America,11,13.6117037037037
+Shreveport,US,North America,12,9.108458781361996
+Caribou,US,North America,1,-10.711814171491591
+Caribou,US,North America,2,-9.233257747543464
+Caribou,US,North America,3,-3.7992831541218726
+Caribou,US,North America,4,3.379843304843276
+Caribou,US,North America,5,11.152284263959384
+Caribou,US,North America,6,15.115407407407437
+Caribou,US,North America,7,19.268530465949787
+Caribou,US,North America,8,18.054551971326163
+Caribou,US,North America,9,13.543851851851846
+Caribou,US,North America,10,6.972114695340501
+Caribou,US,North America,11,0.28829629629631387
+Caribou,US,North America,12,-6.881218637992828
+Portland,US,North America,1,0.3554245933277913
+Portland,US,North America,2,1.5918745275888095
+Portland,US,North America,3,4.720981527433123
+Portland,US,North America,4,8.73201566951567
+Portland,US,North America,5,13.318175408911495
+Portland,US,North America,6,16.897666666666648
+Portland,US,North America,7,20.7363799283155
+Portland,US,North America,8,20.300286738351236
+Portland,US,North America,9,16.96444444444445
+Portland,US,North America,10,11.46021505376342
+Portland,US,North America,11,6.364814814814809
+Portland,US,North America,12,1.679928315412198
+Baltimore,US,North America,1,1.2146401985111686
+Baltimore,US,North America,2,2.6851095993953322
+Baltimore,US,North America,3,6.937620623104487
+Baltimore,US,North America,4,12.787535612535635
+Baltimore,US,North America,5,17.08840947546533
+Baltimore,US,North America,6,21.624148148148183
+Baltimore,US,North America,7,25.406666666666744
+Baltimore,US,North America,8,24.1574910394265
+Baltimore,US,North America,9,20.51162962962964
+Baltimore,US,North America,10,14.249103942652388
+Baltimore,US,North America,11,8.117333333333303
+Baltimore,US,North America,12,3.321362007168452
+Boston,US,North America,1,-0.8830989798731971
+Boston,US,North America,2,0.19841269841268094
+Boston,US,North America,3,3.2198097601323443
+Boston,US,North America,4,8.43012820512822
+Boston,US,North America,5,14.161026508742244
+Boston,US,North America,6,19.11140740740743
+Boston,US,North America,7,23.241792114695336
+Boston,US,North America,8,22.296559139784968
+Boston,US,North America,9,18.575629629629688
+Boston,US,North America,10,12.832544802867384
+Boston,US,North America,11,7.07133333333333
+Boston,US,North America,12,1.897849462365622
+Detroit,US,North America,1,-3.299145299145289
+Detroit,US,North America,2,-2.161980347694657
+Detroit,US,North America,3,2.7363523573200985
+Detroit,US,North America,4,9.15085470085473
+Detroit,US,North America,5,15.676748448956598
+Detroit,US,North America,6,20.01666666666669
+Detroit,US,North America,7,23.379354838709688
+Detroit,US,North America,8,22.35906810035847
+Detroit,US,North America,9,18.245555555555523
+Detroit,US,North America,10,11.776057347670251
+Detroit,US,North America,11,5.097851851851852
+Detroit,US,North America,12,-0.7691039426523381
+Flint,US,North America,1,-4.340639647091249
+Flint,US,North America,2,-3.261451247165523
+Flint,US,North America,3,1.6565343258891554
+Flint,US,North America,4,8.175071225071243
+Flint,US,North America,5,14.79723632261702
+Flint,US,North America,6,19.700444444444432
+Flint,US,North America,7,22.29598566308247
+Flint,US,North America,8,21.02000000000004
+Flint,US,North America,9,17.006148148148142
+Flint,US,North America,10,10.727670250896068
+Flint,US,North America,11,4.209555555555558
+Flint,US,North America,12,-1.6123297491039403
+Grand Rapids,US,North America,1,-4.0272952853598065
+Grand Rapids,US,North America,2,-2.980045351473931
+Grand Rapids,US,North America,3,1.8215467328370494
+Grand Rapids,US,North America,4,8.310042735042748
+Grand Rapids,US,North America,5,14.813381274675699
+Grand Rapids,US,North America,6,19.858518518518512
+Grand Rapids,US,North America,7,22.591827956989295
+Grand Rapids,US,North America,8,21.271684587813585
+Grand Rapids,US,North America,9,17.208074074074105
+Grand Rapids,US,North America,10,10.770967741935486
+Grand Rapids,US,North America,11,4.250962962962927
+Grand Rapids,US,North America,12,-1.41863799283152
+Lansing,US,North America,1,-4.413151364764264
+Lansing,US,North America,2,-3.327966742252452
+Lansing,US,North America,3,1.5718913702784496
+Lansing,US,North America,4,8.0662393162393
+Lansing,US,North America,5,13.144035532994893
+Lansing,US,North America,6,18.934518518518555
+Lansing,US,North America,7,22.059426523297468
+Lansing,US,North America,8,20.89125448028673
+Lansing,US,North America,9,16.767333333333344
+Lansing,US,North America,10,10.481863799283152
+Lansing,US,North America,11,4.003333333333351
+Lansing,US,North America,12,-1.7889605734767124
+Sault Ste Marie,US,North America,1,-8.547697821891369
+Sault Ste Marie,US,North America,2,-7.6482993197278955
+Sault Ste Marie,US,North America,3,-3.0368762062310357
+Sault Ste Marie,US,North America,4,2.391951566951557
+Sault Ste Marie,US,North America,5,7.247955442752417
+Sault Ste Marie,US,North America,6,11.947259259259276
+Sault Ste Marie,US,North America,7,13.858351254480294
+Sault Ste Marie,US,North America,8,17.162222222222223
+Sault Ste Marie,US,North America,9,13.83637037037038
+Sault Ste Marie,US,North America,10,7.6615053763440875
+Sault Ste Marie,US,North America,11,1.4269629629629597
+Sault Ste Marie,US,North America,12,-4.954551971326158
+Duluth,US,North America,1,-11.258684863523579
+Duluth,US,North America,2,-9.186394557823137
+Duluth,US,North America,3,-2.9376206231044852
+Duluth,US,North America,4,3.7362535612535552
+Duluth,US,North America,5,10.480188945290472
+Duluth,US,North America,6,15.497037037037066
+Duluth,US,North America,7,19.4573476702509
+Duluth,US,North America,8,18.32107526881723
+Duluth,US,North America,9,13.656962962962957
+Duluth,US,North America,10,6.680143369175629
+Duluth,US,North America,11,-1.0728148148148224
+Duluth,US,North America,12,-8.506666666666666
+Minneapolis St. Paul,US,North America,1,-8.582092638544246
+Minneapolis St. Paul,US,North America,2,-6.338170823885101
+Minneapolis St. Paul,US,North America,3,0.5807140887785935
+Minneapolis St. Paul,US,North America,4,8.266025641025614
+Minneapolis St. Paul,US,North America,5,14.96270445572478
+Minneapolis St. Paul,US,North America,6,20.32896296296295
+Minneapolis St. Paul,US,North America,7,23.82996415770606
+Minneapolis St. Paul,US,North America,8,22.13526881720431
+Minneapolis St. Paul,US,North America,9,17.556148148148104
+Minneapolis St. Paul,US,North America,10,9.89555555555557
+Minneapolis St. Paul,US,North America,11,1.8037777777778017
+Minneapolis St. Paul,US,North America,12,-5.8411469534050235
+Jackson,US,North America,1,8.072856355114432
+Jackson,US,North America,2,10.387150415721846
+Jackson,US,North America,3,14.36993382961126
+Jackson,US,North America,4,18.098931623931563
+Jackson,US,North America,5,22.536590524534702
+Jackson,US,North America,6,25.314888888888905
+Jackson,US,North America,7,27.137849462365605
+Jackson,US,North America,8,26.78537634408603
+Jackson,US,North America,9,24.33488888888891
+Jackson,US,North America,10,18.712186379928326
+Jackson,US,North America,11,12.74377777777777
+Jackson,US,North America,12,8.932544802867376
+Tupelo,US,North America,1,5.749793217535171
+Tupelo,US,North America,2,8.02184429327288
+Tupelo,US,North America,3,12.342156051833465
+Tupelo,US,North America,4,16.869373219373262
+Tupelo,US,North America,5,21.640651438240198
+Tupelo,US,North America,6,24.68548148148146
+Tupelo,US,North America,7,26.978853046594946
+Tupelo,US,North America,8,26.41749103942651
+Tupelo,US,North America,9,23.380518518518475
+Tupelo,US,North America,10,17.343010752688183
+Tupelo,US,North America,11,11.108222222222233
+Tupelo,US,North America,12,6.713476702508972
+Kansas City,US,North America,1,-1.5516266887234567
+Kansas City,US,North America,2,0.9668178382463961
+Kansas City,US,North America,3,6.7872208436724595
+Kansas City,US,North America,4,12.781552706552693
+Kansas City,US,North America,5,18.293288212069953
+Kansas City,US,North America,6,22.977777777777803
+Kansas City,US,North America,7,25.84043010752689
+Kansas City,US,North America,8,24.789390681003532
+Kansas City,US,North America,9,20.188962962962982
+Kansas City,US,North America,10,13.731827956989243
+Kansas City,US,North America,11,6.805481481481503
+Kansas City,US,North America,12,0.21598566308243664
+St Louis,US,North America,1,0.18314033636616026
+St Louis,US,North America,2,2.608541194255483
+St Louis,US,North America,3,8.046732837055421
+St Louis,US,North America,4,14.281125356125338
+St Louis,US,North America,5,19.84461364918221
+St Louis,US,North America,6,23.940148148148175
+St Louis,US,North America,7,26.922222222222228
+St Louis,US,North America,8,25.80229390681005
+St Louis,US,North America,9,21.635629629629634
+St Louis,US,North America,10,15.184372759856622
+St Louis,US,North America,11,8.208518518518536
+St Louis,US,North America,12,2.162437275985655
+Billings,US,North America,1,-2.9184587813620038
+Billings,US,North America,2,-1.9321995464852766
+Billings,US,North America,3,2.699200441135924
+Billings,US,North America,4,6.693376068376106
+Billings,US,North America,5,11.458262831359242
+Billings,US,North America,6,16.330814814814797
+Billings,US,North America,7,23.38888888888884
+Billings,US,North America,8,21.99949820788534
+Billings,US,North America,9,16.050444444444476
+Billings,US,North America,10,8.837275985663098
+Billings,US,North America,11,2.4750370370370374
+Billings,US,North America,12,-3.041935483870978
+Great Falls,US,North America,1,-3.3709677419354773
+Great Falls,US,North America,2,-3.171806500377931
+Great Falls,US,North America,3,0.9165977391783602
+Great Falls,US,North America,4,4.297863247863268
+Great Falls,US,North America,5,9.792442188381314
+Great Falls,US,North America,6,13.806074074074088
+Great Falls,US,North America,7,20.897060931899667
+Great Falls,US,North America,8,19.561505376344066
+Great Falls,US,North America,9,13.99755555555553
+Great Falls,US,North America,10,7.4395698924731
+Great Falls,US,North America,11,1.552296296296297
+Great Falls,US,North America,12,-3.536272401433664
+Helena,US,North America,1,-4.9377584780810615
+Helena,US,North America,2,-2.948072562358281
+Helena,US,North America,3,1.7431072511717716
+Helena,US,North America,4,6.376994301994278
+Helena,US,North America,5,11.628759000423521
+Helena,US,North America,6,16.054518518518528
+Helena,US,North America,7,21.96523297491042
+Helena,US,North America,8,20.152544802867393
+Helena,US,North America,9,14.229111111111093
+Helena,US,North America,10,7.394050179211484
+Helena,US,North America,11,0.5652592592592577
+Helena,US,North America,12,-5.0042293906809965
+Lincoln,US,North America,1,-4.262682657843945
+Lincoln,US,North America,2,-1.7176114890400562
+Lincoln,US,North America,3,4.579955886407498
+Lincoln,US,North America,4,9.901495726495739
+Lincoln,US,North America,5,16.16434010152282
+Lincoln,US,North America,6,21.52407407407408
+Lincoln,US,North America,7,25.627885304659475
+Lincoln,US,North America,8,23.92867383512546
+Lincoln,US,North America,9,19.28599999999996
+Lincoln,US,North America,10,12.017060931899664
+Lincoln,US,North America,11,4.396666666666648
+Lincoln,US,North America,12,-2.4792114695340572
+North Platte,US,North America,1,-4.209470636889978
+North Platte,US,North America,2,-2.4495086923658445
+North Platte,US,North America,3,3.4700854700854813
+North Platte,US,North America,4,8.25356125356125
+North Platte,US,North America,5,14.377044557247578
+North Platte,US,North America,6,20.16659259259259
+North Platte,US,North America,7,23.913189964157645
+North Platte,US,North America,8,22.216344086021518
+North Platte,US,North America,9,17.307407407407396
+North Platte,US,North America,10,9.519784946236575
+North Platte,US,North America,11,2.1336296296296293
+North Platte,US,North America,12,-3.8687455197132437
+Omaha,US,North America,1,-4.611938240970497
+Omaha,US,North America,2,-2.2866969009826104
+Omaha,US,North America,3,4.2744692583402175
+Omaha,US,North America,4,11.050071225071234
+Omaha,US,North America,5,17.14318950930624
+Omaha,US,North America,6,22.411259259259282
+Omaha,US,North America,7,25.440215053763488
+Omaha,US,North America,8,23.62365591397852
+Omaha,US,North America,9,19.258296296296308
+Omaha,US,North America,10,12.072903225806458
+Omaha,US,North America,11,4.339777777777785
+Omaha,US,North America,12,-2.691111111111102
+Reno,US,North America,1,2.1064240419079203
+Reno,US,North America,2,4.111262282690863
+Reno,US,North America,3,7.408740005514202
+Reno,US,North America,4,10.434045584045602
+Reno,US,North America,5,15.47602932882119
+Reno,US,North America,6,20.336888888888886
+Reno,US,North America,7,25.230681003584177
+Reno,US,North America,8,23.80078853046594
+Reno,US,North America,9,18.979037037037035
+Reno,US,North America,10,12.181935483870948
+Reno,US,North America,11,6.145037037037023
+Reno,US,North America,12,1.3678136200716848
+Las Vegas,US,North America,1,9.470567962503383
+Las Vegas,US,North America,2,11.757747543461868
+Las Vegas,US,North America,3,15.97504824924179
+Las Vegas,US,North America,4,19.80341880341879
+Las Vegas,US,North America,5,25.391497461928978
+Las Vegas,US,North America,6,30.44222222222224
+Las Vegas,US,North America,7,34.322365591397805
+Las Vegas,US,North America,8,33.10035842293906
+Las Vegas,US,North America,9,28.606444444444453
+Las Vegas,US,North America,10,21.190967741935463
+Las Vegas,US,North America,11,14.178370370370317
+Las Vegas,US,North America,12,8.47741935483869
+Concord,US,North America,1,-5.114212848083806
+Concord,US,North America,2,-3.6400604686319107
+Concord,US,North America,3,0.14088778604909338
+Concord,US,North America,4,5.884544159544155
+Concord,US,North America,5,12.453186689227259
+Concord,US,North America,6,17.267481481481465
+Concord,US,North America,7,19.39856630824373
+Concord,US,North America,8,20.128028673835068
+Concord,US,North America,9,16.149555555555573
+Concord,US,North America,10,9.590609318996412
+Concord,US,North America,11,3.4960740740740843
+Concord,US,North America,12,-2.276272401433703
+Atlantic City,US,North America,1,1.3471877584780698
+Atlantic City,US,North America,2,2.4170823885109547
+Atlantic City,US,North America,3,5.796319272125707
+Atlantic City,US,North America,4,10.395156695156693
+Atlantic City,US,North America,5,16.185208685843214
+Atlantic City,US,North America,6,21.265555555555505
+Atlantic City,US,North America,7,23.91261648745517
+Atlantic City,US,North America,8,23.41548387096779
+Atlantic City,US,North America,9,19.51585185185182
+Atlantic City,US,North America,10,14.095770609319002
+Atlantic City,US,North America,11,7.876518518518509
+Atlantic City,US,North America,12,3.6065232974910284
+Newark,US,North America,1,0.5794044665012363
+Newark,US,North America,2,1.967951625094481
+Newark,US,North America,3,5.856079404466515
+Newark,US,North America,4,11.717521367521368
+Newark,US,North America,5,17.19550197405525
+Newark,US,North America,6,21.998518518518544
+Newark,US,North America,7,25.535268817204308
+Newark,US,North America,8,24.409103942652386
+Newark,US,North America,9,20.652962962962945
+Newark,US,North America,10,14.460358422939029
+Newark,US,North America,11,8.379037037036987
+Newark,US,North America,12,3.160215053763421
+Albuquerque,US,North America,1,2.7586848635235643
+Albuquerque,US,North America,2,5.734467120181392
+Albuquerque,US,North America,3,9.66273779983458
+Albuquerque,US,North America,4,13.517022792022813
+Albuquerque,US,North America,5,19.148688663282613
+Albuquerque,US,North America,6,24.33985185185183
+Albuquerque,US,North America,7,25.881863799283153
+Albuquerque,US,North America,8,24.519426523297536
+Albuquerque,US,North America,9,21.224444444444455
+Albuquerque,US,North America,10,14.738279569892484
+Albuquerque,US,North America,11,7.938962962962942
+Albuquerque,US,North America,12,2.29304659498208
+Albany,US,North America,1,-4.042666115246774
+Albany,US,North America,2,-2.574981103552544
+Albany,US,North America,3,1.9245244003308553
+Albany,US,North America,4,8.67293447293445
+Albany,US,North America,5,15.138042865200228
+Albany,US,North America,6,19.500074074074075
+Albany,US,North America,7,22.606953405017897
+Albany,US,North America,8,21.36559139784949
+Albany,US,North America,9,17.279407407407408
+Albany,US,North America,10,10.803369175627259
+Albany,US,North America,11,4.601925925925915
+Albany,US,North America,12,-1.1062365591397731
+Buffalo,US,North America,1,-3.4729114971050397
+Buffalo,US,North America,2,-2.9197278911564677
+Buffalo,US,North America,3,1.1133167907361496
+Buffalo,US,North America,4,7.2068376068375875
+Buffalo,US,North America,5,14.214960518894502
+Buffalo,US,North America,6,18.964814814814808
+Buffalo,US,North America,7,22.050035842293912
+Buffalo,US,North America,8,21.144229390680998
+Buffalo,US,North America,9,17.443111111111097
+Buffalo,US,North America,10,11.175842293906852
+Buffalo,US,North America,11,4.986666666666634
+Buffalo,US,North America,12,-0.6321146953405096
+New York City,US,North America,1,1.059760132340786
+New York City,US,North America,2,2.2479213907785103
+New York City,US,North America,3,5.701199338296108
+New York City,US,North America,4,11.312393162393144
+New York City,US,North America,5,16.617033276931725
+New York City,US,North America,6,21.41125925925926
+New York City,US,North America,7,25.60745519713262
+New York City,US,North America,8,24.80387096774191
+New York City,US,North America,9,21.121851851851876
+New York City,US,North America,10,15.22444444444447
+New York City,US,North America,11,9.155555555555562
+New York City,US,North America,12,3.9094623655913887
+Rochester,US,North America,1,-3.353460159911786
+Rochester,US,North America,2,-2.533257747543457
+Rochester,US,North America,3,1.5213675213674884
+Rochester,US,North America,4,7.663390313390295
+Rochester,US,North America,5,14.575789622109438
+Rochester,US,North America,6,17.739037037037058
+Rochester,US,North America,7,21.962365591397784
+Rochester,US,North America,8,20.713978494623653
+Rochester,US,North America,9,17.103333333333353
+Rochester,US,North America,10,11.074121863799265
+Rochester,US,North America,11,4.931851851851848
+Rochester,US,North America,12,-0.5945519713261898
+Syracuse,US,North America,1,-3.9234215605183587
+Syracuse,US,North America,2,-2.998261526832956
+Syracuse,US,North America,3,1.2087124345188727
+Syracuse,US,North America,4,7.879273504273509
+Syracuse,US,North America,5,14.754653130287636
+Syracuse,US,North America,6,19.001629629629583
+Syracuse,US,North America,7,22.31103942652323
+Syracuse,US,North America,8,21.126021505376343
+Syracuse,US,North America,9,17.11251851851854
+Syracuse,US,North America,10,10.98953405017917
+Syracuse,US,North America,11,4.798666666666662
+Syracuse,US,North America,12,-1.0130465949820768
+Asheville,US,North America,1,2.9064653984008655
+Asheville,US,North America,2,4.832123960695351
+Asheville,US,North America,3,8.535842293906803
+Asheville,US,North America,4,13.379772079772067
+Asheville,US,North America,5,15.982021996615876
+Asheville,US,North America,6,20.291777777777785
+Asheville,US,North America,7,21.872616487455222
+Asheville,US,North America,8,22.050179211469565
+Asheville,US,North America,9,19.14370370370366
+Asheville,US,North America,10,13.596200716845866
+Asheville,US,North America,11,7.983555555555537
+Asheville,US,North America,12,4.137992831541201
+Charlotte,US,North America,1,5.6515715467328285
+Charlotte,US,North America,2,7.640060468631889
+Charlotte,US,North America,3,11.529018472566857
+Charlotte,US,North America,4,16.24501424501424
+Charlotte,US,North America,5,20.626974055273553
+Charlotte,US,North America,6,24.02577777777778
+Charlotte,US,North America,7,26.045519713261598
+Charlotte,US,North America,8,25.282365591397912
+Charlotte,US,North America,9,22.311185185185153
+Charlotte,US,North America,10,16.568028673835112
+Charlotte,US,North America,11,10.735481481481505
+Charlotte,US,North America,12,6.850609318996419
+Greensboro,US,North America,1,4.116556382685405
+Greensboro,US,North America,2,6.000529100529152
+Greensboro,US,North America,3,10.030741659773902
+Greensboro,US,North America,4,14.710256410256399
+Greensboro,US,North America,5,19.373589960518895
+Greensboro,US,North America,6,23.280740740740764
+Greensboro,US,North America,7,25.44824372759859
+Greensboro,US,North America,8,24.550035842293894
+Greensboro,US,North America,9,21.293777777777805
+Greensboro,US,North America,10,15.603440860215024
+Greensboro,US,North America,11,9.721777777777747
+Greensboro,US,North America,12,5.471899641577068
+Raleigh Durham,US,North America,1,5.178866832092659
+Raleigh Durham,US,North America,2,6.981632653061215
+Raleigh Durham,US,North America,3,10.657292528260307
+Raleigh Durham,US,North America,4,15.804059829059831
+Raleigh Durham,US,North America,5,20.07959672870841
+Raleigh Durham,US,North America,6,23.90688888888884
+Raleigh Durham,US,North America,7,26.17806451612907
+Raleigh Durham,US,North America,8,25.295268817204267
+Raleigh Durham,US,North America,9,21.949259259259254
+Raleigh Durham,US,North America,10,16.15849462365589
+Raleigh Durham,US,North America,11,10.30377777777778
+Raleigh Durham,US,North America,12,6.4305376344086165
+Bismarck,US,North America,1,-10.313275434243176
+Bismarck,US,North America,2,-7.969085411942562
+Bismarck,US,North America,3,-2.025641025641028
+Bismarck,US,North America,4,4.872934472934472
+Bismarck,US,North America,5,12.699027072758035
+Bismarck,US,North America,6,18.2540740740741
+Bismarck,US,North America,7,22.347455197132586
+Bismarck,US,North America,8,20.870465949820762
+Bismarck,US,North America,9,15.264370370370374
+Bismarck,US,North America,10,7.2491756272401595
+Bismarck,US,North America,11,-1.0611111111110993
+Bismarck,US,North America,12,-8.02422939068101
+Fargo,US,North America,1,-12.201199338296114
+Fargo,US,North America,2,-10.05192743764172
+Fargo,US,North America,3,-2.6625310173697296
+Fargo,US,North America,4,5.567663817663838
+Fargo,US,North America,5,13.667019176536893
+Fargo,US,North America,6,18.990592592592595
+Fargo,US,North America,7,22.064229390680964
+Fargo,US,North America,8,20.51254480286736
+Fargo,US,North America,9,15.718962962962962
+Fargo,US,North America,10,7.835770609318997
+Fargo,US,North America,11,-0.9897777777777724
+Fargo,US,North America,12,-9.05483870967742
+Akron Canton,US,North America,1,-2.788116901020137
+Akron Canton,US,North America,2,-1.3780045351473962
+Akron Canton,US,North America,3,3.271436448855813
+Akron Canton,US,North America,4,9.768233618233618
+Akron Canton,US,North America,5,15.753807106598982
+Akron Canton,US,North America,6,20.02303703703704
+Akron Canton,US,North America,7,22.539784946236587
+Akron Canton,US,North America,8,21.52043010752688
+Akron Canton,US,North America,9,17.84540740740741
+Akron Canton,US,North America,10,11.633906810035855
+Akron Canton,US,North America,11,5.233555555555556
+Akron Canton,US,North America,12,-0.3032258064516174
+Cincinnati,US,North America,1,-0.36621174524399713
+Cincinnati,US,North America,2,1.5019652305366786
+Cincinnati,US,North America,3,6.462227736421317
+Cincinnati,US,North America,4,12.565883190883161
+Cincinnati,US,North America,5,17.89812464749013
+Cincinnati,US,North America,6,21.837777777777806
+Cincinnati,US,North America,7,24.198709677419313
+Cincinnati,US,North America,8,23.70874551971323
+Cincinnati,US,North America,9,19.926148148148144
+Cincinnati,US,North America,10,13.508745519713246
+Cincinnati,US,North America,11,6.906222222222216
+Cincinnati,US,North America,12,1.6371326164874764
+Cleveland,US,North America,1,-2.122553074165978
+Cleveland,US,North America,2,-0.9606953892668102
+Cleveland,US,North America,3,3.3240281224152333
+Cleveland,US,North America,4,9.602706552706561
+Cleveland,US,North America,5,15.87697405527351
+Cleveland,US,North America,6,20.574148148148158
+Cleveland,US,North America,7,23.210179211469512
+Cleveland,US,North America,8,22.325806451612934
+Cleveland,US,North America,9,18.614074074074093
+Cleveland,US,North America,10,12.506451612903236
+Cleveland,US,North America,11,6.124222222222207
+Cleveland,US,North America,12,0.37577060931899176
+Dayton,US,North America,1,-2.032051282051294
+Dayton,US,North America,2,-0.23136810279667308
+Dayton,US,North America,3,4.843603529087391
+Dayton,US,North America,4,11.263390313390305
+Dayton,US,North America,5,17.111745628877596
+Dayton,US,North America,6,21.287407407407443
+Dayton,US,North America,7,23.396845878136233
+Dayton,US,North America,8,22.597204301075223
+Dayton,US,North America,9,18.920148148148158
+Dayton,US,North America,10,12.648028673835089
+Dayton,US,North America,11,5.9099259259259425
+Dayton,US,North America,12,0.2066666666666666
+Toledo,US,North America,1,-3.248138957816396
+Toledo,US,North America,2,-1.9384731670445967
+Toledo,US,North America,3,3.0274331403363854
+Toledo,US,North America,4,9.491310541310563
+Toledo,US,North America,5,15.740411731528468
+Toledo,US,North America,6,20.504666666666658
+Toledo,US,North America,7,23.122724014336946
+Toledo,US,North America,8,21.8904659498208
+Toledo,US,North America,9,17.967259259259322
+Toledo,US,North America,10,11.520788530465964
+Toledo,US,North America,11,5.087555555555569
+Toledo,US,North America,12,-0.8316129032258108
+Youngstown,US,North America,1,-2.8630410807830033
+Youngstown,US,North America,2,-1.6019652305366625
+Youngstown,US,North America,3,2.8442928039702093
+Youngstown,US,North America,4,9.301638176638171
+Youngstown,US,North America,5,15.17301184433169
+Youngstown,US,North America,6,19.26651851851846
+Youngstown,US,North America,7,21.810609318996413
+Youngstown,US,North America,8,20.59512544802868
+Youngstown,US,North America,9,17.093777777777746
+Youngstown,US,North America,10,11.237347670250905
+Youngstown,US,North America,11,5.142370370370371
+Youngstown,US,North America,12,-0.3429390681003615
+Oklahoma City,US,North America,1,3.6594292803970023
+Oklahoma City,US,North America,2,6.004081632653033
+Oklahoma City,US,North America,3,10.825337744692597
+Oklahoma City,US,North America,4,14.979202279202323
+Oklahoma City,US,North America,5,20.38219120135362
+Oklahoma City,US,North America,6,24.50888888888892
+Oklahoma City,US,North America,7,27.99261648745518
+Oklahoma City,US,North America,8,27.3336917562724
+Oklahoma City,US,North America,9,23.00800000000003
+Oklahoma City,US,North America,10,16.53032258064514
+Oklahoma City,US,North America,11,10.11814814814817
+Oklahoma City,US,North America,12,4.16767025089606
+Tulsa,US,North America,1,3.443410532120209
+Tulsa,US,North America,2,5.93499622071051
+Tulsa,US,North America,3,10.919216983733103
+Tulsa,US,North America,4,16.051638176638203
+Tulsa,US,North America,5,20.9173011844331
+Tulsa,US,North America,6,25.13911111111112
+Tulsa,US,North America,7,28.562078853046597
+Tulsa,US,North America,8,27.865017921146993
+Tulsa,US,North America,9,23.29474074074072
+Tulsa,US,North America,10,16.86279569892472
+Tulsa,US,North America,11,10.47985185185185
+Tulsa,US,North America,12,4.400215053763452
+Eugene,US,North America,1,4.967810862972167
+Eugene,US,North America,2,5.806727135298557
+Eugene,US,North America,3,7.763165150261963
+Eugene,US,North America,4,9.715811965811948
+Eugene,US,North America,5,12.675549915397605
+Eugene,US,North America,6,15.501481481481468
+Eugene,US,North America,7,19.822508960573504
+Eugene,US,North America,8,19.55096774193548
+Eugene,US,North America,9,16.358000000000015
+Eugene,US,North America,10,11.485663082437286
+Eugene,US,North America,11,7.480444444444424
+Eugene,US,North America,12,4.053548387096776
+Medford,US,North America,1,4.225875379101194
+Medford,US,North America,2,6.114965986394563
+Medford,US,North America,3,8.039564378274045
+Medford,US,North America,4,10.347008547008556
+Medford,US,North America,5,15.21228144388045
+Medford,US,North America,6,18.680740740740752
+Medford,US,North America,7,24.131827956989266
+Medford,US,North America,8,23.266093189964156
+Medford,US,North America,9,19.008148148148145
+Medford,US,North America,10,12.676344086021507
+Medford,US,North America,11,7.174370370370377
+Medford,US,North America,12,3.3954838709677464
+Salem,US,North America,1,5.20540391508134
+Salem,US,North America,2,6.0651549508692035
+Salem,US,North America,3,8.0355665839537
+Salem,US,North America,4,9.605982905982891
+Salem,US,North America,5,12.839114495205884
+Salem,US,North America,6,14.156296296296311
+Salem,US,North America,7,20.34860215053761
+Salem,US,North America,8,20.006953405017935
+Salem,US,North America,9,16.872222222222245
+Salem,US,North America,10,11.972688172043023
+Salem,US,North America,11,7.875037037037048
+Salem,US,North America,12,4.4210752688172406
+Allentown,US,North America,1,-1.2969396195202836
+Allentown,US,North America,2,0.13544973544973182
+Allentown,US,North America,3,4.5166804521643416
+Allentown,US,North America,4,10.635185185185192
+Allentown,US,North America,5,16.362803158488454
+Allentown,US,North America,6,20.121629629629652
+Allentown,US,North America,7,23.751326164874556
+Allentown,US,North America,8,22.482724014336927
+Allentown,US,North America,9,18.540370370370407
+Allentown,US,North America,10,12.471971326164859
+Allentown,US,North America,11,6.25318518518518
+Allentown,US,North America,12,1.131756272401449
+Erie,US,North America,1,-2.2966639095671484
+Erie,US,North America,2,-1.7944066515495254
+Erie,US,North America,3,2.1038047973531664
+Erie,US,North America,4,8.02272079772076
+Erie,US,North America,5,14.629935138183832
+Erie,US,North America,6,19.502296296296258
+Erie,US,North America,7,22.44344086021505
+Erie,US,North America,8,21.729175627240117
+Erie,US,North America,9,18.14696296296298
+Erie,US,North America,10,12.086666666666664
+Erie,US,North America,11,6.02740740740742
+Erie,US,North America,12,0.5063799283154167
+Harrisburg,US,North America,1,-0.5610439068100348
+Harrisburg,US,North America,2,0.645648967551631
+Harrisburg,US,North America,3,5.384744623655943
+Harrisburg,US,North America,4,11.493634259259254
+Harrisburg,US,North America,5,16.75660842293902
+Harrisburg,US,North America,6,21.41909722222219
+Harrisburg,US,North America,7,24.39975358422936
+Harrisburg,US,North America,8,23.37869623655914
+Harrisburg,US,North America,9,19.20366504291348
+Harrisburg,US,North America,10,12.783632019115892
+Harrisburg,US,North America,11,7.182839506172856
+Harrisburg,US,North America,12,1.2362007168458828
+Philadelphia,US,North America,1,1.1026330300523866
+Philadelphia,US,North America,2,2.47437641723357
+Philadelphia,US,North America,3,6.519368624207347
+Philadelphia,US,North America,4,12.462321937321924
+Philadelphia,US,North America,5,17.86590524534684
+Philadelphia,US,North America,6,22.527777777777736
+Philadelphia,US,North America,7,25.809605734767032
+Philadelphia,US,North America,8,24.797634408602153
+Philadelphia,US,North America,9,21.006444444444412
+Philadelphia,US,North America,10,14.835913978494672
+Philadelphia,US,North America,11,8.680000000000005
+Philadelphia,US,North America,12,3.510179211469529
+Pittsburgh,US,North America,1,-1.6701819685690427
+Pittsburgh,US,North America,2,-0.2035525321239678
+Pittsburgh,US,North America,3,4.370554177005796
+Pittsburgh,US,North America,4,10.88454415954414
+Pittsburgh,US,North America,5,15.262760857304025
+Pittsburgh,US,North America,6,19.177333333333372
+Pittsburgh,US,North America,7,22.817060931899636
+Pittsburgh,US,North America,8,22.00637992831544
+Pittsburgh,US,North America,9,18.2508888888889
+Pittsburgh,US,North America,10,12.070967741935496
+Pittsburgh,US,North America,11,5.881185185185211
+Pittsburgh,US,North America,12,0.6603584229390493
+Wilkes Barre,US,North America,1,-2.942859112213944
+Wilkes Barre,US,North America,2,-1.230385487528335
+Wilkes Barre,US,North America,3,2.748138957816373
+Wilkes Barre,US,North America,4,9.220655270655232
+Wilkes Barre,US,North America,5,15.335800902425266
+Wilkes Barre,US,North America,6,19.25288888888885
+Wilkes Barre,US,North America,7,22.242652329749053
+Wilkes Barre,US,North America,8,21.28709677419352
+Wilkes Barre,US,North America,9,17.444000000000003
+Wilkes Barre,US,North America,10,11.280716845878144
+Wilkes Barre,US,North America,11,5.390222222222209
+Wilkes Barre,US,North America,12,-0.06121863799281652
+Rhode Island,US,North America,1,-0.8893713813068556
+Rhode Island,US,North America,2,0.20430839002267634
+Rhode Island,US,North America,3,3.670457678522179
+Rhode Island,US,North America,4,9.210754985754997
+Rhode Island,US,North America,5,14.410391990975787
+Rhode Island,US,North America,6,18.526814814814905
+Rhode Island,US,North America,7,23.293118279569846
+Rhode Island,US,North America,8,22.300143369175583
+Rhode Island,US,North America,9,18.497333333333362
+Rhode Island,US,North America,10,12.58451612903226
+Rhode Island,US,North America,11,6.897333333333329
+Rhode Island,US,North America,12,1.7625806451612804
+Charleston,US,North America,1,5.454266611524719
+Charleston,US,North America,2,7.227437641723321
+Charleston,US,North America,3,11.14471326164874
+Charleston,US,North America,4,16.09825498575499
+Charleston,US,North America,5,20.2877538071066
+Charleston,US,North America,6,23.413555555555476
+Charleston,US,North America,7,25.460071684587817
+Charleston,US,North America,8,24.693476702509013
+Charleston,US,North America,9,21.852740740740728
+Charleston,US,North America,10,16.552795698924754
+Charleston,US,North America,11,10.47914814814819
+Charleston,US,North America,12,6.798279569892397
+Columbia,US,North America,1,7.666804521643197
+Columbia,US,North America,2,9.661526832955392
+Columbia,US,North America,3,13.505720981527428
+Columbia,US,North America,4,18.1104700854701
+Columbia,US,North America,5,22.304639029892854
+Columbia,US,North America,6,25.546444444444464
+Columbia,US,North America,7,27.501648745519713
+Columbia,US,North America,8,26.73369175627237
+Columbia,US,North America,9,24.001703703703715
+Columbia,US,North America,10,18.249820788530453
+Columbia,US,North America,11,12.15318518518517
+Columbia,US,North America,12,8.519139784946248
+Rapid City,US,North America,1,-4.106768679349339
+Rapid City,US,North America,2,-3.1769463340891986
+Rapid City,US,North America,3,1.628549765646541
+Rapid City,US,North America,4,6.712179487179451
+Rapid City,US,North America,5,12.32494359842078
+Rapid City,US,North America,6,17.843703703703707
+Rapid City,US,North America,7,23.017849462365557
+Rapid City,US,North America,8,21.482508960573483
+Rapid City,US,North America,9,16.245407407407406
+Rapid City,US,North America,10,8.136415770609311
+Rapid City,US,North America,11,1.6802222222222223
+Rapid City,US,North America,12,-4.038422939068105
+Sioux Falls,US,North America,1,-8.01592224979321
+Sioux Falls,US,North America,2,-5.7743764172335466
+Sioux Falls,US,North America,3,0.7562034739453891
+Sioux Falls,US,North America,4,8.004985754985764
+Sioux Falls,US,North America,5,14.506909193457457
+Sioux Falls,US,North America,6,20.13200000000002
+Sioux Falls,US,North America,7,23.46035842293908
+Sioux Falls,US,North America,8,21.681935483870923
+Sioux Falls,US,North America,9,17.13022222222223
+Sioux Falls,US,North America,10,9.467383512544798
+Sioux Falls,US,North America,11,1.3593333333333233
+Sioux Falls,US,North America,12,-5.919139784946223
+Chattanooga,US,North America,1,5.048111386821065
+Chattanooga,US,North America,2,7.204308390022662
+Chattanooga,US,North America,3,11.353873724841444
+Chattanooga,US,North America,4,15.946794871794879
+Chattanooga,US,North America,5,20.530597856739966
+Chattanooga,US,North America,6,23.90399999999995
+Chattanooga,US,North America,7,26.357491039426513
+Chattanooga,US,North America,8,25.974336917562763
+Chattanooga,US,North America,9,22.756666666666636
+Chattanooga,US,North America,10,16.60931899641578
+Chattanooga,US,North America,11,10.218148148148098
+Chattanooga,US,North America,12,6.198494623655932
+Knoxville,US,North America,1,3.832368348497397
+Knoxville,US,North America,2,6.00370370370371
+Knoxville,US,North America,3,10.311414392059525
+Knoxville,US,North America,4,14.763034188034156
+Knoxville,US,North America,5,19.726804850535807
+Knoxville,US,North America,6,23.838592592592533
+Knoxville,US,North America,7,25.358709677419395
+Knoxville,US,North America,8,24.969677419354827
+Knoxville,US,North America,9,21.84622222222227
+Knoxville,US,North America,10,15.656630824372737
+Knoxville,US,North America,11,9.304592592592595
+Knoxville,US,North America,12,5.078422939068087
+Memphis,US,North America,1,5.477529638819962
+Memphis,US,North America,2,7.754043839758079
+Memphis,US,North America,3,12.30114419630548
+Memphis,US,North America,4,17.277279202279253
+Memphis,US,North America,5,22.23371404399323
+Memphis,US,North America,6,25.926962962963003
+Memphis,US,North America,7,27.91103942652329
+Memphis,US,North America,8,27.504731182795677
+Memphis,US,North America,9,24.34437037037035
+Memphis,US,North America,10,18.06688172043008
+Memphis,US,North America,11,11.508444444444446
+Memphis,US,North America,12,6.707670250896069
+Nashville,US,North America,1,4.018610421836198
+Nashville,US,North America,2,6.106878306878289
+Nashville,US,North America,3,10.606630824372761
+Nashville,US,North America,4,15.750142450142448
+Nashville,US,North America,5,20.34637619853357
+Nashville,US,North America,6,24.080962962962936
+Nashville,US,North America,7,26.471469534050186
+Nashville,US,North America,8,25.84967741935483
+Nashville,US,North America,9,22.522666666666638
+Nashville,US,North America,10,16.290681003584258
+Nashville,US,North America,11,9.976518518518516
+Nashville,US,North America,12,5.4203584229390716
+Abilene,US,North America,1,7.033912324234927
+Abilene,US,North America,2,9.408541194255507
+Abilene,US,North America,3,13.629514750482453
+Abilene,US,North America,4,18.129629629629672
+Abilene,US,North America,5,22.477932882120655
+Abilene,US,North America,6,25.360222222222156
+Abilene,US,North America,7,28.561505376344073
+Abilene,US,North America,8,28.078422939068073
+Abilene,US,North America,9,24.26718518518517
+Abilene,US,North America,10,18.79483870967742
+Abilene,US,North America,11,12.550074074074091
+Abilene,US,North America,12,6.99327033218785
+Amarillo,US,North America,1,2.8434656741108415
+Amarillo,US,North America,2,4.549584278155695
+Amarillo,US,North America,3,9.073063137579275
+Amarillo,US,North America,4,13.090455840455835
+Amarillo,US,North America,5,18.94754653130288
+Amarillo,US,North America,6,23.456592592592596
+Amarillo,US,North America,7,26.156774193548344
+Amarillo,US,North America,8,24.93706093189963
+Amarillo,US,North America,9,20.884814814814835
+Amarillo,US,North America,10,14.483082437275982
+Amarillo,US,North America,11,8.02281481481482
+Amarillo,US,North America,12,2.5521146953405034
+Austin,US,North America,1,10.291907912875676
+Austin,US,North America,2,12.520937263794416
+Austin,US,North America,3,16.082781913427073
+Austin,US,North America,4,18.46652421652419
+Austin,US,North America,5,23.93852227862378
+Austin,US,North America,6,26.60214814814816
+Austin,US,North America,7,28.678566308243685
+Austin,US,North America,8,28.766164874551926
+Austin,US,North America,9,25.849851851851806
+Austin,US,North America,10,20.799283154121927
+Austin,US,North America,11,15.211407407407433
+Austin,US,North America,12,10.522580645161286
+Brownsville,US,North America,1,16.178246484698093
+Brownsville,US,North America,2,18.166439909297054
+Brownsville,US,North America,3,20.5368072787428
+Brownsville,US,North America,4,23.24665242165243
+Brownsville,US,North America,5,26.615552735476594
+Brownsville,US,North America,6,28.11414814814816
+Brownsville,US,North America,7,29.093978494623613
+Brownsville,US,North America,8,29.147598566308172
+Brownsville,US,North America,9,27.256962962962955
+Brownsville,US,North America,10,24.33232974910397
+Brownsville,US,North America,11,20.38651851851849
+Brownsville,US,North America,12,16.73999999999996
+Corpus Christi,US,North America,1,14.096360628618685
+Corpus Christi,US,North America,2,16.21511715797425
+Corpus Christi,US,North America,3,19.09877309070853
+Corpus Christi,US,North America,4,22.377065527065515
+Corpus Christi,US,North America,5,25.729272419627787
+Corpus Christi,US,North America,6,27.588444444444413
+Corpus Christi,US,North America,7,28.752974910394276
+Corpus Christi,US,North America,8,28.940286738351258
+Corpus Christi,US,North America,9,27.111629629629604
+Corpus Christi,US,North America,10,23.662365591397787
+Corpus Christi,US,North America,11,18.789629629629644
+Corpus Christi,US,North America,12,14.55612903225805
+Dallas Ft Worth,US,North America,1,8.031224152191886
+Dallas Ft Worth,US,North America,2,10.388208616780028
+Dallas Ft Worth,US,North America,3,14.556589467879794
+Dallas Ft Worth,US,North America,4,18.860470085470066
+Dallas Ft Worth,US,North America,5,23.48984771573606
+Dallas Ft Worth,US,North America,6,26.9506666666667
+Dallas Ft Worth,US,North America,7,30.050394265232992
+Dallas Ft Worth,US,North America,8,30.01935483870966
+Dallas Ft Worth,US,North America,9,26.153333333333382
+Dallas Ft Worth,US,North America,10,20.182867383512516
+Dallas Ft Worth,US,North America,11,13.96088888888887
+Dallas Ft Worth,US,North America,12,8.626523297491026
+El Paso,US,North America,1,7.954507857733644
+El Paso,US,North America,2,10.996674225245657
+El Paso,US,North America,3,15.054177005789874
+El Paso,US,North America,4,19.216025641025663
+El Paso,US,North America,5,24.47412577552168
+El Paso,US,North America,6,28.61548148148144
+El Paso,US,North America,7,28.751756272401433
+El Paso,US,North America,8,27.709677419354836
+El Paso,US,North America,9,24.835111111111075
+El Paso,US,North America,10,19.39505376344085
+El Paso,US,North America,11,12.643037037037013
+El Paso,US,North America,12,7.330107526881717
+Houston,US,North America,1,11.786186931348226
+Houston,US,North America,2,14.023053665910844
+Houston,US,North America,3,17.382547559966955
+Houston,US,North America,4,19.999928774928758
+Houston,US,North America,5,24.156373378454642
+Houston,US,North America,6,27.008592592592542
+Houston,US,North America,7,28.66258064516128
+Houston,US,North America,8,28.508960573476728
+Houston,US,North America,9,26.072888888888908
+Houston,US,North America,10,21.607813620071646
+Houston,US,North America,11,16.41525925925926
+Houston,US,North America,12,12.257132616487464
+Lubbock,US,North America,1,4.590088227184989
+Lubbock,US,North America,2,6.8921390778533445
+Lubbock,US,North America,3,11.035635511441976
+Lubbock,US,North America,4,15.541239316239329
+Lubbock,US,North America,5,21.189227298364376
+Lubbock,US,North America,6,25.15340740740738
+Lubbock,US,North America,7,27.229247311827926
+Lubbock,US,North America,8,26.10107526881725
+Lubbock,US,North America,9,22.150148148148162
+Lubbock,US,North America,10,16.334695340501824
+Lubbock,US,North America,11,9.881481481481503
+Lubbock,US,North America,12,4.406021505376362
+Midland Odessa,US,North America,1,6.8145850565205475
+Midland Odessa,US,North America,2,9.421012849584319
+Midland Odessa,US,North America,3,13.606768679349333
+Midland Odessa,US,North America,4,18.320156695156697
+Midland Odessa,US,North America,5,23.6089960518895
+Midland Odessa,US,North America,6,27.06622222222221
+Midland Odessa,US,North America,7,28.541218637992806
+Midland Odessa,US,North America,8,27.73878136200714
+Midland Odessa,US,North America,9,24.068740740740704
+Midland Odessa,US,North America,10,18.587025089605746
+Midland Odessa,US,North America,11,11.870814814814846
+Midland Odessa,US,North America,12,6.575483870967733
+San Angelo,US,North America,1,8.027502067824667
+San Angelo,US,North America,2,10.560468631897221
+San Angelo,US,North America,3,14.728425696167639
+San Angelo,US,North America,4,19.00911680911684
+San Angelo,US,North America,5,23.95932036097009
+San Angelo,US,North America,6,26.715333333333323
+San Angelo,US,North America,7,28.872616487455193
+San Angelo,US,North America,8,28.398853046594997
+San Angelo,US,North America,9,24.595481481481475
+San Angelo,US,North America,10,19.18286738351256
+San Angelo,US,North America,11,13.125333333333337
+San Angelo,US,North America,12,8.151254480286738
+San Antonio,US,North America,1,11.384891094568543
+San Antonio,US,North America,2,13.624792139077815
+San Antonio,US,North America,3,17.01874827681283
+San Antonio,US,North America,4,20.7696581196581
+San Antonio,US,North America,5,24.698956570783995
+San Antonio,US,North America,6,27.22681481481481
+San Antonio,US,North America,7,28.83598566308244
+San Antonio,US,North America,8,29.11218637992827
+San Antonio,US,North America,9,26.364222222222217
+San Antonio,US,North America,10,21.749462365591416
+San Antonio,US,North America,11,16.27525925925925
+San Antonio,US,North America,12,11.591182795698892
+Waco,US,North America,1,8.64219740832643
+Waco,US,North America,2,10.912773998488271
+Waco,US,North America,3,14.686311000827073
+Waco,US,North America,4,18.58012820512823
+Waco,US,North America,5,23.60681049069373
+Waco,US,North America,6,26.477185185185174
+Waco,US,North America,7,29.599784946236557
+Waco,US,North America,8,29.58236559139787
+Waco,US,North America,9,25.90948148148149
+Waco,US,North America,10,20.28050179211473
+Waco,US,North America,11,14.208074074074062
+Waco,US,North America,12,9.04616487455196
+Wichita Falls,US,North America,1,5.763303005238495
+Wichita Falls,US,North America,2,7.948374905517761
+Wichita Falls,US,North America,3,12.641163496002182
+Wichita Falls,US,North America,4,17.269159544159535
+Wichita Falls,US,North America,5,22.4603073886069
+Wichita Falls,US,North America,6,26.310666666666627
+Wichita Falls,US,North America,7,29.480931899641504
+Wichita Falls,US,North America,8,29.00910394265231
+Wichita Falls,US,North America,9,24.620074074074054
+Wichita Falls,US,North America,10,18.2815053763441
+Wichita Falls,US,North America,11,11.75622222222225
+Wichita Falls,US,North America,12,5.553405017921133
+Salt Lake City,US,North America,1,-0.8687620623104486
+Salt Lake City,US,North America,2,1.8164021164021331
+Salt Lake City,US,North America,3,6.91053212020957
+Salt Lake City,US,North America,4,10.121225071225044
+Salt Lake City,US,North America,5,15.765157924421878
+Salt Lake City,US,North America,6,21.511407407407418
+Salt Lake City,US,North America,7,27.284587813620085
+Salt Lake City,US,North America,8,25.620501792114712
+Salt Lake City,US,North America,9,19.441185185185205
+Salt Lake City,US,North America,10,11.791756272401443
+Salt Lake City,US,North America,11,5.068740740740765
+Salt Lake City,US,North America,12,-0.7526881720430308
+Burlington,US,North America,1,-6.215949820788544
+Burlington,US,North America,2,-4.91942554799698
+Burlington,US,North America,3,-0.12213950923628561
+Burlington,US,North America,4,6.993660968660988
+Burlington,US,North America,5,14.157360406091383
+Burlington,US,North America,6,18.258074074074038
+Burlington,US,North America,7,21.921648745519786
+Burlington,US,North America,8,20.86444444444443
+Burlington,US,North America,9,16.63281481481483
+Burlington,US,North America,10,10.028960573476708
+Burlington,US,North America,11,3.685037037037032
+Burlington,US,North America,12,-2.7122580645161025
+Norfolk,US,North America,1,5.424041907912848
+Norfolk,US,North America,2,6.609599395313685
+Norfolk,US,North America,3,9.708505652054034
+Norfolk,US,North America,4,14.52329059829061
+Norfolk,US,North America,5,19.633248730964453
+Norfolk,US,North America,6,23.61962962962966
+Norfolk,US,North America,7,26.511899641577088
+Norfolk,US,North America,8,25.518996415770612
+Norfolk,US,North America,9,22.857185185185227
+Norfolk,US,North America,10,17.537347670250913
+Norfolk,US,North America,11,11.537777777777778
+Norfolk,US,North America,12,7.42544802867384
+Richmond,US,North America,1,3.59381031155226
+Richmond,US,North America,2,5.226832955404379
+Richmond,US,North America,3,9.211883098979873
+Richmond,US,North America,4,14.278133903133888
+Richmond,US,North America,5,19.17174280879864
+Richmond,US,North America,6,23.476148148148177
+Richmond,US,North America,7,25.99211469534054
+Richmond,US,North America,8,24.890179211469583
+Richmond,US,North America,9,21.514370370370393
+Richmond,US,North America,10,15.690967741935493
+Richmond,US,North America,11,9.709185185185191
+Richmond,US,North America,12,5.2759139784946445
+Roanoke,US,North America,1,2.8726220016542374
+Roanoke,US,North America,2,4.618442932728624
+Roanoke,US,North America,3,8.78301626688726
+Roanoke,US,North America,4,14.205270655270642
+Roanoke,US,North America,5,18.699943598420784
+Roanoke,US,North America,6,22.31111111111113
+Roanoke,US,North America,7,24.646523297491015
+Roanoke,US,North America,8,23.893189964157695
+Roanoke,US,North America,9,20.250296296296348
+Roanoke,US,North America,10,14.693405017921116
+Roanoke,US,North America,11,8.69370370370373
+Roanoke,US,North America,12,4.315125448028666
+Seattle,US,North America,1,5.525847808105889
+Seattle,US,North America,2,5.936659108087679
+Seattle,US,North America,3,7.548318169285935
+Seattle,US,North America,4,9.822364672364678
+Seattle,US,North America,5,13.305344049633371
+Seattle,US,North America,6,15.428814814814757
+Seattle,US,North America,7,18.840071684587812
+Seattle,US,North America,8,18.614838709677393
+Seattle,US,North America,9,15.903037037037011
+Seattle,US,North America,10,11.385591397849488
+Seattle,US,North America,11,7.735259259259266
+Seattle,US,North America,12,4.724802867383507
+Spokane,US,North America,1,-1.5040667218086687
+Spokane,US,North America,2,0.00846560846563291
+Spokane,US,North America,3,3.9279018472566603
+Spokane,US,North America,4,7.946011396011398
+Spokane,US,North America,5,13.161308516638428
+Spokane,US,North America,6,16.43096296296294
+Spokane,US,North America,7,22.117992831541248
+Spokane,US,North America,8,21.11089605734768
+Spokane,US,North America,9,15.633111111111122
+Spokane,US,North America,10,8.4354121863799
+Spokane,US,North America,11,2.4022222222222407
+Spokane,US,North America,12,-2.054695340501795
+Yakima,US,North America,1,-0.2563413289219775
+Yakima,US,North America,2,2.2941798941799068
+Yakima,US,North America,3,6.481182795698916
+Yakima,US,North America,4,10.516239316239325
+Yakima,US,North America,5,15.593979131415658
+Yakima,US,North America,6,18.85659259259261
+Yakima,US,North America,7,23.755412186379935
+Yakima,US,North America,8,22.314767025089612
+Yakima,US,North America,9,16.70903703703705
+Yakima,US,North America,10,9.758351254480289
+Yakima,US,North America,11,3.4937777777777708
+Yakima,US,North America,12,-1.2936200716845785
+Elkins,US,North America,1,-1.182933553901289
+Elkins,US,North America,2,0.5280423280423384
+Elkins,US,North America,3,4.717259443065881
+Elkins,US,North America,4,10.469301994302022
+Elkins,US,North America,5,14.563310772701657
+Elkins,US,North America,6,18.254444444444463
+Elkins,US,North America,7,20.641935483870927
+Elkins,US,North America,8,17.31025089605735
+Elkins,US,North America,9,16.680666666666685
+Elkins,US,North America,10,10.794121863799274
+Elkins,US,North America,11,4.822666666666653
+Elkins,US,North America,12,0.7130465949820872
+Green Bay,US,North America,1,-7.097187758478081
+Green Bay,US,North America,2,-5.705064247921374
+Green Bay,US,North America,3,-0.05665839536805982
+Green Bay,US,North America,4,6.594515669515657
+Green Bay,US,North America,5,13.126551043429167
+Green Bay,US,North America,6,17.569333333333347
+Green Bay,US,North America,7,21.537491039426538
+Green Bay,US,North America,8,20.16286738351255
+Green Bay,US,North America,9,15.847703703703754
+Green Bay,US,North America,10,9.48028673835123
+Green Bay,US,North America,11,2.433629629629617
+Green Bay,US,North America,12,-4.363942652329733
+Madison,US,North America,1,-6.478218913702768
+Madison,US,North America,2,-4.568329554043847
+Madison,US,North America,3,1.383098979873145
+Madison,US,North America,4,8.092378917378937
+Madison,US,North America,5,14.57134799774391
+Madison,US,North America,6,19.667407407407413
+Madison,US,North America,7,22.612258064516134
+Madison,US,North America,8,21.13240143369176
+Madison,US,North America,9,16.82785185185186
+Madison,US,North America,10,10.224946236559143
+Madison,US,North America,11,2.963185185185178
+Madison,US,North America,12,-3.766594982078857
+Milwaukee,US,North America,1,-4.614833195478373
+Milwaukee,US,North America,2,-3.048752834467129
+Milwaukee,US,North America,3,1.6209677419354662
+Milwaukee,US,North America,4,5.673433048433027
+Milwaukee,US,North America,5,11.520445572476014
+Milwaukee,US,North America,6,18.10518518518522
+Milwaukee,US,North America,7,22.57376344086023
+Milwaukee,US,North America,8,21.84566308243728
+Milwaukee,US,North America,9,17.800666666666693
+Milwaukee,US,North America,10,11.414910394265263
+Milwaukee,US,North America,11,4.308444444444458
+Milwaukee,US,North America,12,-2.087741935483866
+Casper,US,North America,1,-3.3157568238213466
+Casper,US,North America,2,-2.9344671201813948
+Casper,US,North America,3,1.9326578439481463
+Casper,US,North America,4,5.623789173789176
+Casper,US,North America,5,10.864918217710088
+Casper,US,North America,6,16.698666666666682
+Casper,US,North America,7,22.248387096774184
+Casper,US,North America,8,20.59032258064516
+Casper,US,North America,9,14.781851851851862
+Casper,US,North America,10,7.413046594982076
+Casper,US,North America,11,1.677555555555546
+Casper,US,North America,12,-3.9160573476702374
+Cheyenne,US,North America,1,-1.4697408326440413
+Cheyenne,US,North America,2,-1.6309145880574545
+Cheyenne,US,North America,3,2.5508684863523516
+Cheyenne,US,North America,4,5.800997150997134
+Cheyenne,US,North America,5,10.830231246474916
+Cheyenne,US,North America,6,16.5342222222222
+Cheyenne,US,North America,7,21.218637992831553
+Cheyenne,US,North America,8,19.67913978494627
+Cheyenne,US,North America,9,14.939259259259229
+Cheyenne,US,North America,10,7.94573476702505
+Cheyenne,US,North America,11,2.486888888888904
+Cheyenne,US,North America,12,-2.227455197132622
+San Juan Puerto Rico,US,North America,1,15.444633088096635
+San Juan Puerto Rico,US,North America,2,16.029691702876093
+San Juan Puerto Rico,US,North America,3,18.4763252216563
+San Juan Puerto Rico,US,North America,4,18.328654970760258
+San Juan Puerto Rico,US,North America,5,17.99019053008864
+San Juan Puerto Rico,US,North America,6,15.014132553606224
+San Juan Puerto Rico,US,North America,7,15.31201660064135
+San Juan Puerto Rico,US,North America,8,15.836618876941449
+San Juan Puerto Rico,US,North America,9,21.697633744855953
+San Juan Puerto Rico,US,North America,10,15.810732775786489
+San Juan Puerto Rico,US,North America,11,10.47808641975309
+San Juan Puerto Rico,US,North America,12,15.711867781760285
