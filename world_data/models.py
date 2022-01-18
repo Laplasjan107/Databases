@@ -72,3 +72,13 @@ class AirWaterQuality(models.Model):
     def __str__(self):
         return self.city + ", " + self.country
 
+
+class Iso(models.Model):
+    country = models.CharField(max_length=200, default=None, primary_key=True)
+    iso2 = models.CharField(max_length=2, default=None, blank=True, null=True)
+    iso3 = models.CharField(max_length=3, default=None, blank=True, null=True)
+    numeric = models.IntegerField(default=None, blank=True, null=True)
+
+    def __str__(self):
+        return self.country
+
