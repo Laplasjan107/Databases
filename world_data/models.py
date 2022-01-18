@@ -49,3 +49,13 @@ class InternetPrices(models.Model):
     def __str__(self):
         return self.city
 
+
+# https://ourworldindata.org/grapher/main-religion-of-the-country-in
+# Creative Commons BY license.
+class CountryReligion(models.Model):
+    iso3 = models.CharField(max_length=3, null=False, blank=False)
+    year = models.IntegerField(default=None, blank=True, null=True)
+    main_religion = models.CharField(max_length=200, null=False, blank=False)
+
+    def __str__(self):
+        return self.iso3
