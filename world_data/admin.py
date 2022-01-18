@@ -7,7 +7,8 @@ from django.contrib import messages
 from django.http import HttpResponseRedirect
 from django.urls import reverse
 
-from .models import WorldHappiness, WorldCities, InternetPrices, CountryReligion
+from .models import WorldHappiness, WorldCities, \
+    InternetPrices, CountryReligion, AirWaterQuality
 
 
 class CsvImportForm(forms.Form):
@@ -221,8 +222,59 @@ class CountryReligionAdmin(admin.ModelAdmin):
         return render(request, "admin/csv_upload.html", data)
 
 
+class AirWaterQualityAdmin(admin.ModelAdmin):
+    list_display = ('city',)
+
+    def get_urls(self):
+        urls = super().get_urls()
+        new_urls = [path('upload-csv/', self.upload_csv), ]
+        return new_urls + urls
+
+    def upload_csv(self, request):
+        if request.method == "POST":
+            csv_file = request.FILES["csv_upload"]
+
+            if not csv_file.name.endswith('.csv'):
+                messages.warning(request, 'The wrong file type was uploaded')
+                return HttpResponseRedirect(request.path_info)
+
+            file_data = csv_file.read().decode("utf-8").replace('\r', '0')
+            csv_data = file_data.split("\n")
+            skip = 2
+            for x in csv_data:
+                if len(x) == 0:
+                    break
+                if skip > 0:
+                    skip -= 1
+                    continue
+                fields = x.split(",")
+
+                fields_with_nulls = []
+                for field in fields:
+                    if not field:
+                        fields_with_nulls.append(None)
+                    else:
+                        fields_with_nulls.append(field.replace("\"", ""))
+                try:
+                    created = AirWaterQuality.objects.update_or_create(
+                        city=fields_with_nulls[0],
+                        country=fields_with_nulls[2],
+                        air_quality=fields_with_nulls[3],
+                        water_quality=fields_with_nulls[4]
+                    )
+                except Exception:
+                    print("falied to create " + fields_with_nulls[0])
+            url = reverse('admin:index')
+            return HttpResponseRedirect(url)
+
+        form = CsvImportForm()
+        data = {"form": form}
+        return render(request, "admin/csv_upload.html", data)
+
+
 # Register your models here.
 admin.site.register(WorldHappiness, WorldHappinessAdmin)
 admin.site.register(WorldCities, WorldCitiesAdmin)
 admin.site.register(InternetPrices, InternetPricesAdmin)
 admin.site.register(CountryReligion, CountryReligionAdmin)
+admin.site.register(AirWaterQuality, AirWaterQualityAdmin)

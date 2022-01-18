@@ -36,7 +36,7 @@ class WorldCities(models.Model):
     population = models.IntegerField(default=None, blank=True, null=True)
 
     def __str__(self):
-        return self.city
+        return self.city + ", " + self.country
 
 
 # https://www.kaggle.com/cityapiio/world-cities-average-internet-prices-2020
@@ -59,3 +59,16 @@ class CountryReligion(models.Model):
 
     def __str__(self):
         return self.iso3
+
+
+# https://www.kaggle.com/cityapiio/world-cities-air-quality-and-water-polution
+# CC0: Public Domain
+class AirWaterQuality(models.Model):
+    city = models.CharField(max_length=200, null=False, blank=False)
+    country = models.CharField(max_length=200, null=False, blank=False)
+    air_quality = models.FloatField()
+    water_quality = models.FloatField()
+
+    def __str__(self):
+        return self.city + ", " + self.country
+
