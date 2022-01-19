@@ -8,8 +8,8 @@ class CityForm(forms.Form):
     temperature_importance = forms.IntegerField(label='How important is it? (int from 0 to 10)')
     rental_costs_importance = forms.IntegerField(label='How important are low rental costs? (int from 0 to 10)')
     living_costs_importance = forms.IntegerField(label='How important are low living costs? (int from 0 to 10)')
-    pollution_importance = forms.IntegerField(label='How important is luw environmental pollution? (int from 0 to 10)')
-    languages = forms.MultipleChoiceField(choices = (
+    pollution_importance = forms.IntegerField(label='How important is low environmental pollution? (int from 0 to 10)')
+    languages = forms.MultipleChoiceField(widget=forms.CheckboxSelectMultiple, choices = (
         ("1", "English"),
         ("2", "Spanish"),
         ("3", "Portugese"),
@@ -19,7 +19,7 @@ class CityForm(forms.Form):
         ("7", "Russian"),
         ("8", "Ukrainian")), label = 'Which languages do you know?')
     gdp_per_capita_importance = forms.IntegerField(label='How important is high gdp per capita?')
-    continents = forms.MultipleChoiceField(choices = (
+    continents = forms.MultipleChoiceField(widget=forms.CheckboxSelectMultiple, choices = (
         ("1", "Europe"),
         ("2", "Asia"),
         ("3", "Africa"),

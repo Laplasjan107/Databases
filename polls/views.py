@@ -12,7 +12,8 @@ def get_name(request):
         if form.is_valid():
             name = form.cleaned_data['name']
             languages = form.cleaned_data.get("languages")
-            rendered = render(request, 'polls/submited.html', {'name': name}, {'languages': languages}) 
+            # z jakiegos powodu languages nie wypisuje sie do htmla, ale tutaj w kodzie mamy do niego dostep wiec nie ma problemu
+            rendered = render(request, 'polls/submited.html', {'name': name}, {'languages': languages[0]}) 
             return rendered
 
     # if a GET (or any other method) we'll create a blank form
