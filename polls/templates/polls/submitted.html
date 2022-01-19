@@ -24,7 +24,8 @@
 </body>
 
 <script>
-    var data2 = {{ map_data | safe}}
+    var cities = {{ cities_data | safe }}
+    var countries = {{ map_data | safe }}
     Highcharts.getJSON('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/world-population-density.json', function (data) {
 
     // Prevent logarithmic errors in color calulcation
@@ -86,7 +87,7 @@
         },
 
         series: [{
-            data: data2,
+            data: countries,
             joinBy: ['iso-a3', 'code3'],
             name: 'Population density',
             states: {
@@ -97,19 +98,7 @@
         }, {
             type: 'mappoint',
             name: 'Cities',
-            data: [{
-                name: 'London',
-                lat: 51.507222,
-                lon: -0.1275
-            }, {
-                name: 'Birmingham',
-                lat: 52.483056,
-                lon: -1.893611
-            }, {
-                name: 'Leeds',
-                lat: 53.799722,
-                lon: -1.549167
-            }]
+            data: cities
         },]
     });
 });

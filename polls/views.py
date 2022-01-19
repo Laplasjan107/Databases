@@ -8,10 +8,7 @@ from .forms import CityForm
 import pandas as pd
 
 
-def compute_result(form):
-    df_format = pd.read_json('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/world-population'
-                             '-density.json')
-    print(df_format)
+def country_values(form):
     my_data = []
     country = {}
     country['code3'] = "AFG"
@@ -19,17 +16,38 @@ def compute_result(form):
     country['value'] = 10
     country['code'] = "AF"
     my_data.append(country)
-    print(country)
-    country = {}
     country['code3'] = "ZWE"
     country['name'] = "Zimbabwe"
     country['value'] = 100
     country['code'] = "ZW"
-    print(country)
     my_data.append(country)
-    print(my_data)
     return my_data
     # pass  # tu bedzie obliczanie wyniku dla kazdego miasta
+
+
+def best_places(form):
+    my_data = []
+    place = {}
+    place['name'] = "London"
+    place['lat'] = 51.507222
+    place['lon'] = -0.1275
+    my_data.append(place)
+    place = {}
+    place['name'] = "Birmingham"
+    place['lat'] = 52.483056
+    place['lon'] = -1.893611
+    my_data.append(place)
+    place = {}
+    place['name'] = "Leeds"
+    place['lat'] = 53.799722
+    place['lon'] = -1.549167
+    my_data.append(place)
+    place = {}
+    place['name'] = "Myślenice"
+    place['lat'] = 49.83383
+    place['lon'] = 19.9383
+    my_data.append(place)
+    return my_data
 
 
 def get_name(request):
@@ -44,11 +62,9 @@ def get_name(request):
             countries_list = WorldHappiness.objects.all()
             # możemy sobie tak pobrać całą kolumnę
             # print(countries_list)
-            map_data = compute_result(form)
-            print("map data ")
-            print(map_data)
-            print('siup')
-            context = {'name': name, 'map_data': map_data}
+            map_data = country_values(form)
+            cities_data = best_places(form)
+            context = {'name': name, 'map_data': map_data, 'cities_data': cities_data}
             return render(request, 'polls/submitted.html', context)
 
     # if a GET (or any other method) we'll create a blank form
