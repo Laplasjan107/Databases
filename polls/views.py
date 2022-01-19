@@ -22,8 +22,7 @@ def get_name(request):
             countries_list = WorldHappiness.objects.all()
             # możemy sobie tak pobrać całą kolumnę
             # print(countries_list)
-            rendered = render(request, 'polls/submited.html', {'name': name}, {'languages': languages[0]})
-            return rendered
+            return render(request, 'polls/submitted.html', {'name': name})
 
     # if a GET (or any other method) we'll create a blank form
     else:
