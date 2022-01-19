@@ -29,6 +29,7 @@ class WorldCities(models.Model):
     latitude = models.FloatField(default=None, blank=True, null=True)
     longitude = models.FloatField(default=None, blank=True, null=True)
     country = models.CharField(max_length=200, default=None, blank=True, null=True)
+    # chyba iso3 do zostawienia, a country oraz iso2 do wywalenia
     iso2 = models.CharField(max_length=5, default=None, blank=True, null=True)
     iso3 = models.CharField(max_length=5, default=None, blank=True, null=True)
     admin_name = models.CharField(max_length=200, default=None, blank=True, null=True)
@@ -43,6 +44,7 @@ class WorldCities(models.Model):
 # CC0: Public Domain
 class InternetPrices(models.Model):
     city = models.CharField(max_length=200)
+    # zmiana country na iso3?
     country = models.CharField(max_length=200)
     price_usd = models.FloatField(default=None, blank=True, null=True)
 
@@ -65,6 +67,7 @@ class CountryReligion(models.Model):
 # CC0: Public Domain
 class AirWaterQuality(models.Model):
     city = models.CharField(max_length=200, null=False, blank=False)
+    # zmiana country na iso3?
     country = models.CharField(max_length=200, null=False, blank=False)
     air_quality = models.FloatField()
     water_quality = models.FloatField()

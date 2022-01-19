@@ -12,12 +12,12 @@ class CityForm(forms.Form):
     languages = forms.MultipleChoiceField(widget=forms.CheckboxSelectMultiple, choices = (
         ("1", "English"),
         ("2", "Spanish"),
-        ("3", "Portugese"),
+        ("3", "Portuguese"),
         ("4", "French"),
         ("5", "Polish"),
         ("6", "Romanian"),
         ("7", "Russian"),
-        ("8", "Ukrainian")), label = 'Which languages do you know?')
+        ("8", "Ukrainian")), label='Which languages do you know?')
     gdp_per_capita_importance = forms.IntegerField(label='How important is high gdp per capita?')
     continents = forms.MultipleChoiceField(widget=forms.CheckboxSelectMultiple, choices = (
         ("1", "Europe"),

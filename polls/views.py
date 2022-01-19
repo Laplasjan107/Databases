@@ -5,8 +5,10 @@ from django.template.loader import render_to_string
 from world_data.models import WorldHappiness
 from .forms import CityForm
 
+
 def compute_result(form):
-    pass #tu bedzie obliczanie wyniku dla kazdego miasta
+    pass  # tu bedzie obliczanie wyniku dla kazdego miasta
+
 
 def get_name(request):
     # if this is a POST request we need to process the form data
@@ -20,12 +22,11 @@ def get_name(request):
             countries_list = WorldHappiness.objects.all()
             # możemy sobie tak pobrać całą kolumnę
             # print(countries_list)
-            rendered = render(request, 'polls/submited.html', {'name': name}, {'languages': languages[0]}) 
+            rendered = render(request, 'polls/submited.html', {'name': name}, {'languages': languages[0]})
             return rendered
 
     # if a GET (or any other method) we'll create a blank form
     else:
         form = CityForm()
 
-    
     return render(request, 'polls/name.html', {'form': form})
