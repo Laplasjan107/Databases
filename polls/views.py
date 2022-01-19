@@ -16,10 +16,17 @@ def country_values(form):
     country['value'] = 10
     country['code'] = "AF"
     my_data.append(country)
+    country = {}
     country['code3'] = "ZWE"
     country['name'] = "Zimbabwe"
     country['value'] = 100
     country['code'] = "ZW"
+    my_data.append(country)
+    country = {}
+    country['code3'] = "POL"
+    country['name'] = "Poland"
+    country['value'] = 10000
+    country['code'] = "PL"
     my_data.append(country)
     return my_data
     # pass  # tu bedzie obliczanie wyniku dla kazdego miasta
