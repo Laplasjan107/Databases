@@ -49,10 +49,13 @@ def best_places(form):
     place['lat'] = 53.799722
     place['lon'] = -1.549167
     my_data.append(place)
+    # jak cos ten {} jest wazny, nwm czemu
     place = {}
     place['name'] = "Myślenice"
     place['lat'] = 49.83383
     place['lon'] = 19.9383
+    # mozna kolorowac miejsca od najlepszego
+    place['color'] = '#ff000f'
     my_data.append(place)
     return my_data
 
@@ -64,11 +67,9 @@ def get_name(request):
         form = CityForm(request.POST)
         if form.is_valid():
             name = form.cleaned_data['name']
-            languages = form.cleaned_data.get("languages")
             # z jakiegos powodu languages nie wypisuje sie do htmla, ale tutaj w kodzie mamy do niego dostep wiec nie ma problemu
             countries_list = WorldHappiness.objects.all()
             # możemy sobie tak pobrać całą kolumnę
-            # print(countries_list)
             map_data = country_values(form)
             cities_data = best_places(form)
             context = {'name': name, 'map_data': map_data, 'cities_data': cities_data}
