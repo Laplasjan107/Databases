@@ -24,6 +24,7 @@
 </body>
 
 <script>
+    var custom_title = "{{ title }}"
     var cities = {{ cities_data | safe }}
     var countries = {{ map_data | safe }}
     Highcharts.getJSON('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/world-population-density.json', function (data) {
@@ -41,7 +42,7 @@
         },
 
         title: {
-            text: 'Best places for you, ' + {{ name }}
+            text: custom_title
         },
 
         legend: {

@@ -70,9 +70,10 @@ def get_name(request):
             # z jakiegos powodu languages nie wypisuje sie do htmla, ale tutaj w kodzie mamy do niego dostep wiec nie ma problemu
             countries_list = WorldHappiness.objects.all()
             # możemy sobie tak pobrać całą kolumnę
+            title = "Best places for you, " + name
             map_data = country_values(form)
             cities_data = best_places(form)
-            context = {'name': name, 'map_data': map_data, 'cities_data': cities_data}
+            context = {'name': name, 'title': title, 'map_data': map_data, 'cities_data': cities_data}
             return render(request, 'polls/submitted.html', context)
 
     # if a GET (or any other method) we'll create a blank form
