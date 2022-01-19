@@ -16,17 +16,16 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.3.6/proj4.js"></script>
 </head>
 <body>
-    <p> Your name is {{name}} </p>
 
 
-<div id="container"></div>
+<div id="score_map"></div>
 
 </body>
 
 <script>
-    var custom_title = "{{ title }}"
-    var cities = {{ cities_data | safe }}
-    var countries = {{ map_data | safe }}
+    const custom_title = "{{ title }}"
+    const cities = {{ cities_data | safe }}
+    const countries = {{ map_data | safe }}
     Highcharts.getJSON('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/world-population-density.json', function (data) {
 
     // Prevent logarithmic errors in color calulcation
@@ -35,7 +34,7 @@
     });
 
     // Initialize the chart
-    Highcharts.mapChart('container', {
+    Highcharts.mapChart('score_map', {
 
         chart: {
             map: 'custom/world'

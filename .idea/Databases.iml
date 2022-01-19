@@ -25,6 +25,7 @@
     <orderEntry type="library" name="offline-exporting" level="application" />
     <orderEntry type="library" name="world" level="application" />
     <orderEntry type="library" name="flags32" level="application" />
+    <orderEntry type="library" name="proj4js" level="application" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
