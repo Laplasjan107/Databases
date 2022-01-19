@@ -24,6 +24,7 @@
 </body>
 
 <script>
+    var data2 = {{ map_data | safe}}
     Highcharts.getJSON('https://cdn.jsdelivr.net/gh/highcharts/highcharts@v7.0.0/samples/data/world-population-density.json', function (data) {
 
     // Prevent logarithmic errors in color calulcation
@@ -85,7 +86,7 @@
         },
 
         series: [{
-            data: data,
+            data: data2,
             joinBy: ['iso-a3', 'code3'],
             name: 'Population density',
             states: {
