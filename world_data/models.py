@@ -9,10 +9,11 @@ from django.db.models.signals import (
 # Create your models here.
 
 #
-from django.dispatch import receiver
 
 
 class WorldHappiness(models.Model):
+    # TODO: zmiana na iso?
+    country_iso = models.CharField(max_length=3, default=None, blank=True, null=True)
     country_name = models.CharField(max_length=200)
     year = models.IntegerField(default=None, blank=True, null=True)
     life_ladder = models.FloatField(default=None, blank=True, null=True)
@@ -49,7 +50,7 @@ class WorldCities(models.Model):
 # CC0: Public Domain
 class InternetPrices(models.Model):
     city = models.CharField(max_length=200)
-    # zmiana country na iso3?
+    # TODO: zmiana country na iso3?
     country = models.CharField(max_length=200)
     price_usd = models.FloatField(default=None, blank=True, null=True)
 
@@ -105,7 +106,7 @@ def check_has_any_iso(sender, instance, *args, **kwargs):
     if not instance.iso3 and not instance.iso2:
         raise Exception("No iso uploaded")
 
-    continent_codes = ["EU", "AS", "SA", "AF", "AS", "OC"]
+    continent_codes = ["EU", "AS", "SA", "NA", "AF", "AS", "OC"]
     if instance.iso2_continent and instance.iso2_continent not in continent_codes:
         raise Exception("Invalid continent iso")
 
