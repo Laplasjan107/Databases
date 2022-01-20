@@ -97,7 +97,6 @@ def check_has_any_quality(sender, instance, *args, **kwargs):
 
 
 
-
 @receiver(pre_save, sender=Iso)
 def check_has_any_iso(sender, instance, *args, **kwargs):
     if not instance.iso3 and not instance.iso2:

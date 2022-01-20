@@ -7,126 +7,153 @@ from world_data.models import WorldHappiness
 from world_data.models import WorldCities
 from world_data.models import AirWaterQuality
 from world_data.models import InternetPrices
+from world_data.models import Iso
 from .forms import CityForm
 
 import pandas as pd
 
 
+def res_freedom_country(country):
+    iso_tab = Iso.objects.filter(country=country).values_list('iso3', flat=True)
+    iso = iso_tab[0]
+    freedom_tab = WorldHappiness.objects.filter(country_iso=iso, year=2019).values_list('freedom_of_life_choices',
+                                                                                        flat=True)
+    if len(freedom_tab) == 0:
+        return 0.5
+    freedom = freedom_tab[0]
+    if freedom is None:
+        return 0.5
+    max_freedom_dict = WorldHappiness.objects.all().aggregate(Max('freedom_of_life_choices'))
+    min_freedom_dict = WorldHappiness.objects.all().aggregate(Min('freedom_of_life_choices'))
+    max_freedom = max_freedom_dict.get('freedom_of_life_choices__max')
+    min_freedom = min_freedom_dict.get('freedom_of_life_choices__min')
+
+    return (freedom - min_freedom) / (max_freedom - min_freedom)
+
+
+def res_gdp_country(country):
+    iso_tab = Iso.objects.filter(country=country).values_list('iso3', flat=True)
+    iso = iso_tab[0]
+    gdp_tab = WorldHappiness.objects.filter(country_iso=iso, year=2019).values_list('log_GDP_per_capita', flat=True)
+    if len(gdp_tab) == 0:
+        return 0.5
+    gdp = gdp_tab[0]
+    if gdp == None:
+        return 0.5
+    max_gdp_dict = WorldHappiness.objects.all().aggregate(Max('log_GDP_per_capita'))
+    min_gdp_dict = WorldHappiness.objects.all().aggregate(Min('log_GDP_per_capita'))
+    max_gdp = max_gdp_dict.get('log_GDP_per_capita__max')
+    min_gdp = min_gdp_dict.get('log_GDP_per_capita__min')
+    return (gdp - min_gdp) / (max_gdp - min_gdp)
+
+
+def compute_result_country(form, country):
+    results = {}
+    results['gdp_per_capita'] = res_gdp_country(country) * form.cleaned_data['gdp_per_capita_importance'] / 10
+    results['freedom'] = res_freedom_country(country) * form.cleaned_data['freedom_importance'] / 10
+    result = 0
+    for res in results:
+        result = result + results[res]
+    return result
+
+
 def country_values(form):
+    country_results = {}
+    country_list = Iso.objects.values_list('country', flat=True)
+    # licz = 0  #służy do debugowania żeby było 100 iteracji a nie 40000 bo to długo trwa
+    for country in country_list:
+        country_results[country] = compute_result_country(form, country)
+    sorted_countries = {k: v for k, v in sorted(country_results.items(), key=lambda item: item[1])}
+    best_countries = list(sorted_countries.keys())[
+                     (len(sorted_countries.keys()) - 50): (len(sorted_countries.keys()) - 1)]
+    print(best_countries)
     my_data = []
-    country = {}
-    country['code3'] = "AFG"
-    country['name'] = "Afganistan"
-    country['value'] = 10
-    country['code'] = "AF"
-    my_data.append(country)
-    country = {}
-    country['code3'] = "ZWE"
-    country['name'] = "Zimbabwe"
-    country['value'] = 100
-    country['code'] = "ZW"
-    my_data.append(country)
-    country = {}
-    country['code3'] = "POL"
-    country['name'] = "Poland"
-    country['value'] = 10000
-    country['code'] = "PL"
-    my_data.append(country)
+    for country in best_countries:
+        place = {}
+        place['name'] = country
+        place['value'] = country_results[country] * 1000
+        place['code3'] = Iso.objects.filter(country=country).values_list('iso3', flat=True)[0]
+        my_data.append(place)
     return my_data
 
-def res_city_size(city_size_optimal, city, city_data):
-    # na razie zrobiłam bez zakresów, ale to można zmienić potem idk
-    city_size = city_size['city']
-    if city_size is None:
-        return 0.5
-    max_size = joined_table.aggregate(maxval=Max('City size'))['maxval']
-    min_size = joined_table.aggregate(minval=Min('City size'))['minval']
-    return abs(city_size - city_size_optimal)/(max_size-min_size)
 
 def res_temperature(temperature_optimal, city, city_data, joined_table):
     city_temp = city_data['city']
     if city_temp is None:
         return 0.5
-    max_temp = joined_table.aggregate(maxval=Max('Temperature'))['maxval'] #to chyba jendak nie tak się robi ale jeszcze nie wiem 
+    max_temp = joined_table.aggregate(maxval=Max('Temperature'))[
+        'maxval']  # to chyba jendak nie tak się robi ale jeszcze nie wiem
     min_temp = joined_table.aggregate(minval=Min('Temperature'))['minval']
-    return abs(city_temp - temperature_optimal)/(max_temp-min_temp)
+    return abs(city_temp - temperature_optimal) / (max_temp - min_temp)
+
 
 def res_rental_costs(city, city_data, joined_table):
     rentals = city_data['rental costs']
     if rentals is None:
         return 0.5
     max_rentals = joined_table.aggregate(maxval=Max('Rental costs'))['maxval']
-    return rentals/max_rentals
+    return rentals / max_rentals
+
 
 def res_living_costs(city, city_data, joined_table):
     living = city_data['living costs']
     if living is None:
         return 0.5
     max_rentals = joined_table.aggregate(maxval=Max('Living costs'))['maxval']
-    return living/max_living
+    return living / max_rentals
+
 
 def res_gdp(city):
-    iso_tab = WorldCities.objects.filter(city = city).values_list('iso3', flat=True)
+    iso_tab = WorldCities.objects.filter(city=city).values_list('iso3', flat=True)
     iso = iso_tab[0]
-    '''print("iso: ")
-    print(iso)
-    print(WorldHappiness.objects.all())
-    print("row: ")
-    print(WorldHappiness.objects.filter(country_iso = iso))'''
-    gdp_tab = WorldHappiness.objects.filter(country_iso = iso, year = 2019).values_list('log_GDP_per_capita', flat = True)
+    gdp_tab = WorldHappiness.objects.filter(country_iso=iso, year=2019).values_list('log_GDP_per_capita', flat=True)
     if len(gdp_tab) == 0:
         return 0.5
     gdp = gdp_tab[0]
+    if gdp is None:
+        return 0.5
     max_gdp_dict = WorldHappiness.objects.all().aggregate(Max('log_GDP_per_capita'))
     min_gdp_dict = WorldHappiness.objects.all().aggregate(Min('log_GDP_per_capita'))
     max_gdp = max_gdp_dict.get('log_GDP_per_capita__max')
     min_gdp = min_gdp_dict.get('log_GDP_per_capita__min')
-    print("min gdp = " + str(min_gdp))
-    print("max gdp = " + str(max_gdp))
-    print("this gdp = ")
-    print(gdp)
-    return (gdp - min_gdp)/(max_gdp-min_gdp)
+
+    return (gdp - min_gdp) / (max_gdp - min_gdp)
+
 
 def res_air_pollution(city):
-    air_tab = AirWaterQuality.objects.filter(city = city).values_list('air_quality', flat = True)
+    air_tab = AirWaterQuality.objects.filter(city=city).values_list('air_quality', flat=True)
     if len(air_tab) == 0:
         return 0.5
     air = air_tab[0]
+    if air is None:
+        return 0.5
     max_air_dict = AirWaterQuality.objects.all().aggregate(Max('air_quality'))
     min_air_dict = AirWaterQuality.objects.all().aggregate(Min('air_quality'))
     max_air = max_air_dict.get('air_quality__max')
     min_air = min_air_dict.get('air_quality__min')
-    '''print("min air = " + str(min_air))
-    print("max air = " + str(max_air))
-    print("this air = ")
-    print(air)'''
-    return (max_air - air)/(max_air - min_air)
+    return (max_air - air) / (max_air - min_air)
+
 
 def res_freedom(city):
-    iso_tab = WorldCities.objects.filter(city = city).values_list('iso3', flat=True)
+    iso_tab = WorldCities.objects.filter(city=city).values_list('iso3', flat=True)
     iso = iso_tab[0]
-    '''print("iso: ")
-    print(iso)
-    print(WorldHappiness.objects.all())
-    print("row: ")
-    print(WorldHappiness.objects.filter(country_iso = iso))'''
-    freedom_tab = WorldHappiness.objects.filter(country_iso = iso, year = 2019).values_list('freedom_of_life_choices', flat = True)
+    freedom_tab = WorldHappiness.objects.filter(country_iso=iso, year=2019).values_list('freedom_of_life_choices',
+                                                                                        flat=True)
     if len(freedom_tab) == 0:
         return 0.5
     freedom = freedom_tab[0]
-    max_freedom_dict =  WorldHappiness.objects.all().aggregate(Max('freedom_of_life_choices'))
+    if not freedom:
+        return 0.5
+    max_freedom_dict = WorldHappiness.objects.all().aggregate(Max('freedom_of_life_choices'))
     min_freedom_dict = WorldHappiness.objects.all().aggregate(Min('freedom_of_life_choices'))
     max_freedom = max_freedom_dict.get('freedom_of_life_choices__max')
     min_freedom = min_freedom_dict.get('freedom_of_life_choices__min')
-    print("min gdp = " + str(min_freedom))
-    print("max gdp = " + str(max_freedom))
-    print("this gdp = ")
-    print(freedom)
-    return (freedom - min_freedom)/(max_freedom-min_freedom)
-    
- 
+
+    return (freedom - min_freedom) / (max_freedom - min_freedom)
+
+
 def res_internet_price(city):
-    price_tab = InternetPrices.objects.filter(city = city).values_list('price_usd', flat = True)
+    price_tab = InternetPrices.objects.filter(city=city).values_list('price_usd', flat=True)
     if len(price_tab) == 0:
         return 0.5
     price = price_tab[0]
@@ -134,21 +161,13 @@ def res_internet_price(city):
     min_price_dict = InternetPrices.objects.all().aggregate(Min('price_usd'))
     max_price = max_price_dict.get('price_usd__max')
     min_price = min_price_dict.get('price_usd__min')
-    '''print("min air = " + str(min_air))
-    print("max air = " + str(max_air))
-    print("this air = ")
-    print(air)'''
-    return (max_price - price)/(max_price - min_price)  
+
+    return (max_price - price) / (max_price - min_price)
 
 
 def compute_result(form, city):
-    # city_size_optimal, city_size_importance, temperature_optimal, temperature_importance, rental_costs_importance, living_costs_importance, pollution_importance, gdp_per_capita_importance, continents, continent_importance, air_pollution, freedom_importance, internet_price_importance 
+    # city_size_optimal, city_size_importance, temperature_optimal, temperature_importance, rental_costs_importance, living_costs_importance, pollution_importance, gdp_per_capita_importance, continents, continent_importance, air_pollution, freedom_importance, internet_price_importance
     results = {}
-    '''results['city_size'] = res_city_size(form.cleaned_data['city_size_optimal'], city, joined_table) * form.cleaned_data['city_size_importance'] / 10
-    results['temperature'] = res_temperature(form.cleaned_data['temperature_optimal'], city, joined_table) * form.cleaned_data['temperature_importance'] / 10
-    results['rental_costs'] = res_rental_costs(city, city_data) * form.cleaned_data['rental_costs_importance'] / 10
-    results['living_costs'] = res_living_costs(city, city_data) * form.cleaned_data['living_costs_importance'] / 10
-    results['pollution'] = res_pollution(city, city_data) * form.cleaned_data['pollution_importance'] / 10'''
     results['gdp_per_capita'] = res_gdp(city) * form.cleaned_data['gdp_per_capita_importance'] / 10
     # results['continent'] = res_continent(form.cleaned_data['continents'], city, joined_table) * form.cleaned_data['continent_importance'] / 10
     results['air_pollution'] = res_air_pollution(city) * form.cleaned_data['air_pollution_importance'] / 10
@@ -156,12 +175,10 @@ def compute_result(form, city):
     results['internet_price'] = res_internet_price(city) * form.cleaned_data['internet_price_importance'] / 10
     # resztę funkcji się najwyżej potem dopisze
     result = 0
-    print("results:")
-    print(results)
     for res in results:
         result = result + results[res]
     return result
- 
+
 
 def best_places(form):
     city_results = {}
@@ -173,45 +190,21 @@ def best_places(form):
             break'''
         city_results[city] = compute_result(form, city)
     sorted_cities = {k: v for k, v in sorted(city_results.items(), key=lambda item: item[1])}
-    print("sorted cities:")
-    print(sorted_cities)
-    best_cities = list(sorted_cities.keys())[0:20]
-    print(best_cities)
+
+    best_cities = list(sorted_cities.keys())[(len(sorted_cities.keys()) - 30): (len(sorted_cities.keys()) - 1)]
+
     my_data = []
     for city in best_cities:
         place = {}
         place['name'] = city
-        lat_tab = WorldCities.objects.filter(city = city).values_list('latitude', flat=True)
+        lat_tab = WorldCities.objects.filter(city=city).values_list('latitude', flat=True)
         lat = lat_tab[0]
         place['lat'] = lat
-        lon_tab = WorldCities.objects.filter(city = city).values_list('longitude', flat=True)
+        lon_tab = WorldCities.objects.filter(city=city).values_list('longitude', flat=True)
         lon = lon_tab[0]
         place['lon'] = lon
         my_data.append(place)
-    '''
-    my_data = []
-    place = {}
-    place['name'] = "London"
-    place['lat'] = 51.507222
-    place['lon'] = -0.1275
-    my_data.append(place)
-    place = {}
-    place['name'] = "Birmingham"
-    place['lat'] = 52.483056
-    place['lon'] = -1.893611
-    my_data.append(place)
-    place = {}
-    place['name'] = "Leeds"
-    place['lat'] = 53.799722
-    place['lon'] = -1.549167
-    my_data.append(place)
-    place = {}
-    place['name'] = "Myślenice"
-    place['lat'] = 49.83383
-    place['lon'] = 19.9383
-    # mozna kolorowac miejsca od najlepszego
-    place['color'] = '#ff000f'
-    my_data.append(place)'''
+
     return my_data
 
 
