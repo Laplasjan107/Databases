@@ -6,16 +6,24 @@ from django.db.models.signals import (
 )
 
 
-# Create your models here.
+# https://www.kaggle.com/timoboz/country-data?select=continent.json
+class Iso(models.Model):
+    country = models.CharField(max_length=200, default=None, primary_key=True)
+    iso2 = models.CharField(max_length=2, default=None, blank=True, null=True)
+    iso3 = models.CharField(max_length=3, default=None, blank=True, null=True, unique=True)
+    numeric = models.IntegerField(default=None, blank=True, null=True)
+    iso2_continent = models.CharField(max_length=2, null=True)
 
-#
+    def __str__(self):
+        return self.country
 
 
 # https://www.kaggle.com/juanmah/world-cities
 # Attribution 4.0 International (CC BY 4.0)
 class WorldCities(models.Model):
     city = models.CharField(max_length=200)
-    iso3 = models.CharField(max_length=5, default=None, blank=True, null=True)
+    iso3 = models.CharField(max_length=5, default=None, blank=True, null=False)
+    iso3_link = models.ForeignKey(Iso, null=False, on_delete=models.CASCADE)
     city_ascii = models.CharField(max_length=200, default=None, blank=True, null=True)
     latitude = models.FloatField(default=None, blank=True, null=True)
     longitude = models.FloatField(default=None, blank=True, null=True)
@@ -24,10 +32,12 @@ class WorldCities(models.Model):
     population = models.IntegerField(default=None, blank=True, null=True)
 
     def __str__(self):
-        return self.city + ", " + self.country
+        return self.city + ", " + self.iso3
+
 
 class WorldHappiness(models.Model):
     country_iso = models.CharField(max_length=3, blank=False, null=False)
+    iso3_link = models.ForeignKey(Iso, null=True, on_delete=models.CASCADE)
     year = models.IntegerField(default=None, blank=True, null=True)
     life_ladder = models.FloatField(default=None, blank=True, null=True)
     log_GDP_per_capita = models.FloatField(default=None, blank=True, null=True)
@@ -40,7 +50,7 @@ class WorldHappiness(models.Model):
     negative_affect = models.FloatField(default=None, blank=True, null=True)
 
     def __str__(self):
-        return self.country_name
+        return self.country_iso
 
 
 # https://www.kaggle.com/cityapiio/world-cities-average-internet-prices-2020
@@ -53,18 +63,6 @@ class InternetPrices(models.Model):
 
     def __str__(self):
         return self.city
-
-# https://www.kaggle.com/timoboz/country-data?select=continent.json
-class Iso(models.Model):
-    country = models.CharField(max_length=200, default=None, primary_key=True)
-    iso2 = models.CharField(max_length=2, default=None, blank=True, null=True)
-    iso3 = models.CharField(max_length=3, default=None, blank=True, null=True)
-    numeric = models.IntegerField(default=None, blank=True, null=True)
-    iso2_continent = models.CharField(max_length=2, null=True)
-
-    def __str__(self):
-        return self.country
-
 
 
 # https://ourworldindata.org/grapher/main-religion-of-the-country-in
