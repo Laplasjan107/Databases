@@ -1,9 +1,18 @@
 from django.db import models
+from django.conf import settings
+from django.dispatch import receiver
+from django.db.models.signals import (
+    pre_save
+)
 
 
 # Create your models here.
+User = settings.AUTH_USER_MODEL
 
 #
+from django.dispatch import receiver
+
+
 class WorldHappiness(models.Model):
     country_name = models.CharField(max_length=200)
     year = models.IntegerField(default=None, blank=True, null=True)
@@ -84,3 +93,13 @@ class Iso(models.Model):
     def __str__(self):
         return self.country
 
+
+# Trigger for iso table
+@receiver(pre_save, sender=Iso)
+def check_has_any_iso(sender, instance, *args, **kwargs):
+    if not instance.iso3 and not instance.iso2:
+        raise Exception("No iso uploaded")
+
+    continent_codes = ["EU", "AS", "SA", "AF", "AS", "OC"]
+    if instance.iso2_continent and instance.iso2_continent not in continent_codes:
+        raise Exception("Invalid continent iso")
