@@ -7,12 +7,18 @@ from django.contrib import messages
 from django.http import HttpResponseRedirect
 from django.urls import reverse
 
+import json
+
 from .models import WorldHappiness, WorldCities, \
     InternetPrices, CountryReligion, AirWaterQuality, Iso
 
 
 class CsvImportForm(forms.Form):
     csv_upload = forms.FileField()
+
+
+class JsonImportForm(forms.Form):
+    json_upload = forms.FileField()
 
 
 class WorldHappinessAdmin(admin.ModelAdmin):
@@ -278,7 +284,8 @@ class IsoAdmin(admin.ModelAdmin):
 
     def get_urls(self):
         urls = super().get_urls()
-        new_urls = [path('upload-csv/', self.upload_csv), ]
+        new_urls = [path('upload-csv/', self.upload_csv),
+                    path('upload-json/', self.upload_json)]
         return new_urls + urls
 
     def upload_csv(self, request):
@@ -298,7 +305,7 @@ class IsoAdmin(admin.ModelAdmin):
                 if skip > 0:
                     skip -= 1
                     continue
-                fields = x.split(",")
+                fields = x.split("\",")
 
                 fields_with_nulls = []
                 for field in fields:
@@ -321,6 +328,28 @@ class IsoAdmin(admin.ModelAdmin):
         form = CsvImportForm()
         data = {"form": form}
         return render(request, "admin/csv_upload.html", data)
+
+    def upload_json(self, request):
+        if request.method == "POST":
+            json_file = request.FILES["json_upload"]
+
+            if not json_file.name.endswith('.json'):
+                messages.warning(request, 'The wrong file type was uploaded')
+                return HttpResponseRedirect(request.path_info)
+
+
+            code_map = json.load(json_file)
+            for code in code_map:
+                try:
+                    updated = Iso.objects.filter(iso2__contains=code).update(iso2_continent=code_map[code])
+                except Exception:
+                    print("falied to update")
+            url = reverse('admin:index')
+            return HttpResponseRedirect(url)
+
+        form = JsonImportForm()
+        data = {"form": form}
+        return render(request, "admin/json_upload.html", data)
 
 
 # Register your models here.

@@ -81,6 +81,7 @@ class Iso(models.Model):
     iso2 = models.CharField(max_length=2, default=None, blank=True, null=True)
     iso3 = models.CharField(max_length=3, default=None, blank=True, null=True)
     numeric = models.IntegerField(default=None, blank=True, null=True)
+    iso2_continent = models.CharField(max_length=2, null=True)
 
     def __str__(self):
         return self.country
