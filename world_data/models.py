@@ -27,7 +27,7 @@ class WorldCities(models.Model):
         return self.city + ", " + self.country
 
 class WorldHappiness(models.Model):
-    country_iso = models.ForeignKey(WorldCities, on_delete=models.CASCADE, max_length=3, blank=False, null=False)
+    country_iso = models.CharField(max_length=3, blank=False, null=False)
     year = models.IntegerField(default=None, blank=True, null=True)
     life_ladder = models.FloatField(default=None, blank=True, null=True)
     log_GDP_per_capita = models.FloatField(default=None, blank=True, null=True)
@@ -43,11 +43,10 @@ class WorldHappiness(models.Model):
         return self.country_name
 
 
-
 # https://www.kaggle.com/cityapiio/world-cities-average-internet-prices-2020
 # CC0: Public Domain
 class InternetPrices(models.Model):
-    city = models.ForeignKey(WorldCities, on_delete=models.CASCADE, max_length=200)
+    city = models.CharField(max_length=200)
     # TODO: zmiana country na iso3?
     country = models.CharField(max_length=200)
     price_usd = models.FloatField(default=None, blank=True, null=True)
@@ -71,7 +70,7 @@ class Iso(models.Model):
 # https://ourworldindata.org/grapher/main-religion-of-the-country-in
 # Creative Commons BY license.
 class CountryReligion(models.Model):
-    iso3 = models.ForeignKey(Iso, on_delete=models.CASCADE, max_length=3, null=False, blank=False)
+    iso3 = models.CharField(max_length=3, null=False, blank=False)
     year = models.IntegerField(default=None, blank=True, null=True)
     main_religion = models.CharField(max_length=200, null=False, blank=False)
 
@@ -82,7 +81,7 @@ class CountryReligion(models.Model):
 # https://www.kaggle.com/cityapiio/world-cities-air-quality-and-water-polution
 # CC0: Public Domain
 class AirWaterQuality(models.Model):
-    city = models.ForeignKey(WorldCities, on_delete=models.CASCADE, max_length=200, null=False, blank=False)
+    city = models.CharField(max_length=200, null=False, blank=False)
     # TODO: zmiana country na iso3?
     country = models.CharField(max_length=200, null=False, blank=False)
     air_quality = models.FloatField(null=True, blank=True)

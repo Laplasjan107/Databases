@@ -353,9 +353,9 @@ class IsoAdmin(admin.ModelAdmin):
 
 
 # Register your models here.
-admin.site.register(WorldHappiness, WorldHappinessAdmin)
-admin.site.register(WorldCities, WorldCitiesAdmin)
-admin.site.register(InternetPrices, InternetPricesAdmin)
-admin.site.register(CountryReligion, CountryReligionAdmin)
-admin.site.register(AirWaterQuality, AirWaterQualityAdmin)
-admin.site.register(Iso, IsoAdmin)
+admin.site.register(WorldHappiness)
+admin.site.register(WorldCities)
+admin.site.register(InternetPrices)
+admin.site.register(CountryReligion)
+admin.site.register(AirWaterQuality)
+admin.site.register(Iso)
