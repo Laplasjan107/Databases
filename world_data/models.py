@@ -25,13 +25,10 @@ class WorldHappiness(models.Model):
 # Attribution 4.0 International (CC BY 4.0)
 class WorldCities(models.Model):
     city = models.CharField(max_length=200)
+    iso3 = models.CharField(max_length=5, default=None, blank=True, null=True)
     city_ascii = models.CharField(max_length=200, default=None, blank=True, null=True)
     latitude = models.FloatField(default=None, blank=True, null=True)
     longitude = models.FloatField(default=None, blank=True, null=True)
-    country = models.CharField(max_length=200, default=None, blank=True, null=True)
-    # chyba iso3 do zostawienia, a country oraz iso2 do wywalenia
-    iso2 = models.CharField(max_length=5, default=None, blank=True, null=True)
-    iso3 = models.CharField(max_length=5, default=None, blank=True, null=True)
     admin_name = models.CharField(max_length=200, default=None, blank=True, null=True)
     capital = models.CharField(max_length=200, default=None, blank=True, null=True)
     population = models.IntegerField(default=None, blank=True, null=True)
@@ -76,6 +73,7 @@ class AirWaterQuality(models.Model):
         return self.city + ", " + self.country
 
 
+# https://www.kaggle.com/timoboz/country-data?select=continent.json
 class Iso(models.Model):
     country = models.CharField(max_length=200, default=None, primary_key=True)
     iso2 = models.CharField(max_length=2, default=None, blank=True, null=True)
