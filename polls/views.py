@@ -6,6 +6,7 @@ from django.db.models import Max, Min
 from world_data.models import WorldHappiness
 from world_data.models import WorldCities
 from world_data.models import AirWaterQuality
+from world_data.models import InternetPrices
 from .forms import CityForm
 
 import pandas as pd
@@ -123,7 +124,21 @@ def res_freedom(city):
     print(freedom)
     return (freedom - min_freedom)/(max_freedom-min_freedom)
     
-    
+ 
+def res_internet_price(city):
+    price_tab = InternetPrices.objects.filter(city = city).values_list('price_usd', flat = True)
+    if len(price_tab) == 0:
+        return 0.5
+    price = price_tab[0]
+    max_price_dict = InternetPrices.objects.all().aggregate(Max('price_usd'))
+    min_price_dict = InternetPrices.objects.all().aggregate(Min('price_usd'))
+    max_price = max_price_dict.get('price_usd__max')
+    min_price = min_price_dict.get('price_usd__min')
+    '''print("min air = " + str(min_air))
+    print("max air = " + str(max_air))
+    print("this air = ")
+    print(air)'''
+    return (max_price - price)/(max_price - min_price)  
 
 
 def compute_result(form, city):
@@ -138,7 +153,7 @@ def compute_result(form, city):
     # results['continent'] = res_continent(form.cleaned_data['continents'], city, joined_table) * form.cleaned_data['continent_importance'] / 10
     results['air_pollution'] = res_air_pollution(city) * form.cleaned_data['air_pollution_importance'] / 10
     results['freedom'] = res_freedom(city) * form.cleaned_data['freedom_importance'] / 10
-    #results['internet_price'] = res_internet_price(city) * form.cleaned_data['internet_price_importance'] / 10
+    results['internet_price'] = res_internet_price(city) * form.cleaned_data['internet_price_importance'] / 10
     # resztę funkcji się najwyżej potem dopisze
     result = 0
     print("results:")
@@ -160,7 +175,7 @@ def best_places(form):
     sorted_cities = {k: v for k, v in sorted(city_results.items(), key=lambda item: item[1])}
     print("sorted cities:")
     print(sorted_cities)
-    best_cities = list(sorted_cities.keys())[0:10]
+    best_cities = list(sorted_cities.keys())[0:20]
     print(best_cities)
     my_data = []
     for city in best_cities:
