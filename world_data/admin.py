@@ -22,7 +22,7 @@ class JsonImportForm(forms.Form):
 
 
 class WorldHappinessAdmin(admin.ModelAdmin):
-    list_display = ('country_name',)
+    list_display = ('country_iso',)
 
     def get_urls(self):
         urls = super().get_urls()

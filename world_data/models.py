@@ -12,9 +12,7 @@ from django.db.models.signals import (
 
 
 class WorldHappiness(models.Model):
-    # TODO: zmiana na iso?
-    country_iso = models.CharField(max_length=3, default=None, blank=True, null=True)
-    country_name = models.CharField(max_length=200)
+    country_iso = models.CharField(max_length=3, blank=False, null=False)
     year = models.IntegerField(default=None, blank=True, null=True)
     life_ladder = models.FloatField(default=None, blank=True, null=True)
     log_GDP_per_capita = models.FloatField(default=None, blank=True, null=True)
