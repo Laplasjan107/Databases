@@ -7,7 +7,6 @@ from django.db.models.signals import (
 
 
 # Create your models here.
-User = settings.AUTH_USER_MODEL
 
 #
 from django.dispatch import receiver
@@ -73,13 +72,20 @@ class CountryReligion(models.Model):
 # CC0: Public Domain
 class AirWaterQuality(models.Model):
     city = models.CharField(max_length=200, null=False, blank=False)
-    # zmiana country na iso3?
+    # TODO: zmiana country na iso3?
     country = models.CharField(max_length=200, null=False, blank=False)
-    air_quality = models.FloatField()
-    water_quality = models.FloatField()
+    air_quality = models.FloatField(null=True, blank=True)
+    water_quality = models.FloatField(null=True, blank=True)
 
     def __str__(self):
         return self.city + ", " + self.country
+
+
+# Trigger for iso table
+@receiver(pre_save, sender=AirWaterQuality)
+def check_has_any_quality(sender, instance, *args, **kwargs):
+    if not instance.air_quality and not instance.water_quality:
+        raise Exception("Neither water, nor air quality specified")
 
 
 # https://www.kaggle.com/timoboz/country-data?select=continent.json
@@ -94,7 +100,6 @@ class Iso(models.Model):
         return self.country
 
 
-# Trigger for iso table
 @receiver(pre_save, sender=Iso)
 def check_has_any_iso(sender, instance, *args, **kwargs):
     if not instance.iso3 and not instance.iso2:
@@ -103,3 +108,4 @@ def check_has_any_iso(sender, instance, *args, **kwargs):
     continent_codes = ["EU", "AS", "SA", "AF", "AS", "OC"]
     if instance.iso2_continent and instance.iso2_continent not in continent_codes:
         raise Exception("Invalid continent iso")
+
